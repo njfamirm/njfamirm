@@ -3,7 +3,7 @@ name: Readme Scribe
 on:
   push:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   markscribe:
