@@ -23,8 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: 'chore: update readme automatically'
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: actions-user
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: actions-user <actions@github.com>
