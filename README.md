@@ -5,11 +5,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 day ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (1 day ago)
-- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (1 day ago)
-- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (2 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 day ago)
+- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (2 days ago)
+- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (2 days ago)
+- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (3 days ago)
 
 #### ☂️ My latest projects
 
@@ -21,32 +21,33 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.24.1](https://github.com/AliMD/alwatr/releases/tag/v0.24.1), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.25.0](https://github.com/AliMD/alwatr/releases/tag/v0.25.0), 1 day ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([lit@2.4.1](https://github.com/lit/lit/releases/tag/lit%402.4.1), 1 month ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 8 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [Revert &#34;feat: add not found page and frequently used links&#34;](https://github.com/njfamirm/njfamirm.ir/pull/67) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
-- [feat: add post page](https://github.com/njfamirm/njfamirm.ir/pull/66) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
-- [feat(service/commenting): new microservice](https://github.com/AliMD/alwatr/pull/459) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(logger): log incident in production mode](https://github.com/AliMD/alwatr/pull/458) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [update all config](https://github.com/njfamirm/njfamirm.ir/pull/76) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat: tsconfig &amp; other config](https://github.com/AliMD/alwatr/pull/474) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [refactor: folder structure](https://github.com/AliMD/alwatr/pull/472) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [Release: v0.25.0](https://github.com/AliMD/alwatr/pull/471) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(vscode): update extesnion recommendation](https://github.com/AliMD/flight-finder/pull/61) on [AliMD/flight-finder](https://github.com/AliMD/flight-finder) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (1 month ago)
-- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (3 months ago)
+- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (2 months ago)
+- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (4 months ago)
 - [simple Dockerfile for create debian image with your own configurations!](https://gist.github.com/cfe714a8c5ea994d53caacf3eeb3ff6c) (8 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (9 months ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [Alwatr/Starter-Kit](https://github.com/Alwatr/Starter-Kit) - Best Practices of Progressive Web Application for Client and Cloud Native Applications for Nanoservices. (1 day ago)
-- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository (2 days ago)
-- [martinbeentjes/npm-get-version-action](https://github.com/martinbeentjes/npm-get-version-action) - This Action scans for a package.json file and reads the version number from that. (2 days ago)
-- [bahmutov/npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration (2 days ago)
-- [Decathlon/wiki-page-creator-action](https://github.com/Decathlon/wiki-page-creator-action) - Create a GitHub wiki page based on the provided markdown file (2 days ago)
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format (1 day ago)
+- [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository (1 day ago)
+- [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories. (1 day ago)
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired) (1 day ago)
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. (1 day ago)
 
 #### ♥️ Check out some of my recent followers
 
