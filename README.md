@@ -6,10 +6,10 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 day ago)
-- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (2 days ago)
-- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (2 days ago)
-- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (3 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 days ago)
+- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (3 days ago)
+- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (3 days ago)
+- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (4 days ago)
 
 #### ☂️ My latest projects
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.25.0](https://github.com/AliMD/alwatr/releases/tag/v0.25.0), 1 day ago) - The Alwatr Library
-- [lit/lit](https://github.com/lit/lit) ([lit@2.4.1](https://github.com/lit/lit/releases/tag/lit%402.4.1), 1 month ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([@lit-labs/gen-wrapper-react@0.2.2](https://github.com/lit/lit/releases/tag/%40lit-labs/gen-wrapper-react%400.2.2), 1 day ago) - Lit is a simple library for building fast, lightweight web components.
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.25.0](https://github.com/AliMD/alwatr/releases/tag/v0.25.0), 2 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 8 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [update all config](https://github.com/njfamirm/njfamirm.ir/pull/76) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
-- [feat: tsconfig &amp; other config](https://github.com/AliMD/alwatr/pull/474) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [refactor: folder structure](https://github.com/AliMD/alwatr/pull/472) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [Release: v0.25.0](https://github.com/AliMD/alwatr/pull/471) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(vscode): update extesnion recommendation](https://github.com/AliMD/flight-finder/pull/61) on [AliMD/flight-finder](https://github.com/AliMD/flight-finder) (1 day ago)
+- [update all config](https://github.com/njfamirm/njfamirm.ir/pull/76) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
+- [feat: tsconfig &amp; other config](https://github.com/AliMD/alwatr/pull/474) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [refactor: folder structure](https://github.com/AliMD/alwatr/pull/472) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [Release: v0.25.0](https://github.com/AliMD/alwatr/pull/471) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(vscode): update extesnion recommendation](https://github.com/AliMD/flight-finder/pull/61) on [AliMD/flight-finder](https://github.com/AliMD/flight-finder) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [google/brotli](https://github.com/google/brotli) - Brotli compression format (1 day ago)
-- [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository (1 day ago)
-- [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories. (1 day ago)
-- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired) (1 day ago)
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. (1 day ago)
+- [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator. (1 day ago)
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format (2 days ago)
+- [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository (2 days ago)
+- [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories. (2 days ago)
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired) (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
