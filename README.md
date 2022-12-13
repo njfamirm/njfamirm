@@ -5,11 +5,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (today)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (6 days ago)
-- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (6 days ago)
-- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (1 week ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
+- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (1 week ago)
+- [njfamirm/markdown-to-html](https://github.com/njfamirm/markdown-to-html) - Generate metadata and html file from markdown file! (1 week ago)
 
 #### ☂️ My latest projects
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([@lit-labs/gen-wrapper-react@0.2.2](https://github.com/lit/lit/releases/tag/%40lit-labs/gen-wrapper-react%400.2.2), 4 days ago) - Lit is a simple library for building fast, lightweight web components.
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.25.0](https://github.com/AliMD/alwatr/releases/tag/v0.25.0), 5 days ago) - The Alwatr Library
+- [lit/lit](https://github.com/lit/lit) ([@lit-labs/gen-wrapper-react@0.2.2](https://github.com/lit/lit/releases/tag/%40lit-labs/gen-wrapper-react%400.2.2), 5 days ago) - Lit is a simple library for building fast, lightweight web components.
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.25.0](https://github.com/AliMD/alwatr/releases/tag/v0.25.0), 6 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 8 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat: workbox](https://github.com/njfamirm/njfamirm.ir/pull/79) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
-- [feat: esbuild (:](https://github.com/AliMD/alwatr/pull/491) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(services/telegram-notifier): dynamic storage path](https://github.com/AliMD/alwatr/pull/489) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat: improve pwa configs](https://github.com/njfamirm/njfamirm.ir/pull/78) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
-- [update all config](https://github.com/njfamirm/njfamirm.ir/pull/76) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (5 days ago)
+- [feat: cleanup](https://github.com/njfamirm/njfamirm.ir/pull/80) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat: workbox](https://github.com/njfamirm/njfamirm.ir/pull/79) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
+- [feat: esbuild (:](https://github.com/AliMD/alwatr/pull/491) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(services/telegram-notifier): dynamic storage path](https://github.com/AliMD/alwatr/pull/489) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat: improve pwa configs](https://github.com/njfamirm/njfamirm.ir/pull/78) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project (1 day ago)
-- [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App (1 day ago)
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (2 days ago)
-- [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps (2 days ago)
-- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev (2 days ago)
+- [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project (2 days ago)
+- [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App (2 days ago)
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (3 days ago)
+- [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps (3 days ago)
+- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev (3 days ago)
 
 #### ♥️ Check out some of my recent followers
 
