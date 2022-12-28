@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 week ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (3 weeks ago)
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (3 weeks ago)
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.26.0](https://github.com/AliMD/alwatr/releases/tag/v0.26.0), 5 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.26.0](https://github.com/AliMD/alwatr/releases/tag/v0.26.0), 6 days ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/virtualizer@1.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/virtualizer%401.0.1), 1 week ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 9 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix: encrypt cloud/libs](https://github.com/AliMD/alwatr/pull/567) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(.gituhb): enable workflow on all branches](https://github.com/AliMD/alwatr/pull/558) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(flight-crawler): min&amp;max hour in make message](https://github.com/AliMD/alwatr/pull/555) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(ff-deploy): depend on](https://github.com/AliMD/alwatr/pull/554) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(element): export lit](https://github.com/AliMD/alwatr/pull/551) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [fix: encrypt cloud/libs](https://github.com/AliMD/alwatr/pull/567) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(.gituhb): enable workflow on all branches](https://github.com/AliMD/alwatr/pull/558) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(flight-crawler): min&amp;max hour in make message](https://github.com/AliMD/alwatr/pull/555) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(ff-deploy): depend on](https://github.com/AliMD/alwatr/pull/554) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(element): export lit](https://github.com/AliMD/alwatr/pull/551) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. (1 day ago)
-- [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser (1 day ago)
-- [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀 (1 day ago)
-- [google/playground-elements](https://github.com/google/playground-elements) - Serverless coding environments for the web. (1 day ago)
-- [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS). (1 day ago)
+- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (1 day ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 day ago)
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (1 day ago)
+- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. (2 days ago)
+- [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
