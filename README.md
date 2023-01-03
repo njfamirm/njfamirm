@@ -5,10 +5,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 weeks ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
-- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (3 weeks ago)
+- [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 weeks ago)
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (4 weeks ago)
 
 #### ☂️ My latest projects
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.27.0](https://github.com/AliMD/alwatr/releases/tag/v0.27.0), 4 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.27.0](https://github.com/AliMD/alwatr/releases/tag/v0.27.0), 5 days ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/virtualizer@1.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/virtualizer%401.0.1), 2 weeks ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 9 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(type): com types](https://github.com/AliMD/alwatr/pull/607) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(validator): use in services](https://github.com/AliMD/alwatr/pull/604) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(chat): signal](https://github.com/AliMD/alwatr/pull/602) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(type): chat](https://github.com/AliMD/alwatr/pull/600) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(type): define chat type](https://github.com/AliMD/alwatr/pull/592) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [refactor(ff-*): move job types to @alwatr/type](https://github.com/AliMD/alwatr/pull/613) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [refactor: export package uniqe types from own](https://github.com/AliMD/alwatr/pull/611) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-api): routes](https://github.com/AliMD/alwatr/pull/610) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(type): com types](https://github.com/AliMD/alwatr/pull/607) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(validator): use in services](https://github.com/AliMD/alwatr/pull/604) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,9 +42,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (6 days ago)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (6 days ago)
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (6 days ago)
+- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (1 week ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (1 week ago)
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing. (1 week ago)
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser (1 week ago)
 
