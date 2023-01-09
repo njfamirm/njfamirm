@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (5 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (1 month ago)
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) -  (1 month ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-api): routes](https://github.com/AliMD/alwatr/pull/627) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat: migrate yarn to v4](https://github.com/AliMD/alwatr/pull/625) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(nano-server): default access token](https://github.com/AliMD/alwatr/pull/624) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(type): new types](https://github.com/AliMD/alwatr/pull/621) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [refactor(ff-*): move job types to @alwatr/type](https://github.com/AliMD/alwatr/pull/613) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(page-home): add about](https://github.com/njfamirm/njfamirm.ir/pull/104) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat(com-api): routes](https://github.com/AliMD/alwatr/pull/627) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat: migrate yarn to v4](https://github.com/AliMD/alwatr/pull/625) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(nano-server): default access token](https://github.com/AliMD/alwatr/pull/624) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(type): new types](https://github.com/AliMD/alwatr/pull/621) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,10 +42,10 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (3 days ago)
-- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (3 days ago)
-- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool (5 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (4 days ago)
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (4 days ago)
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool (6 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (1 week ago)
 
 #### ♥️ Check out some of my recent followers
