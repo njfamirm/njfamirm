@@ -5,10 +5,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 day ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 days ago)
+- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (5 days ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 weeks ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (1 month ago)
 
 #### ☂️ My latest projects
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([@lit-labs/testing@0.2.0](https://github.com/lit/lit/releases/tag/%40lit-labs/testing%400.2.0), 3 days ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([lit@2.6.1](https://github.com/lit/lit/releases/tag/lit%402.6.1), 1 day ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.27.0](https://github.com/AliMD/alwatr/releases/tag/v0.27.0), 2 weeks ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 9 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(photo-server) : new microservice](https://github.com/AliMD/alwatr/pull/635) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(type): storage id in AlwatrStorageMeta ](https://github.com/AliMD/alwatr/pull/630) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(page-home): add about](https://github.com/njfamirm/njfamirm.ir/pull/104) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (4 days ago)
-- [feat(com-api): routes](https://github.com/AliMD/alwatr/pull/627) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat: migrate yarn to v4](https://github.com/AliMD/alwatr/pull/625) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [fea(form): new micro service](https://github.com/AliMD/alwatr/pull/648) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(photo-server) : new microservice](https://github.com/AliMD/alwatr/pull/635) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(type): storage id in AlwatrStorageMeta ](https://github.com/AliMD/alwatr/pull/630) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(page-home): add about](https://github.com/njfamirm/njfamirm.ir/pull/104) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (5 days ago)
+- [feat(com-api): routes](https://github.com/AliMD/alwatr/pull/627) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [jalaali/moment-jalaali](https://github.com/jalaali/moment-jalaali) - A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. (1 day ago)
-- [radiantly/live-countdown-bot](https://github.com/radiantly/live-countdown-bot) - A discord bot that counts down to an event. Used in 60k&#43; servers. (1 day ago)
-- [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS (3 days ago)
-- [grammyjs/types](https://github.com/grammyjs/types) - Types for the Telegram Bot API (3 days ago)
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 week ago)
+- [KnorpelSenf/typegram](https://github.com/KnorpelSenf/typegram) - TypeScript types for the entire Telegram Bot API (1 day ago)
+- [nitreojs/puregram](https://github.com/nitreojs/puregram) - powerful and modern telegram bot api sdk for node.js and typescript 😁 (1 day ago)
+- [jalaali/moment-jalaali](https://github.com/jalaali/moment-jalaali) - A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. (2 days ago)
+- [radiantly/live-countdown-bot](https://github.com/radiantly/live-countdown-bot) - A discord bot that counts down to an event. Used in 60k&#43; servers. (2 days ago)
+- [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS (4 days ago)
 
 #### ♥️ Check out some of my recent followers
 
