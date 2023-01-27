@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (6 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 weeks ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (1 month ago)
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 1 week ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 1 week ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 10 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(ui-kit/toast): new component](https://github.com/AliMD/alwatr/pull/719) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(alwatr-util): new core package](https://github.com/AliMD/alwatr/pull/717) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(salavat): deploy](https://github.com/AliMD/alwatr/pull/712) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(soffit-pwa): server deploy issues](https://github.com/AliMD/alwatr/pull/711) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(cloud): soffit form deploy](https://github.com/AliMD/alwatr/pull/704) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(ui-kit/image-box): new element](https://github.com/AliMD/alwatr/pull/721) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(ui-kit/toast): new component](https://github.com/AliMD/alwatr/pull/719) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(alwatr-util): new core package](https://github.com/AliMD/alwatr/pull/717) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(salavat): deploy](https://github.com/AliMD/alwatr/pull/712) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(soffit-pwa): server deploy issues](https://github.com/AliMD/alwatr/pull/711) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,8 +43,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (3 days ago)
+- [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (3 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (4 days ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (1 week ago)
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (1 week ago)
 - [KnorpelSenf/typegram](https://github.com/KnorpelSenf/typegram) - TypeScript types for the entire Telegram Bot API (2 weeks ago)
