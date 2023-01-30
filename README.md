@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 weeks ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(dcd-crawler): new nano service](https://github.com/AliMD/alwatr/pull/729) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(dcd-api): new api microservice](https://github.com/AliMD/alwatr/pull/728) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(dcd-notifier): starter from telegram notifier](https://github.com/AliMD/alwatr/pull/727) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat:(day-countdown): telegram-bot, api, crawler](https://github.com/AliMD/alwatr/pull/726) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(ui-kit/image-box): new element](https://github.com/AliMD/alwatr/pull/721) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(i18n): review](https://github.com/AliMD/alwatr/pull/734) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(dcd-crawler): new nano service](https://github.com/AliMD/alwatr/pull/729) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(dcd-api): new api microservice](https://github.com/AliMD/alwatr/pull/728) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(dcd-notifier): starter from telegram notifier](https://github.com/AliMD/alwatr/pull/727) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat:(day-countdown): telegram-bot, api, crawler](https://github.com/AliMD/alwatr/pull/726) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,10 +43,10 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (6 days ago)
+- [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (6 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (1 week ago)
-- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (1 week ago)
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (2 weeks ago)
 - [KnorpelSenf/typegram](https://github.com/KnorpelSenf/typegram) - TypeScript types for the entire Telegram Bot API (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
