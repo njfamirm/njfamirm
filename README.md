@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 weeks ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(soffit-pwa): new card](https://github.com/AliMD/alwatr/pull/752) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(dcd-bot): new telegram bot](https://github.com/AliMD/alwatr/pull/745) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(i18n): review](https://github.com/AliMD/alwatr/pull/734) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(dcd-crawler): new nano service](https://github.com/AliMD/alwatr/pull/729) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(dcd-api): new api microservice](https://github.com/AliMD/alwatr/pull/728) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(form-registration): get storage name in query params](https://github.com/AliMD/alwatr/pull/760) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(pwa-helper): get config](https://github.com/AliMD/alwatr/pull/759) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(soffit-pwa): agency page](https://github.com/AliMD/alwatr/pull/758) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(pwa-helper): PwaElement on route/locale change](https://github.com/AliMD/alwatr/pull/757) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(soffit-pwa): svg logo](https://github.com/AliMD/alwatr/pull/756) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (2 days ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (3 days ago)
 - [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (2 weeks ago)
-- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
