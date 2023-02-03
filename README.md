@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 weeks ago)
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 1 week ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 2 weeks ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 2 weeks ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 10 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(form-registration): get storage name in query params](https://github.com/AliMD/alwatr/pull/760) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(pwa-helper): get config](https://github.com/AliMD/alwatr/pull/759) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(soffit-pwa): agency page](https://github.com/AliMD/alwatr/pull/758) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(pwa-helper): PwaElement on route/locale change](https://github.com/AliMD/alwatr/pull/757) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(soffit-pwa): svg logo](https://github.com/AliMD/alwatr/pull/756) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(form-registration): get storage name in query params](https://github.com/AliMD/alwatr/pull/760) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(pwa-helper): get config](https://github.com/AliMD/alwatr/pull/759) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(soffit-pwa): agency page](https://github.com/AliMD/alwatr/pull/758) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(pwa-helper): PwaElement on route/locale change](https://github.com/AliMD/alwatr/pull/757) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(soffit-pwa): svg logo](https://github.com/AliMD/alwatr/pull/756) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,8 +43,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (3 days ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (2 days ago)
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (4 days ago)
 - [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (2 weeks ago)
