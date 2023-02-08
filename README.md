@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (today)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
-- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 weeks ago)
+- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (2 months ago)
 
@@ -22,20 +22,20 @@ Open source lover!
 #### 🎉 Latest releases I've contributed to
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 2 weeks ago) - The Alwatr Library
-- [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 2 weeks ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 3 weeks ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 10 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(soffit-pwa): new version with i18n, content loader, form submit signal](https://github.com/AliMD/alwatr/pull/769) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(soffit-pwa): i18n loader](https://github.com/AliMD/alwatr/pull/768) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(icon): enhance preload, support `icon-url-prefix` context signal](https://github.com/AliMD/alwatr/pull/782) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(element): logger mixin issue](https://github.com/AliMD/alwatr/pull/781) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (2 weeks ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (3 weeks ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (4 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (6 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (11 months ago)
@@ -43,8 +43,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (6 days ago)
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (1 week ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 week ago)
+- [github-star-history-1/star-history](https://github.com/github-star-history-1/star-history) - The missing star history graph of GitHub repos - https://star-history.com (1 week ago)
 - [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (2 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (2 weeks ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (3 weeks ago)
