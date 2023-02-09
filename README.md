@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (today)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 weeks ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(icon): enhance preload, support `icon-url-prefix` context signal](https://github.com/AliMD/alwatr/pull/782) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(element): logger mixin issue](https://github.com/AliMD/alwatr/pull/781) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(icon): enhance preload, support `icon-url-prefix` context signal](https://github.com/AliMD/alwatr/pull/782) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(element): logger mixin issue](https://github.com/AliMD/alwatr/pull/781) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,7 +44,7 @@ Open source lover!
 #### ⭐ Recent Stars
 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 week ago)
-- [github-star-history-1/star-history](https://github.com/github-star-history-1/star-history) - The missing star history graph of GitHub repos - https://star-history.com (1 week ago)
+- [github-star-history/star-history](https://github.com/github-star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (1 week ago)
 - [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (2 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (2 weeks ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (3 weeks ago)
