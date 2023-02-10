@@ -7,7 +7,7 @@ Open source lover!
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
-- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 weeks ago)
+- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (2 months ago)
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 2 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.28.0](https://github.com/AliMD/alwatr/releases/tag/v0.28.0), 3 weeks ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 3 weeks ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 10 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(icon): enhance preload, support `icon-url-prefix` context signal](https://github.com/AliMD/alwatr/pull/782) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(element): logger mixin issue](https://github.com/AliMD/alwatr/pull/781) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(icon): enhance preload, support `icon-url-prefix` context signal](https://github.com/AliMD/alwatr/pull/782) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(element): logger mixin issue](https://github.com/AliMD/alwatr/pull/781) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(form-registration): remoteAddress and deviceId](https://github.com/AliMD/alwatr/pull/775) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(form-registration): deviceId, remoteAddress](https://github.com/AliMD/alwatr/pull/774) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(math): uuid](https://github.com/AliMD/alwatr/pull/773) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
