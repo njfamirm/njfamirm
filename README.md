@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(form-registration-pwa): new pwa](https://github.com/AliMD/alwatr/pull/833) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(com-pwa): dynamic product storage](https://github.com/AliMD/alwatr/pull/831) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(com-api)!: limit productStorageList and product-list storage param](https://github.com/AliMD/alwatr/pull/830) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(element): router mixin](https://github.com/AliMD/alwatr/pull/829) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(ui-kit): selectable product card](https://github.com/AliMD/alwatr/pull/826) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(form-registration-pwa): new pwa](https://github.com/AliMD/alwatr/pull/833) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(com-pwa): dynamic product storage](https://github.com/AliMD/alwatr/pull/831) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(com-api)!: limit productStorageList and product-list storage param](https://github.com/AliMD/alwatr/pull/830) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(element): router mixin](https://github.com/AliMD/alwatr/pull/829) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(ui-kit): selectable product card](https://github.com/AliMD/alwatr/pull/826) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
