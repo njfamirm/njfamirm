@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (6 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
@@ -27,9 +27,9 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(telegram-notifier): escaping special characters on sendMessage](https://github.com/AliMD/alwatr/pull/841) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(ff-pwa): current year](https://github.com/AliMD/alwatr/pull/840) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(ui-kit): move radio group from soffit-pwa](https://github.com/AliMD/alwatr/pull/834) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [fix(telegram-notifier): escaping special characters on sendMessage](https://github.com/AliMD/alwatr/pull/841) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(ff-pwa): current year](https://github.com/AliMD/alwatr/pull/840) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(ui-kit): move radio group from soffit-pwa](https://github.com/AliMD/alwatr/pull/834) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 - [feat(form-registration-pwa): new pwa](https://github.com/AliMD/alwatr/pull/833) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(com-pwa): dynamic product storage](https://github.com/AliMD/alwatr/pull/831) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [feathers-studio/telegraf-docs](https://github.com/feathers-studio/telegraf-docs) - Documentation for Telegraf - the modern Bot API framework (2 days ago)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (3 weeks ago)
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (3 weeks ago)
-- [xsoh/moment-hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js (1 month ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 month ago)
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (1 day ago)
+- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (1 day ago)
+- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (1 day ago)
+- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (1 day ago)
+- [feathers-studio/telegraf-docs](https://github.com/feathers-studio/telegraf-docs) - Documentation for Telegraf - the modern Bot API framework (3 days ago)
 
 #### ♥️ Check out some of my recent followers
 
