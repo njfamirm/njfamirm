@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(router): add _routeContextUpdated to interface](https://github.com/AliMD/alwatr/pull/865) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(validator): change ValidType to StringifyableRecord](https://github.com/AliMD/alwatr/pull/864) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(router): keepSectionSlice for redirect](https://github.com/AliMD/alwatr/pull/863) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(router): home page for sub page routes](https://github.com/AliMD/alwatr/pull/862) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(router): internal redirect render template to another route](https://github.com/AliMD/alwatr/pull/861) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(ui/top-app-bar): headlineKey and default values](https://github.com/AliMD/alwatr/pull/872) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(element): UnresolvedMixin](https://github.com/AliMD/alwatr/pull/871) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [refactor(type): StringifyableRecord to interface](https://github.com/AliMD/alwatr/pull/870) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(fsm): new state context type &amp; demo](https://github.com/AliMD/alwatr/pull/869) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(button): add signalId for click event](https://github.com/AliMD/alwatr/pull/868) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (2 days ago)
-- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (2 days ago)
-- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (2 days ago)
-- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (2 days ago)
-- [feathers-studio/telegraf-docs](https://github.com/feathers-studio/telegraf-docs) - Documentation for Telegraf - the modern Bot API framework (4 days ago)
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (3 days ago)
+- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (3 days ago)
+- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (3 days ago)
+- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (3 days ago)
+- [feathers-studio/telegraf-docs](https://github.com/feathers-studio/telegraf-docs) - Documentation for Telegraf - the modern Bot API framework (5 days ago)
 
 #### ♥️ Check out some of my recent followers
 
