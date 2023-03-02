@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [refactor(fsm)!: add state prop and remove gotState](https://github.com/AliMD/alwatr/pull/880) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(button): add icon](https://github.com/AliMD/alwatr/pull/876) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(icon): vertical-align style](https://github.com/AliMD/alwatr/pull/875) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(pwa-helper): scheduleUpdate by animation frame in pwa-element](https://github.com/AliMD/alwatr/pull/874) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(element): state mixin](https://github.com/AliMD/alwatr/pull/873) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [refactor(fsm)!: add state prop and remove gotState](https://github.com/AliMD/alwatr/pull/880) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(button): add icon](https://github.com/AliMD/alwatr/pull/876) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(icon): vertical-align style](https://github.com/AliMD/alwatr/pull/875) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(pwa-helper): scheduleUpdate by animation frame in pwa-element](https://github.com/AliMD/alwatr/pull/874) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(element): state mixin](https://github.com/AliMD/alwatr/pull/873) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,19 +43,19 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (5 days ago)
-- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (5 days ago)
-- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (5 days ago)
-- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (5 days ago)
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (6 days ago)
+- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (6 days ago)
+- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (6 days ago)
+- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (6 days ago)
 - [feathers-studio/telegraf-docs](https://github.com/feathers-studio/telegraf-docs) - Documentation for Telegraf - the modern Bot API framework (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
+- [mmertpolat](https://github.com/mmertpolat)
 - [salmanclever](https://github.com/salmanclever)
 - [jhonipereira](https://github.com/jhonipereira)
 - [mahdikarimi1](https://github.com/mahdikarimi1)
 - [sajad25](https://github.com/sajad25)
-- [HaSaNmoradpor](https://github.com/HaSaNmoradpor)
 
 #### 📫 How to reach me
 
