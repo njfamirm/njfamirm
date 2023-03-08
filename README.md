@@ -21,33 +21,33 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 day ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 2 days ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 1 month ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 11 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [bugfix(com-pwa): review](https://github.com/AliMD/alwatr/pull/910) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat/com pwa qty](https://github.com/AliMD/alwatr/pull/906) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(router): make url from router respect empty sectionList](https://github.com/AliMD/alwatr/pull/895) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(math): calcDiscount](https://github.com/AliMD/alwatr/pull/894) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(ui-kit): IconButtonContent.disabled, surface tinted attrib, click signal with detail, product-card toman icon](https://github.com/AliMD/alwatr/pull/893) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [fix(com-pwa): color theme](https://github.com/AliMD/alwatr/pull/915) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(com-pwa): review](https://github.com/AliMD/alwatr/pull/910) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(com-pwa): qty unit](https://github.com/AliMD/alwatr/pull/906) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(router): make url from router respect empty sectionList](https://github.com/AliMD/alwatr/pull/895) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(math): calcDiscount](https://github.com/AliMD/alwatr/pull/894) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (1 month ago)
-- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (4 months ago)
-- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (6 months ago)
+- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (5 months ago)
+- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (7 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (2 days ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (1 day ago)
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (3 days ago)
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (1 week ago)
 - [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (1 week ago)
 - [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (1 week ago)
-- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
