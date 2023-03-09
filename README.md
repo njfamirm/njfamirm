@@ -8,7 +8,7 @@ Open source lover!
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (1 month ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (3 months ago)
 
 #### ☂️ My latest projects
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 2 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 3 days ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 1 month ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 11 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix(com-pwa): color theme](https://github.com/AliMD/alwatr/pull/915) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(com-pwa): review](https://github.com/AliMD/alwatr/pull/910) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(com-pwa): qty unit](https://github.com/AliMD/alwatr/pull/906) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(router): make url from router respect empty sectionList](https://github.com/AliMD/alwatr/pull/895) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
-- [feat(math): calcDiscount](https://github.com/AliMD/alwatr/pull/894) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/920) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(icon): suffix context](https://github.com/AliMD/alwatr/pull/919) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(com-pwa): color theme](https://github.com/AliMD/alwatr/pull/915) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (1 day ago)
-- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (3 days ago)
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (1 day ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 days ago)
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (4 days ago)
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (1 week ago)
 - [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (1 week ago)
-- [Pudding124/stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show your latest stackoverflow personal state (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
