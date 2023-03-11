@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (1 month ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 4 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 5 days ago) - The Alwatr Library
 - [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr@3.0.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr%403.0.1), 1 month ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 11 months ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(ui-kit/snackbar): message/actionLabelMessage l10n key](https://github.com/AliMD/alwatr/pull/926) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/920) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(icon): suffix context](https://github.com/AliMD/alwatr/pull/919) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(ui-kit/snackbar): message/actionLabelMessage l10n key](https://github.com/AliMD/alwatr/pull/926) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/920) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(icon): suffix context](https://github.com/AliMD/alwatr/pull/919) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (2 days ago)
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 days ago)
-- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (5 days ago)
-- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub (2 weeks ago)
-- [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user (2 weeks ago)
+- [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day! (1 day ago)
+- [yuler/gh-download](https://github.com/yuler/gh-download) - [GitHub CLI] extension for download folders/files (1 day ago)
+- [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API (1 day ago)
+- [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine. (1 day ago)
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (1 day ago)
 
 #### ♥️ Check out some of my recent followers
 
