@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
+- [feat(com/order-detail): use new fsm](https://github.com/AliMD/alwatr/pull/957) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 - [feat(ui-kit/snackbar): message/actionLabelMessage l10n key](https://github.com/AliMD/alwatr/pull/926) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/920) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(icon): suffix context](https://github.com/AliMD/alwatr/pull/919) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
