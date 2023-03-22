@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (3 months ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [refactor(ui-kit/button): use button content property](https://github.com/AliMD/alwatr/pull/966) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(com-pwa): refactor order-detail and new-order with new `FSM` and `context` api](https://github.com/AliMD/alwatr/pull/957) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [refactor(ui-kit/button): use button content property](https://github.com/AliMD/alwatr/pull/966) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa): refactor order-detail and new-order with new `FSM` and `context` api](https://github.com/AliMD/alwatr/pull/957) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
 - [feat(ui-kit/snackbar): message/actionLabelMessage l10n key](https://github.com/AliMD/alwatr/pull/926) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [refactor(soffit-pwa): move l18e to content folder](https://github.com/AliMD/alwatr/pull/922) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
+- [fix(workflow): publish container signing](https://github.com/AliMD/alwatr/pull/921) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web (1 day ago)
+- [nasa/apod-api](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service (1 day ago)
+- [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web (2 days ago)
 - [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day! (1 week ago)
 - [yuler/gh-download](https://github.com/yuler/gh-download) - [GitHub CLI] extension for download folders/files (1 week ago)
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API (1 week ago)
-- [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine. (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
