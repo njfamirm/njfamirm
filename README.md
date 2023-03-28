@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([@lit/localize-tools@0.6.8](https://github.com/lit/lit/releases/tag/%40lit/localize-tools%400.6.8), 5 days ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([@lit/localize-tools@0.6.8](https://github.com/lit/lit/releases/tag/%40lit/localize-tools%400.6.8), 6 days ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 3 weeks ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(com): cdn](https://github.com/AliMD/alwatr/pull/983) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(button): use content property and move to manager](https://github.com/AliMD/alwatr/pull/978) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa): order tracking chat](https://github.com/AliMD/alwatr/pull/987) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): order print](https://github.com/AliMD/alwatr/pull/984) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com): cdn](https://github.com/AliMD/alwatr/pull/983) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(button): use content property and move to manager](https://github.com/AliMD/alwatr/pull/978) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 - [refactor(ui-kit/button): use button content property](https://github.com/AliMD/alwatr/pull/966) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(com-pwa): refactor order-detail and new-order with new `FSM` and `context` api](https://github.com/AliMD/alwatr/pull/957) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(ui-kit/snackbar): message/actionLabelMessage l10n key](https://github.com/AliMD/alwatr/pull/926) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -43,8 +43,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder (2 days ago)
-- [nasa/apod-api](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service (6 days ago)
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder (3 days ago)
+- [nasa/apod-api](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service (1 week ago)
 - [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web (1 week ago)
 - [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day! (2 weeks ago)
 - [yuler/gh-download](https://github.com/yuler/gh-download) - [GitHub CLI] extension for download folders/files (2 weeks ago)
