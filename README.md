@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [fix(pwa-helper/esbuild): hash entryNames](https://github.com/AliMD/alwatr/pull/995) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(com-pwa): chat storage context provider](https://github.com/AliMD/alwatr/pull/994) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(cloud/com): add chat service](https://github.com/AliMD/alwatr/pull/993) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [chore(workflow): enable for all pull request](https://github.com/AliMD/alwatr/pull/992) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (1 day ago)
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (1 day ago)
+- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (1 day ago)
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder (1 week ago)
 - [nasa/apod-api](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service (1 week ago)
-- [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web (1 week ago)
-- [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day! (3 weeks ago)
-- [yuler/gh-download](https://github.com/yuler/gh-download) - [GitHub CLI] extension for download folders/files (3 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
