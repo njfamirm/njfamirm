@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -22,16 +22,16 @@ Open source lover!
 #### 🎉 Latest releases I've contributed to
 
 - [lit/lit](https://github.com/lit/lit) ([@lit/localize-tools@0.6.8](https://github.com/lit/lit/releases/tag/%40lit/localize-tools%400.6.8), 1 week ago) - Lit is a simple library for building fast, lightweight web components.
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 3 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 4 weeks ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (1 day ago)
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (1 day ago)
-- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (1 day ago)
-- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder (1 week ago)
-- [nasa/apod-api](https://github.com/nasa/apod-api) - Astronomy Picture of the Day API service (1 week ago)
+- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (1 day ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 day ago)
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (2 days ago)
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (2 days ago)
+- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
