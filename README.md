@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([@lit/localize-tools@0.6.8](https://github.com/lit/lit/releases/tag/%40lit/localize-tools%400.6.8), 1 week ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([@lit-labs/ssr-client@1.1.1](https://github.com/lit/lit/releases/tag/%40lit-labs/ssr-client%401.1.1), 1 day ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 4 weeks ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [perf(pwa): optimize index.html](https://github.com/AliMD/alwatr/pull/996) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (1 day ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 day ago)
-- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (2 days ago)
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (2 days ago)
-- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (2 days ago)
+- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (2 days ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (2 days ago)
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (3 days ago)
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (3 days ago)
+- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (3 days ago)
 
 #### ♥️ Check out some of my recent followers
 
