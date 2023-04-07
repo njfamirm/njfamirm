@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
@@ -21,33 +21,33 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 1 day ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 2 days ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-pwa): change order_shipping_car i18n key](https://github.com/AliMD/alwatr/pull/1016) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(nano-server): prefix pattern](https://github.com/AliMD/alwatr/pull/1010) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [fix(ui/text-field): set empty string for undefined value](https://github.com/AliMD/alwatr/pull/1009) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [chore: pwa version](https://github.com/AliMD/alwatr/pull/1008) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [perf(ui-kit/top-app-bar): check attribute value before set it](https://github.com/AliMD/alwatr/pull/1007) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1029) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1028) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): login form](https://github.com/AliMD/alwatr/pull/1027) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(text-field/radio-group): use content property](https://github.com/AliMD/alwatr/pull/1026) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(text-field): use content property](https://github.com/AliMD/alwatr/pull/1025) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (2 months ago)
-- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (5 months ago)
-- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (7 months ago)
+- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (6 months ago)
+- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (8 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (4 days ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (4 days ago)
-- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (5 days ago)
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (5 days ago)
-- [johanrosenkilde/dotfiles](https://github.com/johanrosenkilde/dotfiles) - My dot files (5 days ago)
+- [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (1 day ago)
+- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (5 days ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (5 days ago)
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (6 days ago)
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (6 days ago)
 
 #### ♥️ Check out some of my recent followers
 
