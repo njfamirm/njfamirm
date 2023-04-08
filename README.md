@@ -5,10 +5,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (2 months ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (2 months ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
 
 #### ☂️ My latest projects
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 2 days ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 3 days ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1029) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1028) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(com-pwa): login form](https://github.com/AliMD/alwatr/pull/1027) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(text-field/radio-group): use content property](https://github.com/AliMD/alwatr/pull/1026) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(text-field): use content property](https://github.com/AliMD/alwatr/pull/1025) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1029) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(comment): prefix pattern](https://github.com/AliMD/alwatr/pull/1028) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(com-pwa): login form](https://github.com/AliMD/alwatr/pull/1027) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(text-field/radio-group): use content property](https://github.com/AliMD/alwatr/pull/1026) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(text-field): use content property](https://github.com/AliMD/alwatr/pull/1025) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (1 day ago)
-- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (5 days ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (5 days ago)
-- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (6 days ago)
-- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (6 days ago)
+- [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (2 days ago)
+- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (6 days ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (6 days ago)
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (1 week ago)
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program &amp; Arctic Code Vault (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
