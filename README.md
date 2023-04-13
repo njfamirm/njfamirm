@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(i18n): date method for convert date to active locale](https://github.com/AliMD/alwatr/pull/1033) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(com-pwa/shipping-form): change back button to back to new order](https://github.com/AliMD/alwatr/pull/1032) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(com-pwa): order print style](https://github.com/AliMD/alwatr/pull/1031) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(i18n): date method for convert date to active locale](https://github.com/AliMD/alwatr/pull/1033) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa/shipping-form): change back button to back to new order](https://github.com/AliMD/alwatr/pull/1032) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,8 +43,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 day ago)
-- [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (6 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (2 days ago)
+- [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (1 week ago)
 - [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (1 week ago)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 week ago)
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals (1 week ago)
