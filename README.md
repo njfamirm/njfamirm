@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 months ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (today)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -27,11 +27,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(i18n): date method for convert date to active locale](https://github.com/AliMD/alwatr/pull/1033) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(i18n): date method for convert date to active locale](https://github.com/AliMD/alwatr/pull/1033) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (2 days ago)
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (4 days ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 day ago)
+- [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (1 day ago)
+- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (3 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (5 days ago)
 - [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates (1 week ago)
-- [grammyjs/stateless-question](https://github.com/grammyjs/stateless-question) - Create stateless questions to Telegram users working in privacy mode (1 week ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
