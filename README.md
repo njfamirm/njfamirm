@@ -6,7 +6,7 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -27,15 +27,15 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(keep): new PWA!](https://github.com/AliMD/alwatr/pull/1052) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 - [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(i18n): date method for convert date to active locale](https://github.com/AliMD/alwatr/pull/1033) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (2 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (3 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (6 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (8 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (1 day ago)
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (2 days ago)
-- [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (2 days ago)
-- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (4 days ago)
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (6 days ago)
+- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 day ago)
+- [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (2 days ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (3 days ago)
+- [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (3 days ago)
+- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (5 days ago)
 
 #### ♥️ Check out some of my recent followers
 
