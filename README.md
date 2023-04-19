@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -21,15 +21,15 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 1 week ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 2 weeks ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(keep): new PWA!](https://github.com/AliMD/alwatr/pull/1052) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(keep): new PWA!](https://github.com/AliMD/alwatr/pull/1052) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(fetch): compatible with node](https://github.com/AliMD/alwatr/pull/1045) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(com-*): page agency info, patch agency route](https://github.com/AliMD/alwatr/pull/1043) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(cloud/com): move cdn service to pwa, user folder bind](https://github.com/AliMD/alwatr/pull/1035) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(com-pwa): order created date in status box](https://github.com/AliMD/alwatr/pull/1034) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 day ago)
-- [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (2 days ago)
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (3 days ago)
-- [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (3 days ago)
-- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (5 days ago)
+- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (2 days ago)
+- [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (3 days ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (4 days ago)
+- [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (4 days ago)
+- [play-with-docker/docker-machine-driver-pwd](https://github.com/play-with-docker/docker-machine-driver-pwd) - Docker machine PWD driver (6 days ago)
 
 #### ♥️ Check out some of my recent followers
 
