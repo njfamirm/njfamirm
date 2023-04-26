@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([lit@2.7.2](https://github.com/lit/lit/releases/tag/lit%402.7.2), 2 weeks ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([lit-element@3.3.2](https://github.com/lit/lit/releases/tag/lit-element%403.3.2), today) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-pwa): complete sign in form](https://github.com/AliMD/alwatr/pull/1077) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(container/nginx-storage): error.json for error](https://github.com/AliMD/alwatr/pull/1076) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(com-pwa): login deploy](https://github.com/AliMD/alwatr/pull/1068) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(spam-visitor): new uniquely service](https://github.com/AliMD/alwatr/pull/1061) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(com-pwa): new sign-in page and auth process](https://github.com/AliMD/alwatr/pull/1060) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [chore(com-api): add new product](https://github.com/AliMD/alwatr/pull/1085) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): user context consumer](https://github.com/AliMD/alwatr/pull/1081) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(nginx-storage): ssi types](https://github.com/AliMD/alwatr/pull/1080) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): complete sign in form](https://github.com/AliMD/alwatr/pull/1077) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(container/nginx-storage): error.json for error](https://github.com/AliMD/alwatr/pull/1076) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,7 +43,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (3 days ago)
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (4 days ago)
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 week ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (1 week ago)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 week ago)
