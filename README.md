@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-pwa): signup](https://github.com/AliMD/alwatr/pull/1095) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(util): setLocalStorageItem](https://github.com/AliMD/alwatr/pull/1092) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [chore(com-api): add new product](https://github.com/AliMD/alwatr/pull/1085) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(com-pwa): new preview and fix reported issues](https://github.com/AliMD/alwatr/pull/1081) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [fix(nginx-storage): ssi types](https://github.com/AliMD/alwatr/pull/1080) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(crypto): rename package &amp; demo](https://github.com/AliMD/alwatr/pull/1098) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): signup](https://github.com/AliMD/alwatr/pull/1095) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(util): setLocalStorageItem](https://github.com/AliMD/alwatr/pull/1092) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [chore(com-api): add new product](https://github.com/AliMD/alwatr/pull/1085) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(com-pwa): new preview and fix reported issues](https://github.com/AliMD/alwatr/pull/1081) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,7 +43,7 @@ Open source lover!
 #### ⭐ Recent Stars
 
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (1 week ago)
-- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 week ago)
+- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (2 weeks ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (2 weeks ago)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (2 weeks ago)
 - [greyby/setup-v2ray](https://github.com/greyby/setup-v2ray) -  (2 weeks ago)
