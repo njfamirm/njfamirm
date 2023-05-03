@@ -6,7 +6,7 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (4 months ago)
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-pwa): deploy develop](https://github.com/AliMD/alwatr/pull/1104) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [Feat/shipping info](https://github.com/AliMD/alwatr/pull/1103) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(com-pwa): routeId](https://github.com/AliMD/alwatr/pull/1102) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(com-api): new storage nginx server and signup process](https://github.com/AliMD/alwatr/pull/1100) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(crypto): make prefix for userId](https://github.com/AliMD/alwatr/pull/1099) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(cloud): mashin-ro](https://github.com/AliMD/alwatr/pull/1110) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [refactor(com-pwa): order storage path](https://github.com/AliMD/alwatr/pull/1109) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(com-pwa): reported issue and deploy canary and beta](https://github.com/AliMD/alwatr/pull/1104) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [Feat/shipping info](https://github.com/AliMD/alwatr/pull/1103) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(com-pwa): routeId](https://github.com/AliMD/alwatr/pull/1102) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
