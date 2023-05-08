@@ -8,7 +8,7 @@ Open source lover!
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (3 months ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (3 months ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 months ago)
 - [AliMD/flight-finder](https://github.com/AliMD/flight-finder) -  (5 months ago)
 
 #### ☂️ My latest projects
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [lit/lit](https://github.com/lit/lit) ([@lit-labs/analyzer@0.7.0](https://github.com/lit/lit/releases/tag/%40lit-labs/analyzer%400.7.0), 3 days ago) - Lit is a simple library for building fast, lightweight web components.
+- [lit/lit](https://github.com/lit/lit) ([@lit-labs/analyzer@0.7.0](https://github.com/lit/lit/releases/tag/%40lit-labs/analyzer%400.7.0), 4 days ago) - Lit is a simple library for building fast, lightweight web components.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 2 months ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(cloud): mashin-ro](https://github.com/AliMD/alwatr/pull/1110) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [refactor(com-pwa): order storage path](https://github.com/AliMD/alwatr/pull/1109) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [fix(com-pwa): reported issue and deploy canary and beta](https://github.com/AliMD/alwatr/pull/1104) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
-- [Feat/shipping info](https://github.com/AliMD/alwatr/pull/1103) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
-- [fix(com-pwa): routeId](https://github.com/AliMD/alwatr/pull/1102) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(cloud): mashin-ro wp](https://github.com/AliMD/alwatr/pull/1110) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [refactor(com-pwa): order storage path](https://github.com/AliMD/alwatr/pull/1109) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [fix(com-pwa): reported issue and deploy canary and beta](https://github.com/AliMD/alwatr/pull/1104) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [Feat/shipping info](https://github.com/AliMD/alwatr/pull/1103) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [fix(com-pwa): routeId](https://github.com/AliMD/alwatr/pull/1102) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -43,9 +43,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (2 days ago)
+- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (3 days ago)
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (2 weeks ago)
-- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (2 weeks ago)
+- [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (3 weeks ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (3 weeks ago)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (3 weeks ago)
 
