@@ -26,7 +26,7 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 - [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [fix(workflow/pwa): add git to docker build](https://github.com/AliMD/alwatr/pull/1132) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(util/node): makeLinkForce](https://github.com/AliMD/alwatr/pull/1128) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
@@ -34,7 +34,7 @@ Open source lover!
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (3 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (4 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (7 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (9 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
