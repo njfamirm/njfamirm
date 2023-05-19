@@ -26,7 +26,7 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [fix(workflow/pwa): add git to docker build](https://github.com/AliMD/alwatr/pull/1132) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(util/node): makeLinkForce](https://github.com/AliMD/alwatr/pull/1128) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
@@ -42,7 +42,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (1 week ago)
+- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (2 weeks ago)
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (3 weeks ago)
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 month ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (1 month ago)
