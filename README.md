@@ -43,7 +43,7 @@ Open source lover!
 #### ⭐ Recent Stars
 
 - [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (2 weeks ago)
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (3 weeks ago)
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (4 weeks ago)
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 month ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (1 month ago)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 month ago)
