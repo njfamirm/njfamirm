@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
+- [chore(com-pwa): change home page card order](https://github.com/AliMD/alwatr/pull/1178) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 - [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [fix(workflow/pwa): add git to docker build](https://github.com/AliMD/alwatr/pull/1132) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(util/node): makeLinkForce](https://github.com/AliMD/alwatr/pull/1128) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(storage-server/client): link method](https://github.com/AliMD/alwatr/pull/1126) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
