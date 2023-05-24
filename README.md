@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 months ago)
@@ -26,9 +26,9 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [chore(com-pwa): change home page card order](https://github.com/AliMD/alwatr/pull/1178) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [chore(com-pwa): change home page card order](https://github.com/AliMD/alwatr/pull/1178) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 - [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
-- [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 - [fix(workflow/pwa): add git to docker build](https://github.com/AliMD/alwatr/pull/1132) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 - [feat(util/node): makeLinkForce](https://github.com/AliMD/alwatr/pull/1128) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
