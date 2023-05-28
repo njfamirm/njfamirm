@@ -5,7 +5,7 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 months ago)
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.31.0](https://github.com/AliMD/alwatr/releases/tag/v0.31.0), 2 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 day ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(soffit-order): dynamic lading and pallet calculate](https://github.com/AliMD/alwatr/pull/1183) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa): admin order list page](https://github.com/AliMD/alwatr/pull/1194) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-api): admin user-list-inc-order route](https://github.com/AliMD/alwatr/pull/1189) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(soffit-order): dynamic lading and pallet calculate](https://github.com/AliMD/alwatr/pull/1183) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 - [chore(com-pwa): change home page card order](https://github.com/AliMD/alwatr/pull/1178) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 - [feat(ui-kit/fab): new component](https://github.com/AliMD/alwatr/pull/1148) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
-- [feat(flight-crawler): don&#39;t notify if flight not found](https://github.com/AliMD/alwatr/pull/1141) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
-- [fix(workflow/pwa): add git to docker build](https://github.com/AliMD/alwatr/pull/1132) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
