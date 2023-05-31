@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (3 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 months ago)
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 3 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 4 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix(storage-server): remove json extension](https://github.com/AliMD/alwatr/pull/1198) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat: add njfamirm&#39;s domain](https://github.com/is-a-dev/register/pull/5708) on [is-a-dev/register](https://github.com/is-a-dev/register) (2 days ago)
-- [feat(com-pwa): admin order list page](https://github.com/AliMD/alwatr/pull/1194) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(com-api): admin user-list-inc-order route](https://github.com/AliMD/alwatr/pull/1189) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(soffit-order): dynamic lading and pallet calculate](https://github.com/AliMD/alwatr/pull/1183) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [fix(com-pwa): admin back signal issue](https://github.com/AliMD/alwatr/pull/1206) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(com-pwa): reported issue for admin page](https://github.com/AliMD/alwatr/pull/1205) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(keep-pwa): product page](https://github.com/AliMD/alwatr/pull/1202) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(com-pwa): 404 page text](https://github.com/AliMD/alwatr/pull/1201) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(storage-server): remove json extension](https://github.com/AliMD/alwatr/pull/1198) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,7 +42,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator. (1 day ago)
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator. (2 days ago)
 - [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (3 weeks ago)
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (1 month ago)
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 month ago)
