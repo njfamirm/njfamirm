@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (4 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (5 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (4 months ago)
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 5 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 6 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(com-pwa): sort user based last order](https://github.com/AliMD/alwatr/pull/1211) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(cloud): clone all image to ghcr.io](https://github.com/AliMD/alwatr/pull/1209) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(workflow): remove additional](https://github.com/AliMD/alwatr/pull/1208) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(com-pwa): admin back signal issue](https://github.com/AliMD/alwatr/pull/1206) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(com-pwa): reported issue for admin page](https://github.com/AliMD/alwatr/pull/1205) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(com-pwa): sort user based last order](https://github.com/AliMD/alwatr/pull/1211) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(cloud): clone all image to ghcr.io](https://github.com/AliMD/alwatr/pull/1209) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(workflow): remove additional](https://github.com/AliMD/alwatr/pull/1208) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(com-pwa): admin back signal issue](https://github.com/AliMD/alwatr/pull/1206) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(com-pwa): reported issue for admin page](https://github.com/AliMD/alwatr/pull/1205) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,8 +42,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator. (3 days ago)
-- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (3 weeks ago)
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator. (4 days ago)
+- [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser. (4 weeks ago)
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (1 month ago)
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles (1 month ago)
 - [sudospaes/x-ui](https://github.com/sudospaes/x-ui) - English Version of X-UI Panel with Updated Xray-Core, Multi-protocol &amp; Multi-user and added More option in panel layout. (1 month ago)
