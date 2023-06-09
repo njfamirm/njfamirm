@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 week ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (4 months ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (5 months ago)
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(cloud): update manage script based deploy](https://github.com/AliMD/alwatr/pull/1233) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(signal2): more demos](https://github.com/AliMD/alwatr/pull/1224) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(fsm2): use abstract for base class](https://github.com/AliMD/alwatr/pull/1223) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(com-pwa): bold text for count](https://github.com/AliMD/alwatr/pull/1221) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [chore(ui-kit): publish css to npm](https://github.com/AliMD/alwatr/pull/1220) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(workflow): multi step WIP](https://github.com/AliMD/alwatr/pull/1239) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(docs): sysconfig optimization](https://github.com/AliMD/alwatr/pull/1234) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(cloud): update manage script based deploy](https://github.com/AliMD/alwatr/pull/1233) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(signal2): more demos](https://github.com/AliMD/alwatr/pull/1224) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [feat(fsm2): use abstract for base class](https://github.com/AliMD/alwatr/pull/1223) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems (2 days ago)
-- [openSUSE/combustion](https://github.com/openSUSE/combustion) - Configure MicroOS on the first boot (2 days ago)
-- [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool (3 days ago)
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (3 days ago)
-- [openSUSE/sysconfig](https://github.com/openSUSE/sysconfig) -  (3 days ago)
+- [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems (3 days ago)
+- [openSUSE/combustion](https://github.com/openSUSE/combustion) - Configure MicroOS on the first boot (3 days ago)
+- [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool (4 days ago)
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (4 days ago)
+- [openSUSE/sysconfig](https://github.com/openSUSE/sysconfig) -  (4 days ago)
 
 #### ♥️ Check out some of my recent followers
 
