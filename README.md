@@ -5,36 +5,36 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (today)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (5 months ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website (5 months ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) - 
 - [njfamirm/other](https://github.com/njfamirm/other) - Unimportant files are dumped here
 - [njfamirm/video-photo-script](https://github.com/njfamirm/video-photo-script) - Video and photo conversion, optimizing and etc scripts
 - [njfamirm/auto-pwd](https://github.com/njfamirm/auto-pwd) - Run script on play with docker automatically.
-- [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 2 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 3 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(cloud): add polyfill docker image](https://github.com/AliMD/alwatr/pull/1260) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [bugfix(cloud): disable ALWATR_DEBUG in dockerfile](https://github.com/AliMD/alwatr/pull/1245) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(nano-server): add http status code](https://github.com/AliMD/alwatr/pull/1244) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [chore(com-api): add new agency](https://github.com/AliMD/alwatr/pull/1243) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
-- [feat(workflow): multi step WIP](https://github.com/AliMD/alwatr/pull/1239) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [Revert &#34;fix(github): remove need key on run-uptime&#34;](https://github.com/njfamirm/sitatus/pull/4) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [fix(github): remove need key on run-uptime](https://github.com/njfamirm/sitatus/pull/3) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [feat(github): simple workflow, codeowners](https://github.com/njfamirm/sitatus/pull/2) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [feat: base project](https://github.com/njfamirm/sitatus/pull/1) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [feat(cloud): add polyfill docker image](https://github.com/AliMD/alwatr/pull/1260) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (4 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (5 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (8 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (10 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (today)
-- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (2 days ago)
-- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (3 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 day ago)
+- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (1 day ago)
+- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (3 days ago)
+- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (4 days ago)
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems (1 week ago)
-- [openSUSE/combustion](https://github.com/openSUSE/combustion) - Configure MicroOS on the first boot (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
