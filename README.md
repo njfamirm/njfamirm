@@ -5,10 +5,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (today)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 weeks ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (3 weeks ago)
 - [njfamirm/minimal-typescript-starter-kit](https://github.com/njfamirm/minimal-typescript-starter-kit) - minimal typescript starter kit (5 months ago)
 
 #### ☂️ My latest projects
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 3 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 4 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [Revert &#34;fix(github): remove need key on run-uptime&#34;](https://github.com/njfamirm/sitatus/pull/4) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
-- [fix(github): remove need key on run-uptime](https://github.com/njfamirm/sitatus/pull/3) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
-- [feat(github): simple workflow, codeowners](https://github.com/njfamirm/sitatus/pull/2) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
-- [feat: base project](https://github.com/njfamirm/sitatus/pull/1) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
-- [feat(cloud): add polyfill docker image](https://github.com/AliMD/alwatr/pull/1260) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [fix(github): just commit on main branch](https://github.com/njfamirm/sitatus/pull/7) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [feat(analytic): add time and change folder structure](https://github.com/njfamirm/sitatus/pull/6) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [feat: config, analytic](https://github.com/njfamirm/sitatus/pull/5) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (1 day ago)
+- [Revert &#34;fix(github): remove need key on run-uptime&#34;](https://github.com/njfamirm/sitatus/pull/4) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (2 days ago)
+- [fix(github): remove need key on run-uptime](https://github.com/njfamirm/sitatus/pull/3) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,10 +42,10 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 day ago)
-- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (1 day ago)
-- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (3 days ago)
-- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (4 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 days ago)
+- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 days ago)
+- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (4 days ago)
+- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (5 days ago)
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems (1 week ago)
 
 #### ♥️ Check out some of my recent followers
