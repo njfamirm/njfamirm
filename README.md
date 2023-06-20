@@ -6,8 +6,8 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (1 day ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (3 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (3 weeks ago)
 
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 5 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 6 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix(github): just commit on main branch](https://github.com/njfamirm/sitatus/pull/7) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (2 days ago)
-- [feat(analytic): add time and change folder structure](https://github.com/njfamirm/sitatus/pull/6) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (2 days ago)
-- [feat: config, analytic](https://github.com/njfamirm/sitatus/pull/5) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (2 days ago)
-- [Revert &#34;fix(github): remove need key on run-uptime&#34;](https://github.com/njfamirm/sitatus/pull/4) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (3 days ago)
-- [fix(github): remove need key on run-uptime](https://github.com/njfamirm/sitatus/pull/3) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (3 days ago)
+- [bugfix(cloud): clone all image from ghcr](https://github.com/AliMD/alwatr/pull/1272) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(github): just commit on main branch](https://github.com/njfamirm/sitatus/pull/7) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (3 days ago)
+- [feat(analytic): add time and change folder structure](https://github.com/njfamirm/sitatus/pull/6) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (3 days ago)
+- [feat: config, analytic](https://github.com/njfamirm/sitatus/pull/5) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (3 days ago)
+- [Revert &#34;fix(github): remove need key on run-uptime&#34;](https://github.com/njfamirm/sitatus/pull/4) on [njfamirm/sitatus](https://github.com/njfamirm/sitatus) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 day ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (3 days ago)
-- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (3 days ago)
-- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (5 days ago)
-- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (6 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (4 days ago)
+- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (4 days ago)
+- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (6 days ago)
+- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
