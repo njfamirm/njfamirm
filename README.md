@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (today)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (5 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (3 weeks ago)
 
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 day ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(workflow): remove deploy from build](https://github.com/njfamirm/hugo-demo/pull/7) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [deps: download from github to npm](https://github.com/njfamirm/hugo-demo/pull/6) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [bugfix(deps): add popper.js](https://github.com/njfamirm/hugo-demo/pull/5) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [bugfix(workflow): run build on every pr and deploy on main](https://github.com/njfamirm/hugo-demo/pull/4) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [bugfix(github): workflow folder name](https://github.com/njfamirm/hugo-demo/pull/3) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
+- [feat(workflow): remove deploy from build](https://github.com/njfamirm/hugo-demo/pull/7) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [deps: download from github to npm](https://github.com/njfamirm/hugo-demo/pull/6) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [bugfix(deps): add popper.js](https://github.com/njfamirm/hugo-demo/pull/5) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [bugfix(workflow): run build on every pr and deploy on main](https://github.com/njfamirm/hugo-demo/pull/4) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [bugfix(github): workflow folder name](https://github.com/njfamirm/hugo-demo/pull/3) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,9 +42,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (4 days ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (6 days ago)
-- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (6 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (5 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 week ago)
+- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (1 week ago)
 - [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (1 week ago)
 - [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (1 week ago)
 
