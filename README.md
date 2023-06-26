@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (3 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (6 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (3 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (4 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (4 weeks ago)
 
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 4 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 5 days ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(workflow): remove deploy from build](https://github.com/njfamirm/hugo-demo/pull/7) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [deps: download from github to npm](https://github.com/njfamirm/hugo-demo/pull/6) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [bugfix(deps): add popper.js](https://github.com/njfamirm/hugo-demo/pull/5) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [bugfix(workflow): run build on every pr and deploy on main](https://github.com/njfamirm/hugo-demo/pull/4) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [bugfix(github): workflow folder name](https://github.com/njfamirm/hugo-demo/pull/3) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
+- [bugfix(cloud): change wordpress version](https://github.com/AliMD/alwatr/pull/1283) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(workflow): remove deploy from build](https://github.com/njfamirm/hugo-demo/pull/7) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (5 days ago)
+- [deps: download from github to npm](https://github.com/njfamirm/hugo-demo/pull/6) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (5 days ago)
+- [bugfix(deps): add popper.js](https://github.com/njfamirm/hugo-demo/pull/5) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (5 days ago)
+- [bugfix(workflow): run build on every pr and deploy on main](https://github.com/njfamirm/hugo-demo/pull/4) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (5 days ago)
 
 #### 📓 Gists I wrote
 
