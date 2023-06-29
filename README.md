@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (2 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 month ago)
 
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (1 day ago)
-- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
+- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (2 days ago)
+- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
 
 #### 📓 Gists I wrote
 
