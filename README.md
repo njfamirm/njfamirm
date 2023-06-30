@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (2 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (3 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 month ago)
 
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
-- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (2 days ago)
-- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
-- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
+- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (3 days ago)
+- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
+- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -38,15 +38,15 @@ Open source lover!
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (8 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (10 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
-- [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (1 year ago)
+- [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (2 years ago)
 
 #### ⭐ Recent Stars
 
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (1 day ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 week ago)
-- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (1 week ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
+- [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 weeks ago)
 - [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (2 weeks ago)
-- [Financial-Times/polyfill-service-url-builder](https://github.com/Financial-Times/polyfill-service-url-builder) -  (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
