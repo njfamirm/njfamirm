@@ -5,8 +5,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (4 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 month ago)
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
-- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (3 days ago)
-- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
-- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (3 days ago)
+- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
+- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (4 days ago)
+- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
+- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,7 +42,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (1 day ago)
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (2 days ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 - [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 weeks ago)
