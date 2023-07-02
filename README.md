@@ -5,19 +5,19 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (4 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (today)
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 weeks ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 month ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 weeks ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) - 
 - [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) - 
 - [njfamirm/other](https://github.com/njfamirm/other) - Unimportant files are dumped here
-- [njfamirm/video-photo-script](https://github.com/njfamirm/video-photo-script) - Video and photo conversion, optimizing and etc scripts
 
 #### 🎉 Latest releases I've contributed to
 
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(admin): github based auth](https://github.com/njfamirm/hugo-demo/pull/11) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [fix(docs): rename netlify to decap cms](https://github.com/netlify/git-gateway/pull/82) on [netlify/git-gateway](https://github.com/netlify/git-gateway) (4 days ago)
-- [fix(cloud): use latest version of hugo &amp; download from edge repo](https://github.com/njfamirm/hugo-demo/pull/10) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
-- [feat(cloud): pass image name from env](https://github.com/AliMD/alwatr/pull/1301) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat(cloud): optimize dockerfile](https://github.com/njfamirm/hugo-demo/pull/9) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (4 days ago)
+- [Create مجله “test”](https://github.com/njfamirm/hugo-demo/pull/14) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
+- [Update مجله “اسکوپ-سنگ-ایده-آل.1”](https://github.com/njfamirm/hugo-demo/pull/13) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
+- [Feat/deploy](https://github.com/njfamirm/decap-cms-admin/pull/2) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (1 day ago)
+- [feat: build, deploy](https://github.com/njfamirm/decap-cms-admin/pull/1) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (1 day ago)
+- [chore: change dockerfile path, encrypt env](https://github.com/njfamirm/hugo-demo/pull/12) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -42,8 +42,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (2 days ago)
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (3 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 - [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 weeks ago)
 - [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (2 weeks ago)
