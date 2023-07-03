@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (today)
-- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (1 day ago)
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 weeks ago)
 
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [Create مجله “test”](https://github.com/njfamirm/hugo-demo/pull/14) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [Update مجله “اسکوپ-سنگ-ایده-آل.1”](https://github.com/njfamirm/hugo-demo/pull/13) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
-- [Feat/deploy](https://github.com/njfamirm/decap-cms-admin/pull/2) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (1 day ago)
-- [feat: build, deploy](https://github.com/njfamirm/decap-cms-admin/pull/1) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (1 day ago)
-- [chore: change dockerfile path, encrypt env](https://github.com/njfamirm/hugo-demo/pull/12) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (1 day ago)
+- [refactor(cloud/lib): add save-load script](https://github.com/AliMD/alwatr/pull/1314) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [Create مجله “test”](https://github.com/njfamirm/hugo-demo/pull/14) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [Update مجله “اسکوپ-سنگ-ایده-آل.1”](https://github.com/njfamirm/hugo-demo/pull/13) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
+- [Feat/deploy](https://github.com/njfamirm/decap-cms-admin/pull/2) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (2 days ago)
+- [feat: build, deploy](https://github.com/njfamirm/decap-cms-admin/pull/1) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,7 +42,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (3 days ago)
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (4 days ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 - [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 weeks ago)
