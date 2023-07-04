@@ -5,16 +5,16 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test (1 day ago)
-- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (2 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - currently for test (1 day ago)
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (6 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 weeks ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 
 #### ☂️ My latest projects
 
 - [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) - 
-- [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) - currently for test
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - currently for test
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker
 - [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) - 
 - [njfamirm/other](https://github.com/njfamirm/other) - Unimportant files are dumped here
@@ -26,11 +26,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [refactor(cloud/lib): add save-load script](https://github.com/AliMD/alwatr/pull/1314) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [Create مجله “test”](https://github.com/njfamirm/hugo-demo/pull/14) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
-- [Update مجله “اسکوپ-سنگ-ایده-آل.1”](https://github.com/njfamirm/hugo-demo/pull/13) on [njfamirm/hugo-demo](https://github.com/njfamirm/hugo-demo) (2 days ago)
-- [Feat/deploy](https://github.com/njfamirm/decap-cms-admin/pull/2) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (2 days ago)
-- [feat: build, deploy](https://github.com/njfamirm/decap-cms-admin/pull/1) on [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) (2 days ago)
+- [chore](https://github.com/njfamirm/keeperco.ir/pull/33) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (1 day ago)
+- [docs(محصولات): add content/product/اسکوپ-پروانه‌ای-1.md](https://github.com/njfamirm/keeperco.ir/pull/32) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (1 day ago)
+- [docs(محصولات): update content/product/اسکوپ-پروانه‌ای.md](https://github.com/njfamirm/keeperco.ir/pull/30) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (1 day ago)
+- [docs(صفحه خانه): update data/home/aboutSection.yml](https://github.com/njfamirm/keeperco.ir/pull/29) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (1 day ago)
+- [docs(مجله): add content/blog/چگونه-اسکوپ-را-نصب-کنیم؟.md](https://github.com/njfamirm/keeperco.ir/pull/28) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (4 days ago)
+- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests. (1 day ago)
+- [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs (5 days ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 - [himbeles/mac-device-connect-daemon](https://github.com/himbeles/mac-device-connect-daemon) - Run shell script or executable triggered by device detection on a Mac. (2 weeks ago)
-- [tsg/gotpl](https://github.com/tsg/gotpl) - CLI tool for Golang templates (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
