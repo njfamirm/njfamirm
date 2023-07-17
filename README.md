@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (4 days ago)
-- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (2 weeks ago)
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (5 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (3 weeks ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 
@@ -26,15 +26,15 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [docs(وبلاگ): add content/blog/test.md](https://github.com/njfamirm/keeperco.ir/pull/65) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (4 days ago)
-- [feat: add change order status](https://github.com/AliMD/alwatr/pull/1338) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [deps(dockerfile): update hugo](https://github.com/njfamirm/keeperco.ir/pull/64) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (4 days ago)
-- [feat(com-*): add cancel order to com](https://github.com/AliMD/alwatr/pull/1334) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat(demo-pwa): add postcss and tailwind to esbuild, add tailwind color](https://github.com/AliMD/alwatr/pull/1331) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
+- [feat(ui-kit2): new ui-kit from scratch with new design system](https://github.com/AliMD/alwatr/pull/1350) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [docs(وبلاگ): add content/blog/test.md](https://github.com/njfamirm/keeperco.ir/pull/65) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (5 days ago)
+- [feat: add change order status](https://github.com/AliMD/alwatr/pull/1338) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [deps(dockerfile): update hugo](https://github.com/njfamirm/keeperco.ir/pull/64) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (5 days ago)
+- [feat(com-*): add cancel order to com](https://github.com/AliMD/alwatr/pull/1334) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (5 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (6 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (9 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (11 months ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
@@ -42,19 +42,19 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (today)
-- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (1 day ago)
+- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (1 day ago)
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (2 days ago)
 - [deanc/esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss) - Plugin for esbuild to support SASS styles (1 week ago)
 - [AminZibayi/Corporio](https://github.com/AminZibayi/Corporio) - Enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default. (1 week ago)
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
+- [RoneoOrg](https://github.com/RoneoOrg)
 - [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
 - [mmertpolat](https://github.com/mmertpolat)
 - [salmanclever](https://github.com/salmanclever)
 - [jhonipereira](https://github.com/jhonipereira)
-- [mahdikarimi1](https://github.com/mahdikarimi1)
 
 #### 📫 How to reach me
 
