@@ -5,10 +5,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
-- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (4 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/decap-cms-admin](https://github.com/njfamirm/decap-cms-admin) -  (5 days ago)
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (1 week ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (3 weeks ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (4 weeks ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 month ago)
 
 #### ☂️ My latest projects
@@ -21,16 +21,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 4 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(playground): add navigation drawer](https://github.com/AliMD/alwatr/pull/1366) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(workflow): increase nodejs memory usage in lint](https://github.com/AliMD/alwatr/pull/1361) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(playground): new package](https://github.com/AliMD/alwatr/pull/1360) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [chore(lint): upgrade typescript eslint to v6 &amp; fix issue](https://github.com/AliMD/alwatr/pull/1358) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
-- [feat(ui-kit2): new ui-kit from scratch with new design system](https://github.com/AliMD/alwatr/pull/1352) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(ui-kit2): add style and context to navigation bar directive](https://github.com/AliMD/alwatr/pull/1368) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(playground): add navigation drawer](https://github.com/AliMD/alwatr/pull/1366) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(workflow): increase nodejs memory usage in lint](https://github.com/AliMD/alwatr/pull/1361) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(playground): new package](https://github.com/AliMD/alwatr/pull/1360) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [chore(lint): upgrade typescript eslint to v6 &amp; fix issue](https://github.com/AliMD/alwatr/pull/1358) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,9 +42,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (1 day ago)
-- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (4 days ago)
-- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (5 days ago)
+- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 days ago)
+- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (5 days ago)
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (6 days ago)
 - [deanc/esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss) - Plugin for esbuild to support SASS styles (1 week ago)
 - [AminZibayi/Corporio](https://github.com/AminZibayi/Corporio) - Enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default. (2 weeks ago)
 
