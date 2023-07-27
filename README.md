@@ -5,11 +5,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (today)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) -  (3 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) -  (4 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (6 days ago)
 
 #### ☂️ My latest projects
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 day ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 2 days ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(apod-crawler): new service](https://github.com/njfamirm/alwatr-community/pull/23) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [Release: v0.1.0](https://github.com/njfamirm/alwatr-community/pull/22) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [Release: v0.1.0](https://github.com/njfamirm/alwatr-community/pull/21) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [fix: set correct field in package.json](https://github.com/njfamirm/alwatr-community/pull/20) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [feat(cloud): add day countdown bot deployment config and script ](https://github.com/njfamirm/alwatr-community/pull/19) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1387) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(hugo): create base package](https://github.com/AliMD/alwatr/pull/1382) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [docs(configuration): fix titleCaseStyle to AP](https://github.com/gohugoio/hugoDocs/pull/2156) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [feat(com-api): add soffit order new product to demo.http](https://github.com/AliMD/alwatr/pull/1381) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(apod-crawler): new service](https://github.com/njfamirm/alwatr-community/pull/23) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
 
 #### 📓 Gists I wrote
 
