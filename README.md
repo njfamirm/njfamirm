@@ -5,33 +5,33 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) -  (4 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (6 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) -  (5 days ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/apod](https://github.com/njfamirm/apod) - 
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - 
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website!
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker
-- [njfamirm/advent-of-code](https://github.com/njfamirm/advent-of-code) - 
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 2 days ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 3 days ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1387) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(hugo): create base package](https://github.com/AliMD/alwatr/pull/1382) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [docs(configuration): fix titleCaseStyle to AP](https://github.com/gohugoio/hugoDocs/pull/2156) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [feat(com-api): add soffit order new product to demo.http](https://github.com/AliMD/alwatr/pull/1381) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(apod-crawler): new service](https://github.com/njfamirm/alwatr-community/pull/23) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
+- [feat(ui-kit2): add menu &amp; category-tab-bar](https://github.com/AliMD/alwatr/pull/1389) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1387) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(hugo): create base package](https://github.com/AliMD/alwatr/pull/1382) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [docs(configuration): fix titleCaseStyle to AP](https://github.com/gohugoio/hugoDocs/pull/2156) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [feat(com-api): add soffit order new product to demo.http](https://github.com/AliMD/alwatr/pull/1381) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
