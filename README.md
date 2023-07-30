@@ -5,9 +5,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (1 day ago)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 
@@ -51,11 +51,11 @@ Open source lover!
 
 #### ♥️ Check out some of my recent followers
 
+- [njfamirm-bot](https://github.com/njfamirm-bot)
 - [RoneoOrg](https://github.com/RoneoOrg)
 - [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
 - [mmertpolat](https://github.com/mmertpolat)
 - [salmanclever](https://github.com/salmanclever)
-- [jhonipereira](https://github.com/jhonipereira)
 
 #### 📫 How to reach me
 
