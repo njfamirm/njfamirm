@@ -5,6 +5,7 @@ Bot account for tasks that need to be done automatically!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (today)
 - [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (today)
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (3 weeks ago)
 
