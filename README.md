@@ -5,33 +5,33 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 day ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (2 days ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 - [njfamirm/apod](https://github.com/njfamirm/apod) - 
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - 
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website!
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 5 days ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 6 days ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [chore(apod): clone 2023-07-29 apod data](https://github.com/njfamirm/apod/pull/17) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [chore(apod): clone 2023-07-29 apod data](https://github.com/njfamirm/apod/pull/16) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [chore(apod): clone 2023-07-29 apod data](https://github.com/njfamirm/apod/pull/15) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [chore(apod): clone 2023-07-29 apod data](https://github.com/njfamirm/apod/pull/14) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [chore(apod): clone 2023-07-29 apod data](https://github.com/njfamirm/apod/pull/13) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
+- [fix(apod): prevent create apod again, add date env](https://github.com/njfamirm/alwatr-community/pull/28) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [fix(crawler): remove create data dir](https://github.com/njfamirm/apod/pull/22) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
+- [feat(keepco): add theme to hugo](https://github.com/AliMD/alwatr/pull/1400) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1399) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(fract): export `when`](https://github.com/AliMD/alwatr/pull/1398) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
