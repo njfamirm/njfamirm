@@ -50,3 +50,4 @@ Open source lover!
 - StackOverflow: https://stackoverflow.com/users/18004491/njfamirm
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm&theme=transparent&utcOffset=3.50)
