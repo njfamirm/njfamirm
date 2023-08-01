@@ -6,10 +6,10 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 day ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (2 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (2 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (3 days ago)
 
 #### ☂️ My latest projects
 
@@ -21,17 +21,17 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 6 days ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 week ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix(apod): prevent create apod again, add date env](https://github.com/njfamirm/alwatr-community/pull/28) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [fix(crawler): remove create data dir](https://github.com/njfamirm/apod/pull/22) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [feat(keepco): add theme to hugo](https://github.com/AliMD/alwatr/pull/1400) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1399) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat(fract): export `when`](https://github.com/AliMD/alwatr/pull/1398) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat(publish-post): new service](https://github.com/njfamirm/alwatr-community/pull/32) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [fix(apod): prevent create apod again, add date env](https://github.com/njfamirm/alwatr-community/pull/28) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
+- [fix(crawler): remove create data dir](https://github.com/njfamirm/apod/pull/22) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 days ago)
+- [feat(keepco): add theme to hugo](https://github.com/AliMD/alwatr/pull/1400) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1399) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
+- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (1 day ago)
 - [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (1 week ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (2 weeks ago)
 - [deanc/esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss) - Plugin for esbuild to support SASS styles (3 weeks ago)
-- [AminZibayi/Corporio](https://github.com/AminZibayi/Corporio) - Enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default. (3 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
