@@ -67,3 +67,5 @@ Open source lover!
 - Linkedin: https://www.linkedin.com/in/njfamirm/
 - Telegram: https://t.me/njfamirm
 - StackOverflow: https://stackoverflow.com/users/18004491/njfamirm
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
