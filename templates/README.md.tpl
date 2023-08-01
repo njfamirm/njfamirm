@@ -1,4 +1,5 @@
 ### Hi, I'm Amir
+[![wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
 
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
