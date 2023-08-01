@@ -1,14 +1,15 @@
 ### Hi, I'm Amir
-[![wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
+[![Wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
+![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
 
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (today)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (2 days ago)
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
 - [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (3 days ago)
 
@@ -28,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
+- [feat(ui-kit2): add fab &amp; extended fab directive](https://github.com/AliMD/alwatr/pull/1403) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (today)
 - [feat(publish-post): new service](https://github.com/njfamirm/alwatr-community/pull/32) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
 - [fix(apod): prevent create apod again, add date env](https://github.com/njfamirm/alwatr-community/pull/28) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
 - [fix(crawler): remove create data dir](https://github.com/njfamirm/apod/pull/22) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 days ago)
 - [feat(keepco): add theme to hugo](https://github.com/AliMD/alwatr/pull/1400) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat(demo-pwa): move app from playground](https://github.com/AliMD/alwatr/pull/1399) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (today)
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (1 day ago)
 - [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (1 week ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
-- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. (2 weeks ago)
-- [deanc/esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss) - Plugin for esbuild to support SASS styles (3 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
