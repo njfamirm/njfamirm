@@ -1,4 +1,4 @@
-### Hi, I'm Amir
+### Hi, I'm Amir Mohammad
 [![Wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
 ![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
 
@@ -58,6 +58,11 @@ Open source lover!
 - [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
 - [mmertpolat](https://github.com/mmertpolat)
 - [salmanclever](https://github.com/salmanclever)
+- [jhonipereira](https://github.com/jhonipereira)
+- [mahdikarimi1](https://github.com/mahdikarimi1)
+- [sajad25](https://github.com/sajad25)
+- [HaSaNmoradpor](https://github.com/HaSaNmoradpor)
+- [alirezaFAkhar](https://github.com/alirezaFAkhar)
 
 #### 📫 How to reach me
 
