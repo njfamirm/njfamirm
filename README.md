@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (today)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (today)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (today)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (today)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (3 days ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (4 days ago)
 
 #### ☂️ My latest projects
 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(ui-kit2): add fab &amp; extended fab directive](https://github.com/AliMD/alwatr/pull/1403) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (today)
-- [feat(publish-post): new service](https://github.com/njfamirm/alwatr-community/pull/32) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [fix(apod): prevent create apod again, add date env](https://github.com/njfamirm/alwatr-community/pull/28) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
-- [fix(crawler): remove create data dir](https://github.com/njfamirm/apod/pull/22) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 days ago)
-- [feat(keepco): add theme to hugo](https://github.com/AliMD/alwatr/pull/1400) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [refactor(content-publisher): use json format for metdata](https://github.com/njfamirm/alwatr-community/pull/38) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
+- [update content](https://github.com/njfamirm/blog-archive/pull/4) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (today)
+- [update content](https://github.com/njfamirm/blog-archive/pull/3) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (today)
+- [feat(content-publisher): update post on dev.to](https://github.com/njfamirm/alwatr-community/pull/37) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
+- [feat(workflow): publish](https://github.com/njfamirm/blog-archive/pull/1) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -45,10 +45,10 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (today)
-- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (1 day ago)
-- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (1 week ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (1 day ago)
+- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (2 days ago)
+- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 weeks ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
