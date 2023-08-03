@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (today)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (today)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (today)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 day ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (4 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (today)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (2 days ago)
+- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (5 days ago)
 
 #### ☂️ My latest projects
 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [refactor(content-publisher): use json format for metdata](https://github.com/njfamirm/alwatr-community/pull/38) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
-- [update content](https://github.com/njfamirm/blog-archive/pull/4) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (today)
-- [update content](https://github.com/njfamirm/blog-archive/pull/3) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (today)
-- [feat(content-publisher): update post on dev.to](https://github.com/njfamirm/alwatr-community/pull/37) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
-- [feat(workflow): publish](https://github.com/njfamirm/blog-archive/pull/1) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
+- [fix(content-publisher): merge metadata](https://github.com/njfamirm/alwatr-community/pull/41) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/6) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/5) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
+- [fix(content-publisher): prevent publish again with medium](https://github.com/njfamirm/alwatr-community/pull/40) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [feat(content-publisher): tags for each website](https://github.com/njfamirm/alwatr-community/pull/39) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -45,9 +45,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (1 day ago)
-- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (2 days ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 days ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (2 days ago)
+- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (3 days ago)
 - [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 weeks ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 
