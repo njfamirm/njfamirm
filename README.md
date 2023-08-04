@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (today)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (today)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (2 days ago)
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website! (5 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (3 days ago)
 
 #### ☂️ My latest projects
 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(content-publisher): merge metadata](https://github.com/njfamirm/alwatr-community/pull/41) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (today)
-- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/6) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
-- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/5) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (1 day ago)
-- [fix(content-publisher): prevent publish again with medium](https://github.com/njfamirm/alwatr-community/pull/40) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [feat(content-publisher): tags for each website](https://github.com/njfamirm/alwatr-community/pull/39) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [chore(service): remove content publisher](https://github.com/njfamirm/alwatr-community/pull/43) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [feat(ui-kit2): review and rewrite](https://github.com/AliMD/alwatr/pull/1410) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(content-publisher): merge metadata](https://github.com/njfamirm/alwatr-community/pull/41) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/6) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (2 days ago)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/5) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 days ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (2 days ago)
-- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (3 days ago)
+- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 day ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 days ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (3 days ago)
+- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (4 days ago)
 - [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 weeks ago)
-- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
