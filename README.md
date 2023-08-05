@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 day ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (3 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (2 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (4 days ago)
 
 #### ☂️ My latest projects
 
@@ -29,26 +29,26 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [chore(service): remove content publisher](https://github.com/njfamirm/alwatr-community/pull/43) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [feat(ui-kit2): review and rewrite](https://github.com/AliMD/alwatr/pull/1410) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(content-publisher): merge metadata](https://github.com/njfamirm/alwatr-community/pull/41) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/6) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (2 days ago)
-- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/5) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (2 days ago)
+- [chore(service): remove content publisher](https://github.com/njfamirm/alwatr-community/pull/43) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
+- [feat(ui-kit2): review and rewrite](https://github.com/AliMD/alwatr/pull/1410) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [fix(content-publisher): merge metadata](https://github.com/njfamirm/alwatr-community/pull/41) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/6) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (3 days ago)
+- [docs(post): automated post](https://github.com/njfamirm/blog-archive/pull/5) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (3 days ago)
 
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (6 months ago)
-- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (9 months ago)
-- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (11 months ago)
+- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (10 months ago)
+- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (1 year ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 day ago)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 days ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (3 days ago)
-- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (4 days ago)
+- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (2 days ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (4 days ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (4 days ago)
+- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (5 days ago)
 - [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
