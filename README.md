@@ -7,19 +7,19 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (3 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (5 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (1 day ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (3 days ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (4 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (6 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 - [njfamirm/apod](https://github.com/njfamirm/apod) - 
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github
-- [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) - Keep Group website!
 
 #### 🎉 Latest releases I've contributed to
 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(wordpress): use official nginx image](https://github.com/AliMD/alwatr/pull/1413) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [bugfix(cloud): set env version to 1.0.1](https://github.com/AliMD/alwatr/pull/1412) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [docs(git): new article](https://github.com/njfamirm/blog-archive/pull/7) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (3 days ago)
-- [docs(license): update](https://github.com/njfamirm/decap-cms-github-backend/pull/4) on [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) (3 days ago)
-- [chore(service): remove content publisher](https://github.com/njfamirm/alwatr-community/pull/43) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (5 days ago)
+- [feat/package 1](https://github.com/njfamirm/training/pull/2) on [njfamirm/training](https://github.com/njfamirm/training) (1 day ago)
+- [feat: many feature](https://github.com/njfamirm/training/pull/1) on [njfamirm/training](https://github.com/njfamirm/training) (1 day ago)
+- [fix(wordpress): use official nginx image](https://github.com/AliMD/alwatr/pull/1413) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [bugfix(cloud): set env version to 1.0.1](https://github.com/AliMD/alwatr/pull/1412) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [docs(git): new article](https://github.com/njfamirm/blog-archive/pull/7) on [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (5 days ago)
+- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (6 days ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 week ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (1 week ago)
 - [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (1 week ago)
-- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (2 weeks ago)
+- [postcss/postcss-cli](https://github.com/postcss/postcss-cli) - CLI for postcss (3 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
