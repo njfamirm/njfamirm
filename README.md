@@ -8,9 +8,9 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (1 day ago)
-- [njfamirm/training](https://github.com/njfamirm/training) -  (2 days ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (4 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (5 days ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (3 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (5 days ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (6 days ago)
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 week ago)
 
 #### ☂️ My latest projects
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(data): env](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: base structure](https://github.com/njfamirm/12fy/pull/1) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat/package 1](https://github.com/njfamirm/training/pull/2) on [njfamirm/training](https://github.com/njfamirm/training) (2 days ago)
-- [feat: many feature](https://github.com/njfamirm/training/pull/1) on [njfamirm/training](https://github.com/njfamirm/training) (2 days ago)
-- [fix(wordpress): use official nginx image](https://github.com/AliMD/alwatr/pull/1413) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
+- [feat: base structure](https://github.com/njfamirm/12fy/pull/1) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
+- [feat/package 1](https://github.com/njfamirm/training/pull/2) on [njfamirm/training](https://github.com/njfamirm/training) (3 days ago)
+- [feat: many feature](https://github.com/njfamirm/training/pull/1) on [njfamirm/training](https://github.com/njfamirm/training) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (1 day ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (1 day ago)
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (2 days ago)
 - [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 week ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 week ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (1 week ago)
-- [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium&#39;s OAuth2 API (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
