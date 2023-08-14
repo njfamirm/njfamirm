@@ -7,10 +7,10 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 days ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (2 days ago)
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (3 days ago)
-- [njfamirm/training](https://github.com/njfamirm/training) -  (5 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (3 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (3 days ago)
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (4 days ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (6 days ago)
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 week ago)
 
 #### ☂️ My latest projects
@@ -29,11 +29,10 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat!: remove all](https://github.com/njfamirm/old-njfamirm.ir/pull/139) on [njfamirm/old-njfamirm.ir](https://github.com/njfamirm/old-njfamirm.ir) (2 days ago)
-- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (3 days ago)
-- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (4 days ago)
-- [feat: base structure](https://github.com/njfamirm/12fy/pull/1) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (4 days ago)
-- [feat/package 1](https://github.com/njfamirm/training/pull/2) on [njfamirm/training](https://github.com/njfamirm/training) (5 days ago)
+- [feat!: remove all](https://github.com/njfamirm/old-njfamirm.ir/pull/139) on [njfamirm/old-njfamirm.ir](https://github.com/njfamirm/old-njfamirm.ir) (3 days ago)
+- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (4 days ago)
+- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
+- [feat: base structure](https://github.com/njfamirm/12fy/pull/1) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +44,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (3 days ago)
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (4 days ago)
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (1 day ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (4 days ago)
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (5 days ago)
 - [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 week ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 week ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
