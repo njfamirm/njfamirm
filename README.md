@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (3 days ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (3 days ago)
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (4 days ago)
-- [njfamirm/training](https://github.com/njfamirm/training) -  (6 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 week ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (1 day ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (4 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (4 days ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (1 week ago)
 
 #### ☂️ My latest projects
 
@@ -23,16 +23,16 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 2 weeks ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 3 weeks ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 - [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [feat!: remove all](https://github.com/njfamirm/old-njfamirm.ir/pull/139) on [njfamirm/old-njfamirm.ir](https://github.com/njfamirm/old-njfamirm.ir) (3 days ago)
-- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (4 days ago)
-- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
-- [feat: base structure](https://github.com/njfamirm/12fy/pull/1) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
+- [feat(config): add postcss filter](https://github.com/njfamirm/12fy/pull/4) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat!: remove all](https://github.com/njfamirm/old-njfamirm.ir/pull/139) on [njfamirm/old-njfamirm.ir](https://github.com/njfamirm/old-njfamirm.ir) (4 days ago)
+- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
+- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,11 +44,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (1 day ago)
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (4 days ago)
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (5 days ago)
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (2 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (5 days ago)
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (6 days ago)
 - [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 week ago)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 week ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
