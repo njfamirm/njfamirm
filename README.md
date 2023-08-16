@@ -8,9 +8,9 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
 - [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (1 day ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (4 days ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (4 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (5 days ago)
 - [njfamirm/training](https://github.com/njfamirm/training) -  (1 week ago)
 
 #### ☂️ My latest projects
@@ -29,14 +29,15 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(config): add postcss filter](https://github.com/njfamirm/12fy/pull/4) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat!: remove all](https://github.com/njfamirm/old-njfamirm.ir/pull/139) on [njfamirm/old-njfamirm.ir](https://github.com/njfamirm/old-njfamirm.ir) (4 days ago)
-- [feat: base layout](https://github.com/njfamirm/12fy/pull/3) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (5 days ago)
-- [feat: data env, dynamic meta, minify html](https://github.com/njfamirm/12fy/pull/2) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (6 days ago)
+- [fix(workflow): publish container on push main](https://github.com/njfamirm/12fy/pull/7) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat(prepare-node): srv4 resolve](https://github.com/AliMD/alwatr/pull/1442) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(cloud): keyscan](https://github.com/AliMD/alwatr/pull/1441) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat: add all workflow from alwatr](https://github.com/njfamirm/12fy/pull/5) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat: add home and post page](https://github.com/njfamirm/njfamirm.ir/pull/1) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (6 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (7 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (10 months ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (1 year ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (1 year ago)
@@ -44,9 +45,9 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (2 days ago)
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (5 days ago)
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (6 days ago)
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (3 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (6 days ago)
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (1 week ago)
 - [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 week ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 weeks ago)
 
