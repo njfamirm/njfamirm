@@ -7,16 +7,16 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 11ty&#43;; Base template for 11ty. (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43; (1 day ago)
-- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (5 days ago)
-- [njfamirm/training](https://github.com/njfamirm/training) -  (1 week ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (6 days ago)
 
 #### ☂️ My latest projects
 
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website.
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 11ty&#43;
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 11ty&#43;; Base template for 11ty.
 - [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 - [njfamirm/apod](https://github.com/njfamirm/apod) - 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix(workflow): publish container on push main](https://github.com/njfamirm/12fy/pull/7) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat(prepare-node): srv4 resolve](https://github.com/AliMD/alwatr/pull/1442) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [fix(cloud): keyscan](https://github.com/AliMD/alwatr/pull/1441) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [feat: add all workflow from alwatr](https://github.com/njfamirm/12fy/pull/5) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: add home and post page](https://github.com/njfamirm/njfamirm.ir/pull/1) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat: add post page](https://github.com/njfamirm/njfamirm.ir/pull/5) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat: update from upstream](https://github.com/njfamirm/njfamirm.ir/pull/2) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat: add tailwindcss](https://github.com/njfamirm/12fy/pull/10) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [fix(cloud): add execute permission to deploy.sh](https://github.com/njfamirm/12fy/pull/9) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat(cloud/lib): add login command](https://github.com/AliMD/alwatr/pull/1443) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (3 days ago)
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (6 days ago)
+- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates. (1 day ago)
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (4 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (1 week ago)
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (1 week ago)
-- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (1 week ago)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 weeks ago)
+- [CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 📚 A component development workflow for static websites. (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
