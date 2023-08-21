@@ -7,16 +7,16 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 11ty&#43;; Base template for 11ty. (1 day ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (4 days ago)
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 Base template for 11ty (1 day ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (5 days ago)
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 week ago)
 
 #### ☂️ My latest projects
 
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website.
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 11ty&#43;; Base template for 11ty.
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 Base template for 11ty
 - [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 - [njfamirm/apod](https://github.com/njfamirm/apod) - 
@@ -29,11 +29,11 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat: deploy per domain](https://github.com/njfamirm/12fy/pull/16) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat(cloud): add deploy env](https://github.com/njfamirm/12fy/pull/15) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: add esbuild](https://github.com/njfamirm/12fy/pull/14) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: upgrade yarn to v3.6 🎉](https://github.com/njfamirm/12fy/pull/13) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat:‌ final move server](https://github.com/AliMD/alwatr/pull/1452) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix: use build args to pass env to docker](https://github.com/njfamirm/12fy/pull/19) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat(dockerfile): use new nginx-ws image  @njfamirm](https://github.com/njfamirm/12fy/pull/18) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat: add sample home &amp; about page](https://github.com/njfamirm/12fy/pull/17) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [feat: deploy per domain](https://github.com/njfamirm/12fy/pull/16) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
+- [feat(cloud): add deploy env](https://github.com/njfamirm/12fy/pull/15) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +45,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 day ago)
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (1 day ago)
-- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates. (4 days ago)
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode (1 week ago)
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem. (1 week ago)
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 day ago)
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (1 day ago)
+- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (2 days ago)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (2 days ago)
+- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates. (5 days ago)
 
 #### ♥️ Check out some of my recent followers
 
