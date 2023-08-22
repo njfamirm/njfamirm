@@ -8,9 +8,9 @@ Open source lover!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 Base template for 11ty (1 day ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (2 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (5 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (3 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (1 week ago)
 
 #### ☂️ My latest projects
@@ -23,17 +23,15 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 3 weeks ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 4 weeks ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
-- [AliMD/Salav.at](https://github.com/AliMD/Salav.at) ([v1.5.0](https://github.com/AliMD/Salav.at/releases/tag/v1.5.0), 1 year ago) - Salav.at Progressive Web App
 
 #### 👓 My recent Pull Requests
 
-- [fix: use build args to pass env to docker](https://github.com/njfamirm/12fy/pull/19) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat(dockerfile): use new nginx-ws image  @njfamirm](https://github.com/njfamirm/12fy/pull/18) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: add sample home &amp; about page](https://github.com/njfamirm/12fy/pull/17) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
-- [feat: deploy per domain](https://github.com/njfamirm/12fy/pull/16) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
-- [feat(cloud): add deploy env](https://github.com/njfamirm/12fy/pull/15) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
+- [feat(nginx): force domain](https://github.com/AliMD/alwatr/pull/1460) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [fix(workflow): build args syntax](https://github.com/njfamirm/12fy/pull/21) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [fix(cloud): service name](https://github.com/njfamirm/12fy/pull/20) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (1 day ago)
+- [fix: use build args to pass env to docker](https://github.com/njfamirm/12fy/pull/19) on [njfamirm/12fy](https://github.com/njfamirm/12fy) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 day ago)
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (1 day ago)
-- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (2 days ago)
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (2 days ago)
-- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates. (5 days ago)
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (2 days ago)
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (2 days ago)
+- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (3 days ago)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (3 days ago)
+- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates. (6 days ago)
 
 #### ♥️ Check out some of my recent followers
 
