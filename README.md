@@ -7,19 +7,19 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/under-construction-ws](https://github.com/njfamirm/under-construction-ws) -  (3 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 week ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 days ago)
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (2 weeks ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (2 weeks ago)
 
 #### ☂️ My latest projects
 
-- [njfamirm/under-construction-ws](https://github.com/njfamirm/under-construction-ws) - 
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website.
 - [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 - [njfamirm/apod](https://github.com/njfamirm/apod) - 
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project
 
 #### 🎉 Latest releases I've contributed to
 
@@ -28,8 +28,9 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat(v2fly): add new server, export vmess link script ](https://github.com/AliMD/alwatr/pull/1474) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
-- [chore(cloud): move server](https://github.com/AliMD/alwatr/pull/1470) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat: update from upstream, image plugin](https://github.com/njfamirm/njfamirm.ir/pull/12) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [feat(v2fly): add new server, export vmess link script ](https://github.com/AliMD/alwatr/pull/1474) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [chore(cloud): move server](https://github.com/AliMD/alwatr/pull/1470) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -41,7 +42,7 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [AliMD/UnderDev](https://github.com/AliMD/UnderDev) -  (3 days ago)
+- [AliMD/UnderDev](https://github.com/AliMD/UnderDev) -  (4 days ago)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 week ago)
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (1 week ago)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 week ago)
