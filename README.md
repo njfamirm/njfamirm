@@ -7,8 +7,8 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (5 days ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (5 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (6 days ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) -  (3 weeks ago)
 - [njfamirm/training](https://github.com/njfamirm/training) -  (3 weeks ago)
@@ -28,6 +28,7 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
+- [feat: move adminer](https://github.com/AliMD/alwatr/pull/1488) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -39,11 +40,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [csstools/cssdb](https://github.com/csstools/cssdb) - A database of staged CSS features (3 days ago)
+- [christopherpickering/eleventy-plugin-edit-on-github](https://github.com/christopherpickering/eleventy-plugin-edit-on-github) - Eleventy plugin to add an &#34;Edit on Github&#34; link to pages. (1 day ago)
+- [csstools/cssdb](https://github.com/csstools/cssdb) - A database of staged CSS features (4 days ago)
 - [AliMD/UnderDev](https://github.com/AliMD/UnderDev) -  (1 week ago)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 week ago)
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (1 week ago)
-- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 week ago)
 
 #### ♥️ Check out some of my recent followers
 
