@@ -7,9 +7,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) -  (1 day ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [11ty/11ty-community](https://github.com/11ty/11ty-community) -  (2 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) -  (2 days ago)
+- [11ty/11ty-community](https://github.com/11ty/11ty-community) -  (3 days ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 week ago)
 
@@ -28,10 +28,9 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [feat: add deploy command](https://github.com/njfamirm/lorem-ipsum.ir/pull/6) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
-- [feat: upgrade yarn](https://github.com/njfamirm/lorem-ipsum.ir/pull/5) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
-- [feat: update deployment](https://github.com/njfamirm/lorem-ipsum.ir/pull/4) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
-- [feat: cleanup &amp; under dev page](https://github.com/njfamirm/lorem-ipsum.ir/pull/3) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
+- [feat: add deploy command](https://github.com/njfamirm/lorem-ipsum.ir/pull/6) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (2 days ago)
+- [feat: upgrade yarn](https://github.com/njfamirm/lorem-ipsum.ir/pull/5) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (2 days ago)
+- [feat: update deployment](https://github.com/njfamirm/lorem-ipsum.ir/pull/4) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [christopherpickering/eleventy-plugin-edit-on-github](https://github.com/christopherpickering/eleventy-plugin-edit-on-github) - Eleventy plugin to add an &#34;Edit on Github&#34; link to pages. (3 days ago)
-- [csstools/cssdb](https://github.com/csstools/cssdb) - A database of staged CSS features (6 days ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (1 day ago)
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (1 day ago)
+- [christopherpickering/eleventy-plugin-edit-on-github](https://github.com/christopherpickering/eleventy-plugin-edit-on-github) - Eleventy plugin to add an &#34;Edit on Github&#34; link to pages. (4 days ago)
+- [csstools/cssdb](https://github.com/csstools/cssdb) - A database of staged CSS features (1 week ago)
 - [AliMD/UnderDev](https://github.com/AliMD/UnderDev) -  (1 week ago)
-- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (2 weeks ago)
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. (2 weeks ago)
 
 #### ♥️ Check out some of my recent followers
 
