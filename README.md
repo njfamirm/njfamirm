@@ -7,9 +7,9 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (today)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (2 days ago)
-- [11ty/11ty-community](https://github.com/11ty/11ty-community) -  (6 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (today)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
+- [11ty/11ty-community](https://github.com/11ty/11ty-community) -  (1 week ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 week ago)
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
 
@@ -28,8 +28,9 @@ Open source lover!
 
 #### 👓 My recent Pull Requests
 
-- [fix: install flags](https://github.com/njfamirm/lorem-ipsum.ir/pull/12) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (2 days ago)
-- [feat: update](https://github.com/njfamirm/njfamirm.ir/pull/20) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (3 days ago)
+- [feat: update from base](https://github.com/njfamirm/lorem-ipsum.ir/pull/19) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
+- [feat: update &amp; add logo](https://github.com/njfamirm/lorem-ipsum.ir/pull/18) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
+- [feat: update prayer and add kalameh font](https://github.com/njfamirm/njfamirm.ir/pull/24) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -41,8 +42,8 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (4 days ago)
-- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (4 days ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (5 days ago)
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (5 days ago)
 - [christopherpickering/eleventy-plugin-edit-on-github](https://github.com/christopherpickering/eleventy-plugin-edit-on-github) - Eleventy plugin to add an &#34;Edit on Github&#34; link to pages. (1 week ago)
 - [csstools/cssdb](https://github.com/csstools/cssdb) - A database of staged CSS features (1 week ago)
 - [AliMD/UnderDev](https://github.com/AliMD/UnderDev) -  (2 weeks ago)
