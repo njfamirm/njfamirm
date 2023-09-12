@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 day ago)
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (2 days ago)
-- [11ty/11ty-community](https://github.com/11ty/11ty-community) -  (1 week ago)
-- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (2 weeks ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (today)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 day ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (2 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (3 days ago)
 
 #### ☂️ My latest projects
 
@@ -23,15 +23,15 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/telegram@0.2.0](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/telegram%400.2.0), 1 day ago) - Community driven of Alwatr project
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
 #### 👓 My recent Pull Requests
 
-- [docs: add new external oauth client](https://github.com/decaporg/decap-cms/pull/6906) on [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (1 day ago)
-- [feat: update blog link](https://github.com/njfamirm/decap-cms-github-backend/pull/5) on [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) (1 day ago)
-- [feat: update from base](https://github.com/njfamirm/lorem-ipsum.ir/pull/19) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (3 days ago)
-- [feat: update &amp; add logo](https://github.com/njfamirm/lorem-ipsum.ir/pull/18) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (3 days ago)
+- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat: update from alwatr](https://github.com/njfamirm/alwatr-community/pull/110) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
+- [docs: add new external oauth client](https://github.com/decaporg/decap-cms/pull/6906) on [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (2 days ago)
+- [feat: update blog link](https://github.com/njfamirm/decap-cms-github-backend/pull/5) on [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [11ty/api-sparkline](https://github.com/11ty/api-sparkline) - Service to return sparkline SVG images. (1 day ago)
-- [zachleat/educational-sensational-inspirational-foundational](https://github.com/zachleat/educational-sensational-inspirational-foundational) - A website dedicated to a history of foundational web development blog posts. (1 day ago)
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (1 week ago)
-- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (1 week ago)
-- [christopherpickering/eleventy-plugin-edit-on-github](https://github.com/christopherpickering/eleventy-plugin-edit-on-github) - Eleventy plugin to add an &#34;Edit on Github&#34; link to pages. (1 week ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
+- [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API (1 day ago)
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard (1 day ago)
+- [11ty/api-sparkline](https://github.com/11ty/api-sparkline) - Service to return sparkline SVG images. (2 days ago)
+- [zachleat/educational-sensational-inspirational-foundational](https://github.com/zachleat/educational-sensational-inspirational-foundational) - A website dedicated to a history of foundational web development blog posts. (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
