@@ -7,31 +7,30 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project (1 day ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (3 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 day ago)
+- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website 1 (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 days ago)
 
 #### ☂️ My latest projects
 
+- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website 1
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅
 - [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website.
 - [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
-- [njfamirm/apod](https://github.com/njfamirm/apod) - 
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 day ago) - The Alwatr Library
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 2 days ago) - The Alwatr Library
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project.
 
 #### 👓 My recent Pull Requests
 
-- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 day ago)
-- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
-- [feat: update from alwatr](https://github.com/njfamirm/alwatr-community/pull/110) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
-- [docs: add new external oauth client](https://github.com/decaporg/decap-cms/pull/6906) on [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 days ago)
+- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (2 days ago)
+- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat: update from alwatr](https://github.com/njfamirm/alwatr-community/pull/110) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,11 +42,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling (1 day ago)
-- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator. (1 day ago)
-- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time. (1 day ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
-- [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API (2 days ago)
+- [11ty/eleventy-navigation](https://github.com/11ty/eleventy-navigation) - A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too! (1 day ago)
+- [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling (2 days ago)
+- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator. (2 days ago)
+- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time. (2 days ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
