@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (3 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (3 days ago)
-- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website (3 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 days ago)
+- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (4 days ago)
+- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website (4 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (6 days ago)
 
 #### ☂️ My latest projects
 
@@ -23,14 +23,15 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 4 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 5 days ago) - The Alwatr Library
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project.
 
 #### 👓 My recent Pull Requests
 
-- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (4 days ago)
-- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
-- [feat: update from alwatr](https://github.com/njfamirm/alwatr-community/pull/110) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (5 days ago)
+- [feat: rewrite blog](https://github.com/njfamirm/njfamirm.ir/pull/31) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (1 day ago)
+- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (5 days ago)
+- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat: update from alwatr](https://github.com/njfamirm/alwatr-community/pull/110) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -42,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 Base template for 11ty (2 days ago)
-- [11ty/eleventy-navigation](https://github.com/11ty/eleventy-navigation) - A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too! (3 days ago)
-- [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling (4 days ago)
-- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator. (4 days ago)
-- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time. (4 days ago)
+- [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - Telegram bot template based on grammY (1 day ago)
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte (1 day ago)
+- [njfamirm/12fy](https://github.com/njfamirm/12fy) - 💎 Base template for 11ty (3 days ago)
+- [11ty/eleventy-navigation](https://github.com/11ty/eleventy-navigation) - A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too! (4 days ago)
+- [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling (5 days ago)
 
 #### ♥️ Check out some of my recent followers
 
