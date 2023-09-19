@@ -7,30 +7,31 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website. (1 day ago)
-- [AliMD/blog](https://github.com/AliMD/blog) -  (2 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (5 days ago)
-- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website (5 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (6 days ago)
+- [AliMD/blog](https://github.com/AliMD/blog) -  (1 day ago)
+- [njfamirm/training](https://github.com/njfamirm/training) -  (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website (6 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (6 days ago)
 
 #### ☂️ My latest projects
 
 - [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅
-- [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) - My personal website.
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website.
 - [njfamirm/training](https://github.com/njfamirm/training) - 
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
 
 #### 🎉 Latest releases I've contributed to
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 week ago) - The Alwatr Library
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project.
+- [AliMD/alwatr-storage](https://github.com/AliMD/alwatr-storage) ([v3.0.0-beta](https://github.com/AliMD/alwatr-storage/releases/tag/v3.0.0-beta), 2 years ago) - Supper Fast &amp; Tiny JSON Based Database with Memory Cache in TypeScript
 
 #### 👓 My recent Pull Requests
 
-- [feat: remove node-fetch types](https://github.com/theothirteen/zx/pull/1) on [theothirteen/zx](https://github.com/theothirteen/zx) (1 day ago)
-- [feat: rewrite blog](https://github.com/njfamirm/njfamirm.ir/pull/31) on [njfamirm/njfamirm.ir](https://github.com/njfamirm/njfamirm.ir) (2 days ago)
-- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (6 days ago)
+- [feat: remove node-fetch types](https://github.com/theothirteen/zx/pull/1) on [theothirteen/zx](https://github.com/theothirteen/zx) (2 days ago)
+- [feat: rewrite blog](https://github.com/njfamirm/blog/pull/31) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
+- [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 week ago)
 - [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -43,11 +44,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [minimistjs/minimist](https://github.com/minimistjs/minimist) - parse argument options (1 day ago)
-- [AliMD/blog](https://github.com/AliMD/blog) -  (1 day ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
-- [surma/surma.dev](https://github.com/surma/surma.dev) - Personal Homepage (1 day ago)
-- [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - Telegram bot template based on grammY (2 days ago)
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) -  (1 day ago)
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) -  (1 day ago)
+- [AliMD/fract](https://github.com/AliMD/fract) -  (1 day ago)
+- [AliMD/soffit-order](https://github.com/AliMD/soffit-order) -  (1 day ago)
+- [AliMD/alwatr-notifier](https://github.com/AliMD/alwatr-notifier) -  (1 day ago)
 
 #### ♥️ Check out some of my recent followers
 
