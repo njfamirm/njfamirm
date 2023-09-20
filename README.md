@@ -7,32 +7,34 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [AliMD/blog](https://github.com/AliMD/blog) -  (1 day ago)
-- [njfamirm/training](https://github.com/njfamirm/training) -  (1 day ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
-- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website (6 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 day ago)
+- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple. (1 day ago)
+- [AliMD/blog](https://github.com/AliMD/blog) -  (2 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 week ago)
 
 #### ☂️ My latest projects
 
-- [njfamirm/alwatr.ir](https://github.com/njfamirm/alwatr.ir) - @Alwatr website
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website.
-- [njfamirm/training](https://github.com/njfamirm/training) - 
+- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple.
 - [njfamirm/blog-archive](https://github.com/njfamirm/blog-archive) - 
+- [njfamirm/apod](https://github.com/njfamirm/apod) - 
 
 #### 🎉 Latest releases I've contributed to
 
+- [AliMD/fract](https://github.com/AliMD/fract) ([@alwatr/router@2.0.0-beta.0](https://github.com/AliMD/fract/releases/tag/%40alwatr/router%402.0.0-beta.0), today) - 
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.0](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.0), 1 day ago) - 
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/type@1.1.4](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/type%401.1.4), 1 day ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 week ago) - The Alwatr Library
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([v0.1.0](https://github.com/njfamirm/alwatr-community/releases/tag/v0.1.0), 1 month ago) - Community driven of Alwatr project.
-- [AliMD/alwatr-storage](https://github.com/AliMD/alwatr-storage) ([v3.0.0-beta](https://github.com/AliMD/alwatr-storage/releases/tag/v3.0.0-beta), 2 years ago) - Supper Fast &amp; Tiny JSON Based Database with Memory Cache in TypeScript
 
 #### 👓 My recent Pull Requests
 
-- [feat: remove node-fetch types](https://github.com/theothirteen/zx/pull/1) on [theothirteen/zx](https://github.com/theothirteen/zx) (2 days ago)
-- [feat: rewrite blog](https://github.com/njfamirm/blog/pull/31) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
+- [feat(blog): strapi custom api post](https://github.com/njfamirm/blog/pull/34) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [feat: remove node-fetch types](https://github.com/theothirteen/zx/pull/1) on [theothirteen/zx](https://github.com/theothirteen/zx) (3 days ago)
+- [feat: rewrite blog](https://github.com/njfamirm/blog/pull/31) on [njfamirm/blog](https://github.com/njfamirm/blog) (4 days ago)
 - [chore: use my email on CODE_OF_CONDUCT.md](https://github.com/njfamirm/alwatr-community/pull/119) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (1 week ago)
-- [feat: automate independent version ](https://github.com/AliMD/alwatr/pull/1505) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -44,11 +46,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) -  (1 day ago)
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) -  (1 day ago)
-- [AliMD/fract](https://github.com/AliMD/fract) -  (1 day ago)
-- [AliMD/soffit-order](https://github.com/AliMD/soffit-order) -  (1 day ago)
-- [AliMD/alwatr-notifier](https://github.com/AliMD/alwatr-notifier) -  (1 day ago)
+- [AliMD/.github](https://github.com/AliMD/.github) - Community health files and default repos options for @AliMD; (1 day ago)
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (2 days ago)
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) -  (2 days ago)
+- [AliMD/fract](https://github.com/AliMD/fract) -  (2 days ago)
+- [AliMD/soffit-order](https://github.com/AliMD/soffit-order) -  (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
