@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (1 day ago)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (2 days ago)
-- [AliMD/blog](https://github.com/AliMD/blog) -  (4 days ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (4 days ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (3 days ago)
+- [AliMD/blog](https://github.com/AliMD/blog) -  (5 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (5 days ago)
 
 #### ☂️ My latest projects
 
@@ -23,19 +23,15 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 1 day ago) - CMS of my blog
-- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 3 days ago) - Alwatr Icon
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.1.0](https://github.com/njfamirm/blog/releases/tag/v1.1.0), 5 days ago) - My personal website.
+- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 2 days ago) - CMS of my blog
+- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 4 days ago) - Alwatr Icon
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.1.0](https://github.com/njfamirm/blog/releases/tag/v1.1.0), 6 days ago) - My personal website.
 - [AliMD/fract](https://github.com/AliMD/fract) ([@alwatr/style@1.2.0](https://github.com/AliMD/fract/releases/tag/%40alwatr/style%401.2.0), 1 week ago) - 
 - [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.0](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.0), 1 week ago) - 
 
 #### 👓 My recent Pull Requests
 
-- [docs(blog): intro to es conditions](https://github.com/AliMD/blog/pull/8) on [AliMD/blog](https://github.com/AliMD/blog) (4 days ago)
-- [feat(nginx): implement redirect](https://github.com/AliMD/alwatr/pull/1597) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
-- [feat: new theme](https://github.com/AliMD/blog/pull/7) on [AliMD/blog](https://github.com/AliMD/blog) (5 days ago)
-- [docs(blog-post): add data-type in es](https://github.com/AliMD/blog/pull/4) on [AliMD/blog](https://github.com/AliMD/blog) (6 days ago)
-- [feat(icon-set-material): add package](https://github.com/AliMD/alwatr-icon/pull/5) on [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) (1 week ago)
+- [feat: update from base](https://github.com/AliMD/blog/pull/11) on [AliMD/blog](https://github.com/AliMD/blog) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -47,11 +43,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [openbridge/nginx](https://github.com/openbridge/nginx) - NGINX Accelerated! This is a Docker image that creates a high performance (FAST!), optimized image for NGINX for use with Redis and PHP-FMP. Deliver sites and applications with performance, reliability, security, and scale. This NGINX server offers advanced performance, web and mobile acceleration, security controls, application monitoring, and management. (4 days ago)
-- [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks. (4 days ago)
-- [11ty/eleventy-img](https://github.com/11ty/eleventy-img) - Utility to perform build-time image transformations. (6 days ago)
+- [crookedneighbor/markdown-it-link-attributes](https://github.com/crookedneighbor/markdown-it-link-attributes) -  (1 day ago)
+- [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است (1 day ago)
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [openbridge/nginx](https://github.com/openbridge/nginx) - NGINX Accelerated! This is a Docker image that creates a high performance (FAST!), optimized image for NGINX for use with Redis and PHP-FMP. Deliver sites and applications with performance, reliability, security, and scale. This NGINX server offers advanced performance, web and mobile acceleration, security controls, application monitoring, and management. (5 days ago)
 
 #### ♥️ Check out some of my recent followers
 
