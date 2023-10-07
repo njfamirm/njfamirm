@@ -5,16 +5,16 @@
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
 
-#### ✍🏻 Blog posts
+#### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-#### 👨🏻‍💻 Check out what I'm currently working on
+#### Current Projects
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### ☂️ My latest projects
+#### Latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
@@ -24,27 +24,22 @@ Open source lover!
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 👓 My recent Pull Requests
+#### Recent Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📓 Gists I wrote
+#### Recent Gists
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### ⭐ Recent Stars
+#### Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ♥️ Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-#### 📫 How to reach me
+#### Socials
 
 - Blog: https://njfamirm.ir
 - Email: hi@njfamirm.ir
@@ -52,6 +47,3 @@ Open source lover!
 - Linkedin: https://www.linkedin.com/in/njfamirm/
 - Telegram: https://t.me/njfamirm
 - StackOverflow: https://stackoverflow.com/users/18004491/njfamirm
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm&theme=transparent&utcOffset=3.50)
