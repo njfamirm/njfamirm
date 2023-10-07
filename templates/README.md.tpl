@@ -5,6 +5,10 @@
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
 
+#### ✍🏻 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### 👨🏻‍💻 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -36,7 +40,7 @@ Open source lover!
 {{- end}}
 
 #### ♥️ Check out some of my recent followers
-{{range followers 10}}
+{{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
