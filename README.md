@@ -7,11 +7,11 @@ Open source lover!
 
 #### 👨🏻‍💻 Check out what I'm currently working on
 
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (2 days ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (2 days ago)
-- [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website. (2 days ago)
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (4 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (3 days ago)
+- [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website. (3 days ago)
+- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (5 days ago)
 
 #### ☂️ My latest projects
 
@@ -23,19 +23,19 @@ Open source lover!
 
 #### 🎉 Latest releases I've contributed to
 
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 2 days ago) - Fast lorem ipsum generator static website ✅
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 6 days ago) - CMS of my blog
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 3 days ago) - Fast lorem ipsum generator static website ✅
+- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 1 week ago) - CMS of my blog
 - [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 1 week ago) - Alwatr Icon
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.1.0](https://github.com/njfamirm/blog/releases/tag/v1.1.0), 1 week ago) - My personal website.
-- [AliMD/fract](https://github.com/AliMD/fract) ([@alwatr/style@1.2.0](https://github.com/AliMD/fract/releases/tag/%40alwatr/style%401.2.0), 1 week ago) - 
+- [AliMD/fract](https://github.com/AliMD/fract) ([@alwatr/style@1.2.0](https://github.com/AliMD/fract/releases/tag/%40alwatr/style%401.2.0), 2 weeks ago) - 
 
 #### 👓 My recent Pull Requests
 
-- [feat: update from base](https://github.com/njfamirm/blog/pull/53) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
-- [feat: update from 12fy](https://github.com/njfamirm/satafti-blog/pull/16) on [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) (2 days ago)
-- [feat: add real data to toolbox](https://github.com/njfamirm/lorem-ipsum.ir/pull/46) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (3 days ago)
-- [feat: make toolbox dynamic](https://github.com/njfamirm/lorem-ipsum.ir/pull/45) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (3 days ago)
-- [feat: update from alwatr 12fy](https://github.com/njfamirm/lorem-ipsum.ir/pull/42) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (3 days ago)
+- [feat: update from base](https://github.com/njfamirm/blog/pull/53) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
+- [feat: update from 12fy](https://github.com/njfamirm/satafti-blog/pull/16) on [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) (3 days ago)
+- [feat: add real data to toolbox](https://github.com/njfamirm/lorem-ipsum.ir/pull/46) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
+- [feat: make toolbox dynamic](https://github.com/njfamirm/lorem-ipsum.ir/pull/45) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
+- [feat: update from alwatr 12fy](https://github.com/njfamirm/lorem-ipsum.ir/pull/42) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -47,11 +47,11 @@ Open source lover!
 
 #### ⭐ Recent Stars
 
-- [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids (1 day ago)
-- [antonmedv/mx](https://github.com/antonmedv/mx) - Markup without JSX (1 day ago)
-- [antonmedv/list](https://github.com/antonmedv/list) - Immutable lists in JavaScript without [] and {} (1 day ago)
-- [antonmedv/spark](https://github.com/antonmedv/spark) - GitHub Stars Sparklines ⚡️ (1 day ago)
-- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad &#43; calculator (1 day ago)
+- [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids (2 days ago)
+- [antonmedv/mx](https://github.com/antonmedv/mx) - Markup without JSX (2 days ago)
+- [antonmedv/list](https://github.com/antonmedv/list) - Immutable lists in JavaScript without [] and {} (2 days ago)
+- [antonmedv/spark](https://github.com/antonmedv/spark) - GitHub Stars Sparklines ⚡️ (2 days ago)
+- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad &#43; calculator (2 days ago)
 
 #### ♥️ Check out some of my recent followers
 
