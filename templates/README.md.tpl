@@ -7,6 +7,9 @@ Open source lover!
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
+- [A Step-by-Step Guide to Self-Hosting Decap CMS](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Current Projects

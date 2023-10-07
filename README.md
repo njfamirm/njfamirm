@@ -5,15 +5,22 @@
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
 
-#### 👨🏻‍💻 Check out what I'm currently working on
+#### Blog posts
 
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 day ago)
+- [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
+- [A Step-by-Step Guide to Self-Hosting Decap CMS](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
+
+
+#### Current Projects
+
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (today)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 day ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (3 days ago)
 - [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website. (3 days ago)
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (5 days ago)
 
-#### ☂️ My latest projects
+#### Latest projects
 
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) - 
@@ -29,15 +36,15 @@ Open source lover!
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.1.0](https://github.com/njfamirm/blog/releases/tag/v1.1.0), 1 week ago) - My personal website.
 - [AliMD/fract](https://github.com/AliMD/fract) ([@alwatr/style@1.2.0](https://github.com/AliMD/fract/releases/tag/%40alwatr/style%401.2.0), 2 weeks ago) - 
 
-#### 👓 My recent Pull Requests
+#### Recent Pull Requests
 
+- [fix: blog post link](https://github.com/njfamirm/decap-cms-github-backend/pull/6) on [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) (today)
 - [feat: update from base](https://github.com/njfamirm/blog/pull/53) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
 - [feat: update from 12fy](https://github.com/njfamirm/satafti-blog/pull/16) on [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) (3 days ago)
 - [feat: add real data to toolbox](https://github.com/njfamirm/lorem-ipsum.ir/pull/46) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
 - [feat: make toolbox dynamic](https://github.com/njfamirm/lorem-ipsum.ir/pull/45) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
-- [feat: update from alwatr 12fy](https://github.com/njfamirm/lorem-ipsum.ir/pull/42) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (4 days ago)
 
-#### 📓 Gists I wrote
+#### Recent Gists
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (8 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (1 year ago)
@@ -45,28 +52,15 @@ Open source lover!
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (2 years ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (2 years ago)
 
-#### ⭐ Recent Stars
+#### Recent Stars
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (today)
+- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme (today)
+- [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs! (today)
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (today)
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids (2 days ago)
-- [antonmedv/mx](https://github.com/antonmedv/mx) - Markup without JSX (2 days ago)
-- [antonmedv/list](https://github.com/antonmedv/list) - Immutable lists in JavaScript without [] and {} (2 days ago)
-- [antonmedv/spark](https://github.com/antonmedv/spark) - GitHub Stars Sparklines ⚡️ (2 days ago)
-- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad &#43; calculator (2 days ago)
 
-#### ♥️ Check out some of my recent followers
-
-- [Teun-vdB](https://github.com/Teun-vdB)
-- [SMsajjadSM](https://github.com/SMsajjadSM)
-- [AmirHosseinAbbasii](https://github.com/AmirHosseinAbbasii)
-- [njfamirm-bot](https://github.com/njfamirm-bot)
-- [RoneoOrg](https://github.com/RoneoOrg)
-- [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
-- [mmertpolat](https://github.com/mmertpolat)
-- [salmanclever](https://github.com/salmanclever)
-- [jhonipereira](https://github.com/jhonipereira)
-- [mahdikarimi1](https://github.com/mahdikarimi1)
-
-#### 📫 How to reach me
+#### Socials
 
 - Blog: https://njfamirm.ir
 - Email: hi@njfamirm.ir
@@ -74,6 +68,3 @@ Open source lover!
 - Linkedin: https://www.linkedin.com/in/njfamirm/
 - Telegram: https://t.me/njfamirm
 - StackOverflow: https://stackoverflow.com/users/18004491/njfamirm
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm&theme=transparent&utcOffset=3.50)
