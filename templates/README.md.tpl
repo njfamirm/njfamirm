@@ -5,44 +5,44 @@
 Junior full-stack developer, focusing on backend and Linux concepts!
 Open source lover!
 
-#### Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
 - [A Step-by-Step Guide to Self-Hosting Decap CMS](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
 - [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
 <!-- BLOG-POST-LIST:END -->
 
-#### Current Projects
+### Current Projects
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### Latest projects
+### Latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🎉 Latest releases I've contributed to
+### Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### Recent Pull Requests
+### Recent Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### Recent Gists
+### Recent Gists
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### Recent Stars
+### Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### Socials
+### Socials
 
 - Blog: https://njfamirm.ir
 - Email: hi@njfamirm.ir
