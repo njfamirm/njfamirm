@@ -1,4 +1,4 @@
-### Hi, I'm Amir Mohammad
+# Hi, I'm Amir Mohammad
 [![Wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
 ![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
 
