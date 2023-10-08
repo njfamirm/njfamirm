@@ -23,6 +23,7 @@ jobs:
           skip_commit: true
           readme_path: templates/README.md.tpl
           gh_token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        continue-on-error: true
           
       - uses: muesli/readme-scribe@master
         env:
