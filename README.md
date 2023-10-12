@@ -14,10 +14,10 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (today)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (4 days ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (5 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (4 days ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (5 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (6 days ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 week ago)
 
 ### Latest projects
@@ -30,19 +30,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.0](https://github.com/njfamirm/blog/releases/tag/v1.4.0), 1 day ago) - My personal website.
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 4 days ago) - Decap CMS OAuth backend for Github
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.0](https://github.com/njfamirm/blog/releases/tag/v1.4.0), 2 days ago) - My personal website.
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 5 days ago) - Decap CMS OAuth backend for Github
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 1 week ago) - Fast lorem ipsum generator static website ✅
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 1 week ago) - CMS of my blog
-- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 1 week ago) - Alwatr Icon
+- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 2 weeks ago) - Alwatr Icon
 
 ### Recent Pull Requests
 
-- [release: 1.4](https://github.com/njfamirm/blog/pull/64) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [release: 1.4.0](https://github.com/njfamirm/blog/pull/63) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [feat: add changelog pgae](https://github.com/njfamirm/blog/pull/62) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [release: 1.3.0](https://github.com/njfamirm/blog/pull/61) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [feat: add search page](https://github.com/njfamirm/blog/pull/60) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [release: 1.4](https://github.com/njfamirm/blog/pull/64) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
+- [release: 1.4.0](https://github.com/njfamirm/blog/pull/63) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
+- [feat: add changelog pgae](https://github.com/njfamirm/blog/pull/62) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
 
 ### Recent Gists
 
@@ -54,11 +52,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (3 days ago)
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (4 days ago)
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (4 days ago)
-- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme (4 days ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (2 days ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (4 days ago)
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (5 days ago)
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (5 days ago)
+- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme (5 days ago)
 
 ### Socials
 
