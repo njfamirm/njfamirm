@@ -9,12 +9,13 @@ Open source lover!
 
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
 - [A Step-by-Step Guide to Self-Hosting Decap CMS](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
 - [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
 
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (today)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (6 days ago)
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
@@ -38,8 +39,9 @@ Open source lover!
 
 ### Recent Pull Requests
 
+- [Release: v1.4.2](https://github.com/njfamirm/blog/pull/73) on [njfamirm/blog](https://github.com/njfamirm/blog) (today)
+- [docs: lorem ipsum launched](https://github.com/njfamirm/blog/pull/72) on [njfamirm/blog](https://github.com/njfamirm/blog) (today)
 - [release: v1.4.1](https://github.com/njfamirm/blog/pull/67) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [release: 1.4](https://github.com/njfamirm/blog/pull/64) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
 
 ### Recent Gists
 
@@ -51,11 +53,11 @@ Open source lover!
 
 ### Recent Stars
 
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (today)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (today)
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (1 day ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (3 days ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (5 days ago)
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (6 days ago)
 
 ### Socials
 
