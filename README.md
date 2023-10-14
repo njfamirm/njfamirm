@@ -15,9 +15,9 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (today)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (5 days ago)
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (6 days ago)
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 week ago)
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 week ago)
 
@@ -31,17 +31,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 1 day ago) - My personal website.
-- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 6 days ago) - Decap CMS OAuth backend for Github
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 2 days ago) - My personal website.
+- [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 1 week ago) - Decap CMS OAuth backend for Github
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 1 week ago) - Fast lorem ipsum generator static website ✅
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 1 week ago) - CMS of my blog
+- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 2 weeks ago) - CMS of my blog
 - [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 2 weeks ago) - Alwatr Icon
 
 ### Recent Pull Requests
 
-- [Release: v1.4.2](https://github.com/njfamirm/blog/pull/73) on [njfamirm/blog](https://github.com/njfamirm/blog) (today)
-- [docs: lorem ipsum launched](https://github.com/njfamirm/blog/pull/72) on [njfamirm/blog](https://github.com/njfamirm/blog) (today)
-- [release: v1.4.1](https://github.com/njfamirm/blog/pull/67) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [Release: v1.4.2](https://github.com/njfamirm/blog/pull/73) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [docs: lorem ipsum launched](https://github.com/njfamirm/blog/pull/72) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [release: v1.4.1](https://github.com/njfamirm/blog/pull/67) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
 
 ### Recent Gists
 
@@ -53,11 +53,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (today)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (today)
-- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (1 day ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (3 days ago)
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (1 day ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (2 days ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 days ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (4 days ago)
 
 ### Socials
 
