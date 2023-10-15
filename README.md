@@ -15,8 +15,8 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 week ago)
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 week ago)
@@ -31,7 +31,7 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 2 days ago) - My personal website.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 3 days ago) - My personal website.
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 1 week ago) - Decap CMS OAuth backend for Github
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 1 week ago) - Fast lorem ipsum generator static website ✅
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 2 weeks ago) - CMS of my blog
@@ -39,13 +39,11 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [Release: v1.4.2](https://github.com/njfamirm/blog/pull/73) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [docs: lorem ipsum launched](https://github.com/njfamirm/blog/pull/72) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
-- [release: v1.4.1](https://github.com/njfamirm/blog/pull/67) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
+- [Release: v1.4.2](https://github.com/njfamirm/blog/pull/73) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 days ago)
 
 ### Recent Gists
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (8 months ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (9 months ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (1 year ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (1 year ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (2 years ago)
@@ -53,11 +51,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (1 day ago)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
-- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (2 days ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 days ago)
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (4 days ago)
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (2 days ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (2 days ago)
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (3 days ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (3 days ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (5 days ago)
 
 ### Socials
 
