@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 days ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 week ago)
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - Decap CMS OAuth backend for Github (1 week ago)
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 week ago)
 
 ### Latest projects
 
@@ -31,11 +31,11 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 4 days ago) - My personal website.
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/server-context@1.2.1](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/server-context%401.2.1), 1 day ago) - 
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.1](https://github.com/njfamirm/blog/releases/tag/v1.4.1), 5 days ago) - My personal website.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.0.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.0.9), 6 days ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 1 week ago) - Decap CMS OAuth backend for Github
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 1 week ago) - Fast lorem ipsum generator static website ✅
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) ([v0.2.0](https://github.com/njfamirm/blog-cms/releases/tag/v0.2.0), 2 weeks ago) - CMS of my blog
-- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@0.1.1](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%400.1.1), 2 weeks ago) - Alwatr Icon
 
 ### Recent Pull Requests
 
@@ -50,11 +50,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (1 day ago)
-- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (1 day ago)
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (3 days ago)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (3 days ago)
-- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (4 days ago)
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (2 days ago)
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (2 days ago)
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (4 days ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (4 days ago)
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug (5 days ago)
 
 ### Socials
 
