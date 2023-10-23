@@ -15,10 +15,10 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (4 days ago)
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (4 days ago)
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 days ago)
+- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (5 days ago)
+- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (5 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
 - [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 weeks ago)
 
 ### Latest projects
@@ -31,16 +31,16 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 3 days ago) - My personal website.
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/server-context@1.2.1](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/server-context%401.2.1), 6 days ago) - 
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 4 days ago) - My personal website.
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/server-context@1.2.1](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/server-context%401.2.1), 1 week ago) - 
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.0.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.0.9), 1 week ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 2 weeks ago) - Decap CMS OAuth backend for Github
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v0.1.1](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v0.1.1), 2 weeks ago) - Fast lorem ipsum generator static website ✅
 
 ### Recent Pull Requests
 
-- [release](https://github.com/njfamirm/blog/pull/84) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
-- [fix: breacrumb url](https://github.com/njfamirm/blog/pull/83) on [njfamirm/blog](https://github.com/njfamirm/blog) (3 days ago)
+- [release](https://github.com/njfamirm/blog/pull/84) on [njfamirm/blog](https://github.com/njfamirm/blog) (4 days ago)
+- [fix: breacrumb url](https://github.com/njfamirm/blog/pull/83) on [njfamirm/blog](https://github.com/njfamirm/blog) (4 days ago)
 
 ### Recent Gists
 
@@ -52,7 +52,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (5 days ago)
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (6 days ago)
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (1 week ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (1 week ago)
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (1 week ago)
