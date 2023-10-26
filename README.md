@@ -15,8 +15,8 @@ Open source lover!
 
 ### Current Projects
 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (2 days ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (3 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 week ago)
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (1 week ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
@@ -31,17 +31,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.1](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.1), 2 days ago) - 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/validator@1.1.10](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/validator%401.1.10), 2 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 6 days ago) - My personal website.
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.1](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.1), 3 days ago) - 
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/validator@1.1.10](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/validator%401.1.10), 3 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 1 week ago) - My personal website.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.0.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.0.9), 2 weeks ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) ([v0.1.0](https://github.com/njfamirm/decap-cms-github-backend/releases/tag/v0.1.0), 2 weeks ago) - Decap CMS OAuth backend for Github
 
 ### Recent Pull Requests
 
-- [fix: add nano-server and validator to typescript reference](https://github.com/AliMD/alwatr-eslib/pull/42) on [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) (2 days ago)
-- [release](https://github.com/njfamirm/blog/pull/84) on [njfamirm/blog](https://github.com/njfamirm/blog) (6 days ago)
-- [fix: breacrumb url](https://github.com/njfamirm/blog/pull/83) on [njfamirm/blog](https://github.com/njfamirm/blog) (6 days ago)
+- [fix: add nano-server and validator to typescript reference](https://github.com/AliMD/alwatr-eslib/pull/42) on [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) (3 days ago)
+- [release](https://github.com/njfamirm/blog/pull/84) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 week ago)
+- [fix: breacrumb url](https://github.com/njfamirm/blog/pull/83) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 week ago)
 
 ### Recent Gists
 
@@ -53,7 +53,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (1 day ago)
+- [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (2 days ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 week ago)
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (1 week ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (1 week ago)
