@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (5 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 day ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (6 days ago)
 - [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
 - [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (2 weeks ago)
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog (2 weeks ago)
 
 ### Latest projects
 
@@ -31,15 +31,15 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 1 day ago) - 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 1 day ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@1.0.0](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%401.0.0), 4 days ago) - Alwatr Icon
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 2 days ago) - 
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 2 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@1.0.0](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%401.0.0), 5 days ago) - Alwatr Icon
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 2 weeks ago) - My personal website.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.0.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.0.9), 3 weeks ago) - A Git-based CMS for Static Site Generators
 
 ### Recent Pull Requests
 
-- [feat(dcd): update for fatemieh](https://github.com/njfamirm/alwatr-community/pull/202) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (5 days ago)
+- [feat(dcd): update for fatemieh](https://github.com/njfamirm/alwatr-community/pull/202) on [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) (6 days ago)
 - [fix: add nano-server and validator to typescript reference](https://github.com/AliMD/alwatr-eslib/pull/42) on [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) (1 week ago)
 - [release](https://github.com/njfamirm/blog/pull/84) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 weeks ago)
 - [fix: breacrumb url](https://github.com/njfamirm/blog/pull/83) on [njfamirm/blog](https://github.com/njfamirm/blog) (2 weeks ago)
@@ -54,7 +54,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [zachleat/browser-window](https://github.com/zachleat/browser-window) - Used in demos as a way to fake a Safari-esque web browser window. (5 days ago)
+- [zachleat/browser-window](https://github.com/zachleat/browser-window) - Used in demos as a way to fake a Safari-esque web browser window. (6 days ago)
 - [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (1 week ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (2 weeks ago)
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (2 weeks ago)
