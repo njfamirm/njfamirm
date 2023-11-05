@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 week ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (3 days ago)
 - [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (2 weeks ago)
 
 ### Latest projects
 
@@ -31,9 +31,9 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 3 days ago) - 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 3 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@1.0.0](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%401.0.0), 6 days ago) - Alwatr Icon
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 4 days ago) - 
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 4 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@1.0.0](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%401.0.0), 1 week ago) - Alwatr Icon
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 2 weeks ago) - My personal website.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.0.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.0.9), 3 weeks ago) - A Git-based CMS for Static Site Generators
 
@@ -57,8 +57,8 @@ Open source lover!
 - [zachleat/browser-window](https://github.com/zachleat/browser-window) - Used in demos as a way to fake a Safari-esque web browser window. (1 week ago)
 - [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (1 week ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (2 weeks ago)
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (2 weeks ago)
-- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (2 weeks ago)
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (3 weeks ago)
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (3 weeks ago)
 
 ### Socials
 
