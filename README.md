@@ -15,9 +15,9 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 day ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (4 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (2 days ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (3 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (5 days ago)
 - [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (2 weeks ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
 
@@ -31,9 +31,9 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/apod-crawler@0.2.0](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/apod-crawler%400.2.0), 1 day ago) - Community driven of Alwatr project.
-- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 5 days ago) - 
-- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 5 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/apod-crawler@0.2.0](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/apod-crawler%400.2.0), 2 days ago) - Community driven of Alwatr project.
+- [AliMD/alwatr-signal](https://github.com/AliMD/alwatr-signal) ([@alwatr/signal@2.0.2](https://github.com/AliMD/alwatr-signal/releases/tag/%40alwatr/signal%402.0.2), 6 days ago) - 
+- [AliMD/alwatr-eslib](https://github.com/AliMD/alwatr-eslib) ([@alwatr/math@1.1.11](https://github.com/AliMD/alwatr-eslib/releases/tag/%40alwatr/math%401.1.11), 6 days ago) - Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 - [AliMD/alwatr-icon](https://github.com/AliMD/alwatr-icon) ([@alwatr/icon-set-material@1.0.0](https://github.com/AliMD/alwatr-icon/releases/tag/%40alwatr/icon-set-material%401.0.0), 1 week ago) - Alwatr Icon
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.4.4](https://github.com/njfamirm/blog/releases/tag/v1.4.4), 2 weeks ago) - My personal website.
 
@@ -55,8 +55,8 @@ Open source lover!
 ### Recent Stars
 
 - [zachleat/browser-window](https://github.com/zachleat/browser-window) - Used in demos as a way to fake a Safari-esque web browser window. (1 week ago)
-- [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (1 week ago)
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (2 weeks ago)
+- [JakeChampion/polyfill-service-self-hosted](https://github.com/JakeChampion/polyfill-service-self-hosted) -  (2 weeks ago)
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (3 weeks ago)
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (3 weeks ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (3 weeks ago)
 
