@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple. (1 day ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (1 day ago)
-- [Alwatr/comment](https://github.com/Alwatr/comment) - Alwatr Comment/Chat Microservice (2 days ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (2 days ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (2 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (1 day ago)
+- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (2 days ago)
+- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple. (2 days ago)
+- [Alwatr/storage](https://github.com/Alwatr/storage) - Alwatr Storage: An extremely fast and compact json-based database with memory cache. (3 days ago)
 
 ### Latest projects
 
@@ -31,17 +31,16 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.2](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.2), 1 day ago) - Alwatr Fract: an application development framework
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.1), 1 day ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 2 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 2 days ago) - Alwatr Comment/Chat Microservice
-- [Alwatr/icon](https://github.com/Alwatr/icon) ([@alwatr/icon-set-extra@0.4.0](https://github.com/Alwatr/icon/releases/tag/%40alwatr/icon-set-extra%400.4.0), 2 days ago) - Alwatr Icon Collections
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.2](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.2), 2 days ago) - Alwatr Fract: an application development framework
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.1), 2 days ago) - A Git-based CMS for Static Site Generators
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 3 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 3 days ago) - Alwatr Comment/Chat Microservice
+- [Alwatr/icon](https://github.com/Alwatr/icon) ([@alwatr/icon-set-extra@0.4.0](https://github.com/Alwatr/icon/releases/tag/%40alwatr/icon-set-extra%400.4.0), 3 days ago) - Alwatr Icon Collections
 
 ### Recent Pull Requests
 
-- [feat: update from base](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (1 day ago)
-- [[WIP] feat: many improve](https://github.com/Alwatr/1bash/pull/8) on [Alwatr/1bash](https://github.com/Alwatr/1bash) (1 day ago)
-- [feat: upgrade with new ](https://github.com/Alwatr/notifier/pull/71) on [Alwatr/notifier](https://github.com/Alwatr/notifier) (2 days ago)
+- [[WIP] feat: many improve](https://github.com/Alwatr/1bash/pull/8) on [Alwatr/1bash](https://github.com/Alwatr/1bash) (2 days ago)
+- [feat: upgrade with new ](https://github.com/Alwatr/notifier/pull/71) on [Alwatr/notifier](https://github.com/Alwatr/notifier) (3 days ago)
 
 ### Recent Gists
 
@@ -53,11 +52,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [navanshu/postcss-variable-compress](https://github.com/navanshu/postcss-variable-compress) - Minifies / Obscures CSS variable names (1 day ago)
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (4 days ago)
-- [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI (5 days ago)
-- [Alwatr/.github](https://github.com/Alwatr/.github) - Community health files and default repos options (5 days ago)
-- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (5 days ago)
+- [navanshu/postcss-variable-compress](https://github.com/navanshu/postcss-variable-compress) - Minifies / Obscures CSS variable names (2 days ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (5 days ago)
+- [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI (6 days ago)
+- [Alwatr/.github](https://github.com/Alwatr/.github) - Community health files and default repos options (6 days ago)
+- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (6 days ago)
 
 ### Socials
 
