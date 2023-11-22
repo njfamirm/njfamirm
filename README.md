@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (1 day ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) -  (5 days ago)
-- [njfamirm/dotfiles](https://github.com/njfamirm/dotfiles) - My personal dofiles (6 days ago)
-- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple. (6 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (today)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
+- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (1 day ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (1 day ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 day ago)
 
 ### Latest projects
 
@@ -31,15 +31,15 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.2](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.2), 6 days ago) - Alwatr Fract: an application development framework
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.1), 6 days ago) - A Git-based CMS for Static Site Generators
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 1 day ago) - Community driven of Alwatr project.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 1 day ago) - Alwatr Fract: an application development framework
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.1), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 1 week ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 - [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 1 week ago) - Alwatr Comment/Chat Microservice
-- [Alwatr/icon](https://github.com/Alwatr/icon) ([@alwatr/icon-set-extra@0.4.0](https://github.com/Alwatr/icon/releases/tag/%40alwatr/icon-set-extra%400.4.0), 1 week ago) - Alwatr Icon Collections
 
 ### Recent Pull Requests
 
-- [chore(ci/publish-container): disable check file changed in workflow dispatch](https://github.com/Alwatr/nginx/pull/8) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 day ago)
+- [chore(ci/publish-container): disable check file changed in workflow dispatch](https://github.com/Alwatr/nginx/pull/8) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 days ago)
 
 ### Recent Gists
 
@@ -51,11 +51,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans (3 days ago)
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (3 days ago)
-- [navanshu/postcss-variable-compress](https://github.com/navanshu/postcss-variable-compress) - Minifies / Obscures CSS variable names (6 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans (4 days ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (4 days ago)
+- [navanshu/postcss-variable-compress](https://github.com/navanshu/postcss-variable-compress) - Minifies / Obscures CSS variable names (1 week ago)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 week ago)
-- [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI (1 week ago)
 
 ### Socials
 
