@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (1 day ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (2 days ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (2 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (2 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (3 days ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (3 days ago)
 
 ### Latest projects
 
@@ -31,18 +31,19 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 2 days ago) - Community driven of Alwatr project.
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 2 days ago) - Alwatr Fract: an application development framework
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.1), 1 week ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 1 week ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/util@1.3.1](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/util%401.3.1), 1 day ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 1 day ago) - A Git-based CMS for Static Site Generators
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 3 days ago) - Community driven of Alwatr project.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 3 days ago) - Alwatr Fract: an application development framework
 - [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 1 week ago) - Alwatr Comment/Chat Microservice
 
 ### Recent Pull Requests
 
-- [feat(app): common global data, base layout](https://github.com/Alwatr/pmpa/pull/6) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [feat(app): minify html](https://github.com/Alwatr/pmpa/pull/5) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [feat(app): build system using 11ty and postcss and esbuild](https://github.com/Alwatr/pmpa/pull/4) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [feat(app): 11ty base app](https://github.com/Alwatr/pmpa/pull/3) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(cloud): add deployment and publish workflow](https://github.com/Alwatr/pmpa/pull/9) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(api): new package](https://github.com/Alwatr/pmpa/pull/8) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(app): base website](https://github.com/Alwatr/pmpa/pull/7) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(app): common global data, base layout, dev mode](https://github.com/Alwatr/pmpa/pull/6) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 days ago)
+- [feat(app): minify html](https://github.com/Alwatr/pmpa/pull/5) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 days ago)
 
 ### Recent Gists
 
@@ -54,10 +55,10 @@ Open source lover!
 
 ### Recent Stars
 
-- [google/postcss-rename](https://github.com/google/postcss-rename) - Replace class names based on a customizable renaming scheme. (1 day ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans (5 days ago)
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (5 days ago)
+- [google/postcss-rename](https://github.com/google/postcss-rename) - Replace class names based on a customizable renaming scheme. (2 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (3 days ago)
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans (6 days ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (6 days ago)
 - [navanshu/postcss-variable-compress](https://github.com/navanshu/postcss-variable-compress) - Minifies / Obscures CSS variable names (1 week ago)
 
 ### Socials
