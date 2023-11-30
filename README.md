@@ -16,10 +16,10 @@ Open source lover!
 ### Current Projects
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
-- [Alwatr/notifier](https://github.com/Alwatr/notifier) - Alwatr Notifier Microservice (3 days ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (3 days ago)
-- [Alwatr/comment](https://github.com/Alwatr/comment) - Alwatr Comment/Chat Microservice (3 days ago)
-- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (3 days ago)
+- [Alwatr/notifier](https://github.com/Alwatr/notifier) - Alwatr Notifier Microservice (4 days ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (4 days ago)
+- [Alwatr/comment](https://github.com/Alwatr/comment) - Alwatr Comment/Chat Microservice (4 days ago)
+- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (4 days ago)
 
 ### Latest projects
 
@@ -31,18 +31,18 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.0.1](https://github.com/Alwatr/nginx/releases/tag/v2.0.1), 2 days ago) - Alwatr Accelerated NGINX
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/util@1.3.1](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/util%401.3.1), 6 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 6 days ago) - A Git-based CMS for Static Site Generators
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.2), 1 day ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 2 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.0.1](https://github.com/Alwatr/nginx/releases/tag/v2.0.1), 3 days ago) - Alwatr Accelerated NGINX
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 1 week ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 1 week ago) - Community driven of Alwatr project.
 
 ### Recent Pull Requests
 
-- [feat: deployment](https://github.com/Alwatr/pmpa/pull/15) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [feat(nginx): accelerated nginx server](https://github.com/Alwatr/storage/pull/139) on [Alwatr/storage](https://github.com/Alwatr/storage) (3 days ago)
-- [chore(server): build using esbuild, publish container, nginx](https://github.com/Alwatr/storage/pull/138) on [Alwatr/storage](https://github.com/Alwatr/storage) (3 days ago)
-- [feat(app): generate current day response using crawler](https://github.com/njfamirm/apod/pull/3) on [njfamirm/apod](https://github.com/njfamirm/apod) (5 days ago)
+- [feat(app): nunjucks prerender](https://github.com/Alwatr/pmpa/pull/20) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(app/global-util): add i18n](https://github.com/Alwatr/pmpa/pull/19) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat: deployment](https://github.com/Alwatr/pmpa/pull/15) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 days ago)
+- [feat(nginx): accelerated nginx server](https://github.com/Alwatr/storage/pull/139) on [Alwatr/storage](https://github.com/Alwatr/storage) (4 days ago)
 
 ### Recent Gists
 
@@ -54,11 +54,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (2 days ago)
-- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library (4 days ago)
-- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) -  (5 days ago)
+- [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential. (1 day ago)
+- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (3 days ago)
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library (5 days ago)
+- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) -  (6 days ago)
 - [google/postcss-rename](https://github.com/google/postcss-rename) - Replace class names based on a customizable renaming scheme. (1 week ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
 ### Socials
 
