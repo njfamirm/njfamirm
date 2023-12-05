@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (3 days ago)
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (3 days ago)
-- [Alwatr/storage](https://github.com/Alwatr/storage) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) - Alwatr ES SDK: Necessary library for all ECMAScript (JavaScript/TypeScript) projects. (1 day ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (4 days ago)
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) - Community driven of Alwatr project. (4 days ago)
 
 ### Latest projects
 
@@ -31,14 +31,16 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.2), 5 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
-- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 6 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/validator%401.2.2), 6 days ago) - Alwatr ES SDK: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.0.1](https://github.com/Alwatr/nginx/releases/tag/v2.0.1), 1 week ago) - Alwatr Accelerated NGINX
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 1 week ago) - A Git-based CMS for Static Site Generators
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 1 week ago) - Community driven of Alwatr project.
+- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 2 weeks ago) - Community driven of Alwatr project.
 
 ### Recent Pull Requests
 
+- [chore: rename project](https://github.com/Alwatr/alwatr-es-sdk/pull/90) on [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) (1 day ago)
+- [feat(crypto): factory](https://github.com/Alwatr/alwatr-es-sdk/pull/89) on [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) (1 day ago)
 
 ### Recent Gists
 
@@ -50,11 +52,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 day ago)
-- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 day ago)
-- [11ty/eleventy-activity-feed](https://github.com/11ty/eleventy-activity-feed) - Create one centralized RSS feed for all of the content you create across the web (aggregates from Twitter, RSS, Atom, Mastodon, YouTube) (4 days ago)
-- [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential. (5 days ago)
-- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (1 week ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 day ago)
+- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (1 day ago)
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly (1 day ago)
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK (1 day ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (2 days ago)
 
 ### Socials
 
