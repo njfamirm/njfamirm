@@ -15,10 +15,10 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (3 days ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (5 days ago)
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (4 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (6 days ago)
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
 
 ### Latest projects
@@ -31,18 +31,18 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.2.1](https://github.com/Alwatr/nginx/releases/tag/v2.2.1), 2 days ago) - Alwatr Accelerated NGINX
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 6 days ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.2.1](https://github.com/Alwatr/nginx/releases/tag/v2.2.1), 3 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 1 week ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 3 weeks ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 3 weeks ago) - Community driven of Alwatr project.
 
 ### Recent Pull Requests
 
-- [fix(json): error json status code](https://github.com/Alwatr/nginx/pull/17) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (3 days ago)
-- [chore(api): rename home route](https://github.com/Alwatr/pmpa/pull/29) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (5 days ago)
-- [fix(app/style): add browser list](https://github.com/Alwatr/pmpa/pull/28) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (5 days ago)
-- [chore:(ci/dependabot): schedule](https://github.com/Alwatr/store/pull/163) on [Alwatr/store](https://github.com/Alwatr/store) (5 days ago)
+- [fix(json): error json status code](https://github.com/Alwatr/nginx/pull/17) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (4 days ago)
+- [chore(api): rename home route](https://github.com/Alwatr/pmpa/pull/29) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (6 days ago)
+- [fix(app/style): add browser list](https://github.com/Alwatr/pmpa/pull/28) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (6 days ago)
+- [chore:(ci/dependabot): schedule](https://github.com/Alwatr/store/pull/163) on [Alwatr/store](https://github.com/Alwatr/store) (6 days ago)
 
 ### Recent Gists
 
@@ -54,11 +54,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (3 days ago)
-- [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3. (5 days ago)
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (4 days ago)
+- [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3. (6 days ago)
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion (1 week ago)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 week ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 weeks ago)
 
 ### Socials
 
