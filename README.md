@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 days ago)
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (5 days ago)
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
+- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 day ago)
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 day ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 day ago)
+- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (1 day ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
 
 ### Latest projects
 
@@ -31,17 +31,19 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.2.1](https://github.com/Alwatr/nginx/releases/tag/v2.2.1), 4 days ago) - Alwatr Accelerated NGINX
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 1 week ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.0-beta.2](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.0-beta.2), 3 weeks ago) - A Git-based CMS for Static Site Generators
-- [njfamirm/alwatr-community](https://github.com/njfamirm/alwatr-community) ([@alwatr-community/day-countdown-bot@0.3.1](https://github.com/njfamirm/alwatr-community/releases/tag/%40alwatr-community/day-countdown-bot%400.3.1), 4 weeks ago) - Community driven of Alwatr project.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.4](https://github.com/Alwatr/store/releases/tag/v4.0.4), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 1 day ago) - Alwatr Fract: an application development framework
+- [Alwatr/signal](https://github.com/Alwatr/signal) ([@alwatr/fsm@2.0.5](https://github.com/Alwatr/signal/releases/tag/%40alwatr/fsm%402.0.5), 1 day ago) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern.
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/validator@1.2.7](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/validator%401.2.7), 1 day ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.2.1](https://github.com/Alwatr/nginx/releases/tag/v2.2.1), 5 days ago) - Alwatr Accelerated NGINX
 
 ### Recent Pull Requests
 
-- [feat(engine): store file Id](https://github.com/Alwatr/store/pull/171) on [Alwatr/store](https://github.com/Alwatr/store) (1 day ago)
-- [fix(json): error json status code](https://github.com/Alwatr/nginx/pull/17) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (5 days ago)
-- [chore(api): rename home route](https://github.com/Alwatr/pmpa/pull/29) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 week ago)
+- [fix(logger): define package scope](https://github.com/Alwatr/alwatr-es-sdk/pull/107) on [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) (1 day ago)
+- [chore: upgrade, dependabot schedule](https://github.com/Alwatr/signal/pull/133) on [Alwatr/signal](https://github.com/Alwatr/signal) (1 day ago)
+- [fix: remove @alwatr in definePackage and update deps](https://github.com/Alwatr/fract/pull/147) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 day ago)
+- [chore(deps): upgrade, dependabot schedule](https://github.com/Alwatr/alwatr-es-sdk/pull/106) on [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) (1 day ago)
+- [feat(logger): use replace instead replace all for better browser support](https://github.com/Alwatr/alwatr-es-sdk/pull/105) on [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) (1 day ago)
 
 ### Recent Gists
 
@@ -53,8 +55,8 @@ Open source lover!
 
 ### Recent Stars
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (1 day ago)
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (5 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 days ago)
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (6 days ago)
 - [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3. (1 week ago)
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion (1 week ago)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 week ago)
