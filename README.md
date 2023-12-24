@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 days ago)
-- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (4 days ago)
-- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (4 days ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (4 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
+- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (5 days ago)
+- [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (5 days ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (5 days ago)
 
 ### Latest projects
 
@@ -31,17 +31,18 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/platform-info@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/platform-info%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.4](https://github.com/Alwatr/store/releases/tag/v4.0.4), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 4 days ago) - Alwatr Fract: an application development framework
-- [Alwatr/signal](https://github.com/Alwatr/signal) ([@alwatr/fsm@2.0.5](https://github.com/Alwatr/signal/releases/tag/%40alwatr/fsm%402.0.5), 4 days ago) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern.
-- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) ([@alwatr/validator@1.2.7](https://github.com/Alwatr/es-sdk/releases/tag/%40alwatr/validator%401.2.7), 4 days ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.0.0](https://github.com/Alwatr/pmpa/releases/tag/v1.0.0), 1 day ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nano-build@1.2.1](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nano-build%401.2.1), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.4](https://github.com/Alwatr/store/releases/tag/v4.0.4), 5 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 5 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/signal](https://github.com/Alwatr/signal) ([@alwatr/fsm@2.0.5](https://github.com/Alwatr/signal/releases/tag/%40alwatr/fsm%402.0.5), 5 days ago) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern.
 
 ### Recent Pull Requests
 
-- [feat: update](https://github.com/njfamirm/apod/pull/35) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 day ago)
-- [feat: build and lint using new alwatr packages](https://github.com/Alwatr/es-sdk/pull/108) on [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) (2 days ago)
-- [chore(ci/dependabot): change scheule time zone](https://github.com/Alwatr/pmpa/pull/39) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 days ago)
+- [feat(nano-build): microservice preset](https://github.com/Alwatr/nanolib/pull/11) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
+- [feat: use nano-build, alwatr-eslint, alwatr-prettier-config](https://github.com/Alwatr/pmpa/pull/40) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat: update](https://github.com/njfamirm/apod/pull/35) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 days ago)
+- [feat: build and lint using new alwatr packages](https://github.com/Alwatr/es-sdk/pull/108) on [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) (3 days ago)
 
 ### Recent Gists
 
@@ -53,11 +54,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers (1 day ago)
-- [squoosh-app/squoosh](https://github.com/squoosh-app/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (2 days ago)
-- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide (2 days ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 days ago)
-- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (3 days ago)
+- [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers (2 days ago)
+- [squoosh-app/squoosh](https://github.com/squoosh-app/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (3 days ago)
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide (3 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 days ago)
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (4 days ago)
 
 ### Socials
 
