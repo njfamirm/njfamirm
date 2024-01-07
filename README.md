@@ -15,10 +15,10 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 day ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 days ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (4 days ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (6 days ago)
+- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 day ago)
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (2 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (5 days ago)
 - [Alwatr/signal](https://github.com/Alwatr/signal) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern. (2 weeks ago)
 
 ### Latest projects
@@ -31,19 +31,19 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/dedupe@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/dedupe%401.0.0), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 6 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 1 week ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/logger@3.1.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/logger%403.1.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 2 weeks ago) - Progressive Multi Page (Web) Application.
 - [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 2 weeks ago) - Alwatr Fract: an application development framework
 - [Alwatr/signal](https://github.com/Alwatr/signal) ([@alwatr/fsm@2.0.5](https://github.com/Alwatr/signal/releases/tag/%40alwatr/fsm%402.0.5), 2 weeks ago) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern.
 
 ### Recent Pull Requests
 
-- [feat(bot): on message](https://github.com/njfamirm/mind-swap/pull/7) on [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) (1 day ago)
-- [fix(app): esbuild preset](https://github.com/njfamirm/mind-swap/pull/6) on [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) (1 day ago)
-- [feat(telegram-bot): base package](https://github.com/njfamirm/mind-swap/pull/5) on [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) (1 day ago)
-- [feat: chat api](https://github.com/njfamirm/mind-swap/pull/4) on [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) (1 day ago)
-- [feat(dedupe): new package](https://github.com/Alwatr/nanolib/pull/26) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (3 days ago)
+- [feat(node-fs): new package](https://github.com/Alwatr/nanolib/pull/29) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
+- [feat: add alwatr dedupe](https://github.com/Alwatr/store/pull/189) on [Alwatr/store](https://github.com/Alwatr/store) (1 day ago)
+- [feat(node-fs): new package from store-fs](https://github.com/Alwatr/nanolib/pull/28) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
+- [feat(node-fs): ..](https://github.com/Alwatr/nanolib/pull/27) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
+- [feat(bot): on message](https://github.com/njfamirm/mind-swap/pull/7) on [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) (2 days ago)
 
 ### Recent Gists
 
@@ -55,11 +55,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (3 days ago)
-- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API (4 days ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (6 days ago)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (6 days ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (6 days ago)
+- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (4 days ago)
+- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API (5 days ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 week ago)
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
 
 ### Socials
 
