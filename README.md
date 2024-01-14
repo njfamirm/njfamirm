@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (5 days ago)
-- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (6 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 day ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (6 days ago)
+- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
 ### Latest projects
 
@@ -31,17 +31,16 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0](https://github.com/Alwatr/store/releases/tag/v5.0.0), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/node-fs@1.0.0-beta.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/node-fs%401.0.0-beta.0), 5 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 2 weeks ago) - Progressive Multi Page (Web) Application.
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 3 weeks ago) - Alwatr Fract: an application development framework
-- [Alwatr/signal](https://github.com/Alwatr/signal) ([@alwatr/fsm@2.0.5](https://github.com/Alwatr/signal/releases/tag/%40alwatr/fsm%402.0.5), 3 weeks ago) - Alwatr Signal: A powerful event system for managing global signals and states, based on the observable design pattern.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v5.1.0](https://github.com/Alwatr/store/releases/tag/v5.1.0), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 1 day ago) - Alwatr Accelerated NGINX
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 1 day ago) - Fast lorem ipsum generator static website ✅
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/node-fs@1.0.0-beta.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/node-fs%401.0.0-beta.0), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 3 weeks ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
 
 - [feat(node-fs): new package](https://github.com/Alwatr/nanolib/pull/29) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 week ago)
 - [feat: add alwatr dedupe](https://github.com/Alwatr/store/pull/189) on [Alwatr/store](https://github.com/Alwatr/store) (1 week ago)
-- [feat(node-fs): new package from store-fs](https://github.com/Alwatr/nanolib/pull/28) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 week ago)
 
 ### Recent Gists
 
@@ -53,11 +52,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [v8/web-tooling-benchmark](https://github.com/v8/web-tooling-benchmark) - JavaScript benchmark for common web developer workloads (5 days ago)
-- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository (5 days ago)
+- [v8/web-tooling-benchmark](https://github.com/v8/web-tooling-benchmark) - JavaScript benchmark for common web developer workloads (6 days ago)
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository (6 days ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (1 week ago)
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API (1 week ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 weeks ago)
 
 ### Socials
 
