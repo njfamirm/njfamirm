@@ -15,11 +15,11 @@ Open source lover!
 
 ### Current Projects
 
+- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (1 day ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (3 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (4 days ago)
 - [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
 
 ### Latest projects
 
@@ -31,17 +31,19 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.0), today) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 3 days ago) - Alwatr Accelerated NGINX
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 3 days ago) - Fast lorem ipsum generator static website ✅
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 3 weeks ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 day ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/local-storage@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/local-storage%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 2 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 4 days ago) - Alwatr Accelerated NGINX
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 4 days ago) - Fast lorem ipsum generator static website ✅
 
 ### Recent Pull Requests
 
-- [feat(is-number): extract from @alwatr/util](https://github.com/Alwatr/nanolib/pull/35) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
-- [feat(fetch): move from last repo](https://github.com/Alwatr/nanolib/pull/34) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
-- [feat(local-storage): new package](https://github.com/Alwatr/nanolib/pull/33) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (2 days ago)
+- [feat(polyfill-has-own): new package](https://github.com/Alwatr/nanolib/pull/38) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
+- [chore: change project name from pmpa to new](https://github.com/Alwatr/soffit-order-admin/pull/5) on [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) (1 day ago)
+- [fix(app): debugMode in logger](https://github.com/Alwatr/pmpa/pull/58) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [refactor: use definePackage logger](https://github.com/Alwatr/pmpa/pull/56) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(is-number): extract from @alwatr/util](https://github.com/Alwatr/nanolib/pull/35) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (2 days ago)
 
 ### Recent Gists
 
@@ -55,7 +57,7 @@ Open source lover!
 
 - [v8/web-tooling-benchmark](https://github.com/v8/web-tooling-benchmark) - JavaScript benchmark for common web developer workloads (1 week ago)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository (1 week ago)
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (1 week ago)
+- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (2 weeks ago)
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API (2 weeks ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 weeks ago)
 
