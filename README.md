@@ -15,10 +15,10 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (1 day ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (4 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
+- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (2 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (5 days ago)
 - [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
 
 ### Latest projects
@@ -31,19 +31,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 day ago) - Progressive Multi Page (Web) Application.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/local-storage@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/local-storage%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 2 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 4 days ago) - Alwatr Accelerated NGINX
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 4 days ago) - Fast lorem ipsum generator static website ✅
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 2 days ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/local-storage@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/local-storage%401.0.0), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 3 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 5 days ago) - Alwatr Accelerated NGINX
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 5 days ago) - Fast lorem ipsum generator static website ✅
 
 ### Recent Pull Requests
 
-- [feat(polyfill-has-own): new package](https://github.com/Alwatr/nanolib/pull/38) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 day ago)
-- [chore: change project name from pmpa to new](https://github.com/Alwatr/soffit-order-admin/pull/5) on [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) (1 day ago)
-- [fix(app): debugMode in logger](https://github.com/Alwatr/pmpa/pull/58) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [refactor: use definePackage logger](https://github.com/Alwatr/pmpa/pull/56) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
-- [feat(is-number): extract from @alwatr/util](https://github.com/Alwatr/nanolib/pull/35) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (2 days ago)
+- [feat(bot): base telegram bot template](https://github.com/Alwatr/pmpa/pull/61) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(polyfill-has-own): new package](https://github.com/Alwatr/nanolib/pull/38) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (2 days ago)
+- [chore: change project name from pmpa to new](https://github.com/Alwatr/soffit-order-admin/pull/5) on [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) (2 days ago)
 
 ### Recent Gists
 
