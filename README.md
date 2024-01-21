@@ -8,18 +8,18 @@ Open source lover!
 ### Blog posts
 
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
-- [A Step-by-Step Guide to Self-Hosting Decap CMS](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
 - [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
 - [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
 
 
 ### Current Projects
 
-- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (4 days ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (4 days ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (today)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
+- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (5 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (5 days ago)
 - [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
-- [Alwatr/es-sdk](https://github.com/Alwatr/es-sdk) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation. (1 week ago)
 
 ### Latest projects
 
@@ -31,17 +31,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 4 days ago) - Progressive Multi Page (Web) Application.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/local-storage@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/local-storage%401.0.0), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 5 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.5.1](https://github.com/njfamirm/blog/releases/tag/v1.5.1), 1 day ago) - My personal website.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 5 days ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.0-alpha.0](https://github.com/Alwatr/store/releases/tag/v6.0.0-alpha.0), 6 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 1 week ago) - Alwatr Accelerated NGINX
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v1.0.0](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v1.0.0), 1 week ago) - Fast lorem ipsum generator static website ✅
 
 ### Recent Pull Requests
 
-- [feat(bot): base telegram bot template](https://github.com/Alwatr/pmpa/pull/61) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 days ago)
-- [feat(polyfill-has-own): new package](https://github.com/Alwatr/nanolib/pull/38) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (4 days ago)
-- [chore: change project name from pmpa to new](https://github.com/Alwatr/soffit-order-admin/pull/5) on [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) (4 days ago)
+- [Next](https://github.com/njfamirm/blog/pull/210) on [njfamirm/blog](https://github.com/njfamirm/blog) (1 day ago)
+- [feat(bot): base telegram bot template](https://github.com/Alwatr/pmpa/pull/61) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 days ago)
+- [feat(polyfill-has-own): new package](https://github.com/Alwatr/nanolib/pull/38) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (5 days ago)
 
 ### Recent Gists
 
@@ -53,8 +53,8 @@ Open source lover!
 
 ### Recent Stars
 
-- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (2 days ago)
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use. (2 days ago)
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (3 days ago)
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use. (3 days ago)
 - [v8/web-tooling-benchmark](https://github.com/v8/web-tooling-benchmark) - JavaScript benchmark for common web developer workloads (1 week ago)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository (1 week ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (2 weeks ago)
