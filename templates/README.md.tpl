@@ -7,10 +7,11 @@ Open source lover!
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
-- [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [Mastering Eleventy Folder Structures: From Default Setups to Real-World Best Practices](https://www.njfamirm.ir/en/blog/eleventy-folder-structure-guide/)
 - [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
-- [Separating Commits in Git: A Guide to Streamlining Your Workflow](https://www.njfamirm.ir/en/blog/git-separate/)
+- [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
+- [Split a large Pull Request into multiple smaller ones using separating Commits in Git](https://www.njfamirm.ir/en/blog/git-separate/)
+- [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Current Projects
