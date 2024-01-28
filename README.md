@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 days ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (3 days ago)
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (4 days ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 days ago)
+- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (4 days ago)
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (5 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
 ### Latest projects
 
@@ -32,10 +32,10 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 2 days ago) - My personal website.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.1](https://github.com/Alwatr/store/releases/tag/v6.0.1), 3 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.0), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 4 days ago) - Alwatr Accelerated NGINX
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 3 days ago) - My personal website.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.1](https://github.com/Alwatr/store/releases/tag/v6.0.1), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.0), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 5 days ago) - Alwatr Accelerated NGINX
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
@@ -51,9 +51,9 @@ Open source lover!
 
 ### Recent Stars
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (3 days ago)
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (6 days ago)
-- [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3 (6 days ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (4 days ago)
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (1 week ago)
+- [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3 (1 week ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (1 week ago)
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use. (1 week ago)
 
