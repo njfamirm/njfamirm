@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 days ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 day ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (3 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 week ago)
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (1 week ago)
 
 ### Latest projects
 
@@ -32,11 +32,11 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 6 days ago) - My personal website.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 1 day ago) - Alwatr Fract: an application development framework
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 1 week ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.1](https://github.com/Alwatr/store/releases/tag/v6.0.1), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.0), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 2 weeks ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
 
@@ -45,17 +45,17 @@ Open source lover!
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (1 year ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (1 year ago)
-- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (1 year ago)
+- [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (2 years ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (2 years ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (2 years ago)
 
 ### Recent Stars
 
-- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (1 day ago)
+- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (1 day ago)
+- [njfamirm/astronomy-picture.ir](https://github.com/njfamirm/astronomy-picture.ir) - Astronomy Picture of the Day Progressive Multi Page (Web) Application. (1 day ago)
+- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (2 days ago)
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (1 week ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (1 week ago)
-- [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3 (1 week ago)
-- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (1 week ago)
 
 ### Socials
 
