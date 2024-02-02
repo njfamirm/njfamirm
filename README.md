@@ -16,27 +16,27 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 day ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 day ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (3 days ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (2 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (4 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
 
 ### Latest projects
 
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
-- [njfamirm/satafti-blog-cms](https://github.com/njfamirm/satafti-blog-cms) - 
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog
 - [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website.
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅
 
 ### Latest releases I've contributed to
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 1 day ago) - Alwatr Fract: an application development framework
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 1 day ago) - A Git-based CMS for Static Site Generators
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 2 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 1 week ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.1](https://github.com/Alwatr/store/releases/tag/v6.0.1), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
 ### Recent Pull Requests
 
@@ -51,9 +51,9 @@ Open source lover!
 
 ### Recent Stars
 
-- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (1 day ago)
-- [njfamirm/astronomy-picture.ir](https://github.com/njfamirm/astronomy-picture.ir) - Astronomy Picture of the Day Progressive Multi Page (Web) Application. (1 day ago)
-- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (2 days ago)
+- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (2 days ago)
+- [njfamirm/astronomy-picture.ir](https://github.com/njfamirm/astronomy-picture.ir) - Astronomy Picture of the Day Progressive Multi Page (Web) Application. (2 days ago)
+- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (3 days ago)
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (1 week ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (1 week ago)
 
