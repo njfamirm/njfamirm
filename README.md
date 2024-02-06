@@ -16,9 +16,9 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 days ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (5 days ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (5 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (3 days ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (6 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (6 days ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
 
@@ -32,16 +32,14 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 4 days ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 5 days ago) - Alwatr Fract: an application development framework
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 5 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.2](https://github.com/Alwatr/pmpa/releases/tag/v1.1.2), 1 day ago) - Progressive Multi Page (Web) Application.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 5 days ago) - A Git-based CMS for Static Site Generators
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 6 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 1 week ago) - My personal website.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.1](https://github.com/Alwatr/store/releases/tag/v6.0.1), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
 ### Recent Pull Requests
 
-- [feat(deploy): add canary and beta](https://github.com/Alwatr/pmpa/pull/71) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 days ago)
-- [fix(deps): cleanup and install requirement for lint](https://github.com/Alwatr/pmpa/pull/70) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 days ago)
 
 ### Recent Gists
 
@@ -53,11 +51,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (5 days ago)
-- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (6 days ago)
+- [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (1 day ago)
+- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (6 days ago)
+- [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (1 week ago)
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (1 week ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (2 weeks ago)
-- [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3 (2 weeks ago)
 
 ### Socials
 
