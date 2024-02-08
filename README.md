@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (4 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 day ago)
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
 - [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 week ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 week ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (2 weeks ago)
 
 ### Latest projects
 
@@ -32,14 +32,18 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.2](https://github.com/Alwatr/pmpa/releases/tag/v1.1.2), 2 days ago) - Progressive Multi Page (Web) Application.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 6 days ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 1 week ago) - Alwatr Fract: an application development framework
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 1 day ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 1 day ago) - Alwatr Fract: an application development framework
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.2.1](https://github.com/Alwatr/pmpa/releases/tag/v1.2.1), 1 day ago) - Progressive Multi Page (Web) Application.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.2](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.2), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.7.2](https://github.com/njfamirm/blog/releases/tag/v1.7.2), 1 week ago) - My personal website.
 
 ### Recent Pull Requests
 
+- [feat(app): naked layout](https://github.com/Alwatr/pmpa/pull/75) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(types): new package](https://github.com/Alwatr/pmpa/pull/74) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(ci/publish-container): get siteUrl as params](https://github.com/Alwatr/pmpa/pull/73) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
+- [feat(ci/publish-container): get siteUrl as params](https://github.com/Alwatr/pmpa/pull/72) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 day ago)
 
 ### Recent Gists
 
@@ -51,7 +55,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (2 days ago)
+- [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (3 days ago)
 - [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (1 week ago)
 - [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (1 week ago)
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples (2 weeks ago)
