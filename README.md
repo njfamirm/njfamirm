@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (6 days ago)
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (1 day ago)
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 week ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 week ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (2 weeks ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (2 weeks ago)
 
 ### Latest projects
 
@@ -32,10 +32,10 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 4 days ago) - Alwatr Accelerated NGINX
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 6 days ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 6 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 5 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 5 days ago) - Alwatr Accelerated NGINX
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 1 week ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 1 week ago) - Alwatr Fract: an application development framework
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 1 week ago) - A Git-based CMS for Static Site Generators
 
 ### Recent Pull Requests
@@ -51,10 +51,10 @@ Open source lover!
 
 ### Recent Stars
 
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (1 day ago)
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository (3 days ago)
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (2 days ago)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository (4 days ago)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (1 week ago)
-- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (1 week ago)
+- [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (2 weeks ago)
 - [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (2 weeks ago)
 
 ### Socials
