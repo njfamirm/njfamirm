@@ -16,7 +16,7 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (3 days ago)
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (4 days ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
@@ -51,8 +51,8 @@ Open source lover!
 
 ### Recent Stars
 
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (4 days ago)
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository (6 days ago)
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (5 days ago)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository (1 week ago)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (1 week ago)
 - [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (2 weeks ago)
 - [nginx/njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly. (2 weeks ago)
