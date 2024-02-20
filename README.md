@@ -16,9 +16,9 @@ Open source lover!
 
 ### Current Projects
 
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (6 days ago)
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (1 week ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
 - [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (2 weeks ago)
 
@@ -51,7 +51,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 days ago)
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (1 week ago)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository (1 week ago)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (2 weeks ago)
