@@ -32,8 +32,8 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 week ago) - Alwatr Accelerated NGINX
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 2 weeks ago) - Alwatr Accelerated NGINX
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 2 weeks ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 2 weeks ago) - Alwatr Fract: an application development framework
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 3 weeks ago) - A Git-based CMS for Static Site Generators
@@ -51,7 +51,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (1 week ago)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository (1 week ago)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (2 weeks ago)
