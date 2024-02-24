@@ -51,9 +51,9 @@ Open source lover!
 
 ### Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (1 week ago)
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository (1 week ago)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository (2 weeks ago)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co (2 weeks ago)
 - [alireza-hariri/simple-retriever](https://github.com/alireza-hariri/simple-retriever) - A simple warpper around common retrival tools (3 weeks ago)
 
