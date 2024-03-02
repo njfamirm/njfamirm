@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (2 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 month ago)
 
 ### Latest projects
 
@@ -32,14 +32,17 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
+- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v2.2.2](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v2.2.2), 1 day ago) - Fast lorem ipsum generator static website ✅
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 3 weeks ago) - Alwatr Accelerated NGINX
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 3 weeks ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 3 weeks ago) - Alwatr Fract: an application development framework
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.1](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.1), 4 weeks ago) - A Git-based CMS for Static Site Generators
 
 ### Recent Pull Requests
 
+- [feat: switch to pmpa ](https://github.com/njfamirm/lorem-ipsum.ir/pull/146) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
+- [chore: cleanup deploy](https://github.com/njfamirm/lorem-ipsum.ir/pull/145) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
+- [feat: add snackbar for copy](https://github.com/njfamirm/lorem-ipsum.ir/pull/144) on [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) (1 day ago)
 
 ### Recent Gists
 
@@ -51,11 +54,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly (1 day ago)
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (6 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
+- [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly (2 days ago)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (1 week ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (2 weeks ago)
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository (2 weeks ago)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository (3 weeks ago)
 
 ### Socials
 
