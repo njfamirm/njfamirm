@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅ (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (3 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
 - [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 month ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 
 ### Latest projects
 
@@ -28,15 +28,15 @@ Open source lover!
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog
 - [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website.
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) - Fast lorem ipsum generator static website ✅
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website.
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.3), 2 days ago) - A Git-based CMS for Static Site Generators
-- [njfamirm/lorem-ipsum.ir](https://github.com/njfamirm/lorem-ipsum.ir) ([v2.2.2](https://github.com/njfamirm/lorem-ipsum.ir/releases/tag/v2.2.2), 1 week ago) - Fast lorem ipsum generator static website ✅
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.3), 3 days ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 1 month ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 month ago) - Alwatr Accelerated NGINX
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 1 month ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 1 month ago) - Alwatr Fract: an application development framework
 
 ### Recent Pull Requests
 
@@ -55,7 +55,7 @@ Open source lover!
 - [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly (1 week ago)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 weeks ago)
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (3 weeks ago)
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI&#39;s ChatGPT and DALL-E from the terminal. No Python or JS required. (4 weeks ago)
 
 ### Socials
 
