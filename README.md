@@ -16,8 +16,8 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
-- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (2 days ago)
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (1 month ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
@@ -32,7 +32,7 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.3), 6 days ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.3), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.2](https://github.com/Alwatr/store/releases/tag/v6.0.2), 1 month ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 month ago) - Alwatr Accelerated NGINX
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 1 month ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
@@ -51,9 +51,9 @@ Open source lover!
 
 ### Recent Stars
 
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (1 day ago)
-- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (1 day ago)
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (2 days ago)
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (2 days ago)
+- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (2 days ago)
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (3 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
 - [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly (2 weeks ago)
 
