@@ -16,19 +16,19 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
-- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (5 days ago)
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (today)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
+- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (6 days ago)
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (1 month ago)
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 month ago)
 
 ### Latest projects
 
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog
-- [njfamirm/satafti-blog](https://github.com/njfamirm/satafti-blog) - S. Alireza Tafti personal website.
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website.
+- [njfamirm/training](https://github.com/njfamirm/training) - repo contain my trainig exmaple.
 
 ### Latest releases I've contributed to
 
@@ -51,11 +51,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (5 days ago)
-- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (5 days ago)
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (6 days ago)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 weeks ago)
-- [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly (2 weeks ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 day ago)
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (1 day ago)
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. (1 day ago)
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (6 days ago)
+- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (6 days ago)
 
 ### Socials
 
