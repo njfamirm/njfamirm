@@ -16,9 +16,9 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (today)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
-- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (6 days ago)
+- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
+- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (1 week ago)
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) - The Alwatr Library (legacy repo) (1 month ago)
 - [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 month ago)
 
@@ -51,11 +51,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 day ago)
-- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (1 day ago)
-- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. (1 day ago)
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (6 days ago)
-- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (6 days ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (2 days ago)
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (2 days ago)
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. (2 days ago)
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (1 week ago)
+- [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha (1 week ago)
 
 ### Socials
 
