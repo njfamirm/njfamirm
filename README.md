@@ -16,10 +16,10 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (1 day ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (today)
+- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (2 days ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 week ago)
 - [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (2 weeks ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (3 weeks ago)
 
 ### Latest projects
@@ -32,10 +32,10 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.6](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.6), 2 days ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 3 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 3 days ago) - Alwatr Accelerated NGINX
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.4.1](https://github.com/Alwatr/pmpa/releases/tag/v1.4.1), 3 weeks ago) - Progressive Multi Page (Web) Application.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.6](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.6), 3 days ago) - A Git-based CMS for Static Site Generators
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 4 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.4.1](https://github.com/Alwatr/pmpa/releases/tag/v1.4.1), 4 weeks ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) ([v0.1.1](https://github.com/njfamirm/mind-swap/releases/tag/v0.1.1), 1 month ago) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 
 ### Recent Pull Requests
@@ -44,18 +44,18 @@ Open source lover!
 ### Recent Gists
 
 - [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (1 year ago)
-- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (1 year ago)
+- [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (2 years ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (2 years ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (2 years ago)
 - [Serving static file and favicon.ico in Oak [ Deno ] ](https://gist.github.com/9bcaca2b6a672e729c099193b4aafe9f) (2 years ago)
 
 ### Recent Stars
 
-- [Croluy/DoggoReportBot](https://github.com/Croluy/DoggoReportBot) - Telegram bot that allows people to get in touch with channel admins indirectly. (6 days ago)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 week ago)
-- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (1 week ago)
-- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. (1 week ago)
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (2 weeks ago)
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (1 day ago)
+- [Croluy/DoggoReportBot](https://github.com/Croluy/DoggoReportBot) - Telegram bot that allows people to get in touch with channel admins indirectly. (1 week ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (2 weeks ago)
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (2 weeks ago)
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. (2 weeks ago)
 
 ### Socials
 
