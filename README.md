@@ -16,8 +16,8 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (3 days ago)
-- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (5 days ago)
+- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (4 days ago)
+- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (6 days ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 weeks ago)
 - [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (4 weeks ago)
@@ -35,12 +35,12 @@ Open source lover!
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 week ago) - Progressive Multi Page (Web) Application.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.8](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.8), 1 week ago) - A Git-based CMS for Static Site Generators
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 1 week ago) - My personal website.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 1 week ago) - Alwatr Accelerated NGINX
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 2 weeks ago) - Alwatr Accelerated NGINX
 
 ### Recent Pull Requests
 
-- [Feat/customize](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (5 days ago)
+- [Feat/customize](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (6 days ago)
 
 ### Recent Gists
 
