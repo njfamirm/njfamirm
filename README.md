@@ -16,8 +16,8 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (1 day ago)
-- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (5 days ago)
+- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (2 days ago)
+- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (6 days ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 weeks ago)
 - [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (1 month ago)
@@ -32,7 +32,7 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.9), 1 day ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.9), 2 days ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 week ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 1 week ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
