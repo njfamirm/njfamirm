@@ -16,8 +16,8 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) -  (2 days ago)
-- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (6 days ago)
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 day ago)
+- [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 weeks ago)
 - [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (1 month ago)
@@ -25,14 +25,14 @@ Open source lover!
 ### Latest projects
 
 - [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) - 
-- [njfamirm/speech-to-text](https://github.com/njfamirm/speech-to-text) - 
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) - 
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
 - [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.9), 2 days ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.9](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.9), 3 days ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 week ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 1 week ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
@@ -40,7 +40,6 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [Feat/customize](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (1 week ago)
 
 ### Recent Gists
 
@@ -53,7 +52,7 @@ Open source lover!
 ### Recent Stars
 
 - [sliteteam/github-action-git-crypt-unlock](https://github.com/sliteteam/github-action-git-crypt-unlock) - Github Action to unlock git-crypt secrets (1 week ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (1 week ago)
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (2 weeks ago)
 - [Croluy/DoggoReportBot](https://github.com/Croluy/DoggoReportBot) - Telegram bot that allows people to get in touch with channel admins indirectly. (2 weeks ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (3 weeks ago)
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (3 weeks ago)
