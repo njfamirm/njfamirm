@@ -16,7 +16,7 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (5 days ago)
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (6 days ago)
 - [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
@@ -32,7 +32,7 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 2 days ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 3 days ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 2 weeks ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 2 weeks ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
@@ -40,7 +40,7 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [Feat/customize](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (1 week ago)
+- [Feat/customize](https://github.com/njfamirm/1bash/pull/1) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (2 weeks ago)
 - [refactor(app/shortcode): rewrite and fix class cache issue](https://github.com/Alwatr/pmpa/pull/95) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
 - [feat(app/shortcode): rewrite and fix class cache issue](https://github.com/Alwatr/pmpa/pull/94) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
 - [fix(app/assets): support windows path for copy font](https://github.com/Alwatr/pmpa/pull/93) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
@@ -55,11 +55,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (1 day ago)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites. (1 day ago)
-- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content (1 day ago)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (1 day ago)
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST&#43;GraphQL API and intuitive no-code data collaboration app for any SQL database. (1 day ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (2 days ago)
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites. (2 days ago)
+- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content (2 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (2 days ago)
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST&#43;GraphQL API and intuitive no-code data collaboration app for any SQL database. (2 days ago)
 
 ### Socials
 
