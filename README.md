@@ -16,23 +16,23 @@ Open source lover!
 
 ### Current Projects
 
+- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (1 day ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 week ago)
 - [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) -  (2 weeks ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
-- [Alwatr/containers](https://github.com/Alwatr/containers) - Alwatr Containers (1 month ago)
 
 ### Latest projects
 
+- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) - 
 - [njfamirm/telegram-notifier-bot](https://github.com/njfamirm/telegram-notifier-bot) - 
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) - 
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account.
 - [njfamirm/url-shortner](https://github.com/njfamirm/url-shortner) - 
-- [njfamirm/blog-cms](https://github.com/njfamirm/blog-cms) - CMS of my blog
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 6 days ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 2 weeks ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 3 weeks ago) - My personal website.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.3](https://github.com/Alwatr/store/releases/tag/v6.0.3), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
@@ -40,8 +40,8 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [fix(refrence): set created meta to now](https://github.com/Alwatr/store/pull/233) on [Alwatr/store](https://github.com/Alwatr/store) (2 days ago)
-- [fix(exit-hook): exit after listener called](https://github.com/Alwatr/nanolib/pull/71) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (2 days ago)
+- [fix(refrence): set created meta to now](https://github.com/Alwatr/store/pull/233) on [Alwatr/store](https://github.com/Alwatr/store) (3 days ago)
+- [fix(exit-hook): exit after listener called](https://github.com/Alwatr/nanolib/pull/71) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (3 days ago)
 
 ### Recent Gists
 
@@ -53,11 +53,11 @@ Open source lover!
 
 ### Recent Stars
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (5 days ago)
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites. (5 days ago)
-- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content (5 days ago)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (5 days ago)
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST&#43;GraphQL API and intuitive no-code data collaboration app for any SQL database. (5 days ago)
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (1 day ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (6 days ago)
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites. (6 days ago)
+- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content (6 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (6 days ago)
 
 ### Socials
 
