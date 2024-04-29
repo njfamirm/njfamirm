@@ -16,9 +16,9 @@ Open source lover!
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 day ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 days ago)
-- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 days ago)
+- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (1 week ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 week ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 weeks ago)
 
@@ -32,15 +32,15 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.4](https://github.com/Alwatr/store/releases/tag/v6.0.4), 3 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/exit-hook@1.0.9](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/exit-hook%401.0.9), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.4](https://github.com/Alwatr/store/releases/tag/v6.0.4), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/exit-hook@1.0.9](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/exit-hook%401.0.9), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 3 weeks ago) - Progressive Multi Page (Web) Application.
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 3 weeks ago) - My personal website.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 4 weeks ago) - My personal website.
 
 ### Recent Pull Requests
 
-- [feat: improve cutomization](https://github.com/njfamirm/1bash/pull/2) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (2 days ago)
+- [feat: improve cutomization](https://github.com/njfamirm/1bash/pull/2) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (3 days ago)
 
 ### Recent Gists
 
@@ -52,10 +52,10 @@ Open source lover!
 
 ### Recent Stars
 
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 day ago)
-- [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (1 day ago)
-- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (4 days ago)
-- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (6 days ago)
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (2 days ago)
+- [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (2 days ago)
+- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (5 days ago)
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (1 week ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (1 week ago)
 
 ### Socials
