@@ -53,9 +53,9 @@ Open source lover!
 
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 week ago)
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (1 week ago)
-- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (1 week ago)
+- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (2 weeks ago)
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (2 weeks ago)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (2 weeks ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (3 weeks ago)
 
 ### Socials
 
