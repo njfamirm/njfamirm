@@ -32,8 +32,8 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.5](https://github.com/Alwatr/store/releases/tag/v6.0.5), 2 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.6), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.5](https://github.com/Alwatr/store/releases/tag/v6.0.5), 3 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.6), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 4 weeks ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 month ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 1 month ago) - My personal website.
@@ -53,9 +53,9 @@ Open source lover!
 
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (2 weeks ago)
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (2 weeks ago)
-- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (2 weeks ago)
+- [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (3 weeks ago)
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (3 weeks ago)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (3 weeks ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (4 weeks ago)
 
 ### Socials
 
