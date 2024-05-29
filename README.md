@@ -51,7 +51,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (1 day ago)
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 days ago)
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 month ago)
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (1 month ago)
 - [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (1 month ago)
