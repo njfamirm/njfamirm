@@ -32,10 +32,10 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.5](https://github.com/Alwatr/store/releases/tag/v6.0.5), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.6), 2 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.5](https://github.com/Alwatr/store/releases/tag/v6.0.5), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.6), 3 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 1 month ago) - A Git-based CMS for Static Site Generators
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 month ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 2 months ago) - Progressive Multi Page (Web) Application.
 - [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.0](https://github.com/njfamirm/blog/releases/tag/v1.8.0), 2 months ago) - My personal website.
 
 ### Recent Pull Requests
@@ -51,7 +51,7 @@ Open source lover!
 
 ### Recent Stars
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (5 days ago)
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (6 days ago)
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 month ago)
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (1 month ago)
 - [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (1 month ago)
