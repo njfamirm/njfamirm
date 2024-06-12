@@ -20,7 +20,7 @@ Open source lover!
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 - [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (1 month ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 month ago)
-- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 month ago)
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 months ago)
 
 ### Latest projects
 
