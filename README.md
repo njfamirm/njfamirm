@@ -16,11 +16,11 @@ Open source lover!
 
 ### Current Projects
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (5 days ago)
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (6 days ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 - [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (1 month ago)
-- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (1 month ago)
+- [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (2 months ago)
 
 ### Latest projects
 
@@ -32,7 +32,7 @@ Open source lover!
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.5.2](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.5.2), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.5.2](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.5.2), 6 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.0.5](https://github.com/Alwatr/store/releases/tag/v6.0.5), 1 month ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/parse-duration@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/parse-duration%401.0.6), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.10](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.10), 2 months ago) - A Git-based CMS for Static Site Generators
@@ -40,7 +40,7 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [fix(version): update get last commit hash info regex to support all timezone](https://github.com/lerna-lite/lerna-lite/pull/875) on [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) (6 days ago)
+- [fix(version): update get last commit hash info regex to support all timezone](https://github.com/lerna-lite/lerna-lite/pull/875) on [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) (1 week ago)
 
 ### Recent Gists
 
