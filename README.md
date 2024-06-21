@@ -19,7 +19,7 @@ Open source lover!
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (1 week ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
-- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (1 month ago)
+- [njfamirm/uptime-robot](https://github.com/njfamirm/uptime-robot) -  (2 months ago)
 - [Alwatr/store](https://github.com/Alwatr/store) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx. (2 months ago)
 
 ### Latest projects
@@ -40,7 +40,6 @@ Open source lover!
 
 ### Recent Pull Requests
 
-- [fix(version): update get last commit hash info regex to support all timezone](https://github.com/lerna-lite/lerna-lite/pull/875) on [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) (1 week ago)
 
 ### Recent Gists
 
@@ -56,7 +55,7 @@ Open source lover!
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 month ago)
 - [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it. (1 month ago)
 - [rtCamp/nginx-helper](https://github.com/rtCamp/nginx-helper) - Nginx Helper for WordPress caching, permalinks &amp; efficient file handling in multisite (1 month ago)
-- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (1 month ago)
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (2 months ago)
 
 ### Socials
 
