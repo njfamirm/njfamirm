@@ -1,9 +1,6 @@
 # Hi, I'm Amir Mohammad
-[![Wakatime](https://wakatime.com/badge/user/68776a95-d771-48a4-a960-90136239e4fd.svg)](https://wakatime.com/@68776a95-d771-48a4-a960-90136239e4fd)
-![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
 
-Junior full-stack developer, focusing on backend and Linux concepts!
-Open source lover!
+Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Blog posts
 
@@ -59,9 +56,7 @@ Open source lover!
 
 ### Socials
 
-- Blog: https://njfamirm.ir
+- Blog: https://www.njfamirm.ir
 - Email: hi@njfamirm.ir
 - Twitter: https://twitter.com/
-- Linkedin: https://www.linkedin.com/in/njfamirm/
-- Telegram: https://t.me/njfamirm
-- StackOverflow: https://stackoverflow.com/users/18004491/njfamirm
+- Linkedin: https://www.linkedin.com/in/njfamirm-me/
