@@ -15,7 +15,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (2 weeks ago)
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (3 weeks ago)
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (4 weeks ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 months ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 months ago)
 
@@ -29,10 +29,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.7.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.7.0), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.7.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.7.0), 6 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.2.0](https://github.com/Alwatr/store/releases/tag/v6.2.0), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.11](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.11), 1 week ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.11](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.11), 2 weeks ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 3 months ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
@@ -40,7 +40,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Gists
 
-- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (1 year ago)
+- [](https://gist.github.com/022d07ecd84e69ad31ef0bcd32d86b59) (2 years ago)
 - [My public key](https://gist.github.com/879f720c9ca74a0934ce571b7285ed34) (2 years ago)
 - [My typescript gitignore](https://gist.github.com/6a40b1912daab3f91a02a7b53f3f76c3) (2 years ago)
 - [تنظیم شکن با نتورک منیجر در لینوکس](https://gist.github.com/cc40c344e89bdcdf77085cbf1fc05162) (2 years ago)
