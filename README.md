@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.7.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.7.1), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.7.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.7.1), 6 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 2 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.2.0](https://github.com/Alwatr/store/releases/tag/v6.2.0), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.11](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.11), 3 weeks ago) - A Git-based CMS for Static Site Generators
