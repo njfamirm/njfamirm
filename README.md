@@ -48,9 +48,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (1 day ago)
-- [nosir/cleave-zen](https://github.com/nosir/cleave-zen) - A simple library to help you format input text content (3 days ago)
-- [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing... (3 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (2 days ago)
+- [nosir/cleave-zen](https://github.com/nosir/cleave-zen) - A simple library to help you format input text content (4 days ago)
+- [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing... (4 days ago)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. (1 week ago)
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 months ago)
 
