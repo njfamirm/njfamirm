@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.8.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.8.0), 1 day ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.8.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.8.0), 2 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.2.0](https://github.com/Alwatr/store/releases/tag/v6.2.0), 1 month ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.1.11](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.1.11), 1 month ago) - A Git-based CMS for Static Site Generators
@@ -48,11 +48,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (3 days ago)
-- [nosir/cleave-zen](https://github.com/nosir/cleave-zen) - A simple library to help you format input text content (5 days ago)
-- [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing... (5 days ago)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. (1 week ago)
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 months ago)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (4 days ago)
+- [nosir/cleave-zen](https://github.com/nosir/cleave-zen) - A simple library to help you format input text content (6 days ago)
+- [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing... (6 days ago)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. (2 weeks ago)
 
 ### Socials
 
