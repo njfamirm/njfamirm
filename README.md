@@ -13,8 +13,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 weeks ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (3 weeks ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 weeks ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (1 month ago)
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 months ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 months ago)
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.0](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.0), 3 days ago) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.0](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.0), 4 days ago) - A Git-based CMS for Static Site Generators
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.8.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.8.0), 1 week ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.2.0](https://github.com/Alwatr/store/releases/tag/v6.2.0), 1 month ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
@@ -48,8 +48,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (2 days ago)
-- [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (6 days ago)
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (3 days ago)
+- [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (1 week ago)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains (1 week ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (1 week ago)
 - [nosir/cleave-zen](https://github.com/nosir/cleave-zen) - A simple library to help you format input text content (2 weeks ago)
