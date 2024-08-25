@@ -13,8 +13,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (4 weeks ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (4 weeks ago)
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 month ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (2 months ago)
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 months ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 months ago)
@@ -48,8 +48,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (4 days ago)
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (5 days ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (5 days ago)
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (6 days ago)
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 week ago)
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (1 week ago)
 - [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (2 weeks ago)
