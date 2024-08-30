@@ -50,9 +50,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 week ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 week ago)
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 week ago)
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (2 weeks ago)
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (2 weeks ago)
-- [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (2 weeks ago)
+- [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (3 weeks ago)
 
 ### Socials
 
