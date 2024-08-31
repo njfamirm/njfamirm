@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.0](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.0), 2 weeks ago) - A Git-based CMS for Static Site Generators
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.8.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.8.0), 3 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.3), 1 day ago) - A Git-based CMS for Static Site Generators
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.0), 1 day ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/polyfill-has-own@1.0.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/polyfill-has-own%401.0.6), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/store](https://github.com/Alwatr/store) ([v6.2.0](https://github.com/Alwatr/store/releases/tag/v6.2.0), 1 month ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 4 months ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 5 months ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
 
