@@ -29,10 +29,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v7.0.0](https://github.com/Alwatr/store/releases/tag/v7.0.0), 1 day ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/wait@1.1.14](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/wait%401.1.14), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.3), 4 days ago) - A Git-based CMS for Static Site Generators
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.0), 4 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/store](https://github.com/Alwatr/store) ([v7.0.0](https://github.com/Alwatr/store/releases/tag/v7.0.0), 2 days ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/wait@1.1.14](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/wait%401.1.14), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.3), 5 days ago) - A Git-based CMS for Static Site Generators
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.0), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 5 months ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
