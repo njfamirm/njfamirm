@@ -13,11 +13,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 day ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 month ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (2 months ago)
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (2 months ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 months ago)
 
 ### Latest projects
 
@@ -29,14 +29,15 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.1), 1 day ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
-- [Alwatr/store](https://github.com/Alwatr/store) ([v7.0.0](https://github.com/Alwatr/store/releases/tag/v7.0.0), 6 days ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v7.1.0](https://github.com/Alwatr/store/releases/tag/v7.1.0), 1 day ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.1), 2 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/wait@1.1.14](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/wait%401.1.14), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.3), 1 week ago) - A Git-based CMS for Static Site Generators
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 5 months ago) - Progressive Multi Page (Web) Application.
 
 ### Recent Pull Requests
 
+- [chore: cleanup and update from nanolib](https://github.com/Alwatr/nanotron/pull/9) on [Alwatr/nanotron](https://github.com/Alwatr/nanotron) (1 day ago)
 
 ### Recent Gists
 
@@ -48,11 +49,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 day ago)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (2 weeks ago)
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (2 weeks ago)
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (3 weeks ago)
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (3 weeks ago)
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (3 weeks ago)
-- [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library (1 month ago)
 
 ### Socials
 
