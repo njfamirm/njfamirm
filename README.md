@@ -29,8 +29,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.6), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.1.0](https://github.com/Alwatr/nanotron/releases/tag/v4.1.0), 2 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.6), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.1.0](https://github.com/Alwatr/nanotron/releases/tag/v4.1.0), 3 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 - [Alwatr/store](https://github.com/Alwatr/store) ([v7.1.0](https://github.com/Alwatr/store/releases/tag/v7.1.0), 1 week ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.1), 1 week ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) ([decap-cms@3.3.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.3.3), 2 weeks ago) - A Git-based CMS for Static Site Generators
@@ -49,7 +49,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 ### Recent Stars
 
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 week ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (3 weeks ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (4 weeks ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (4 weeks ago)
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 month ago)
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter &amp; automatic code fixer (1 month ago)
