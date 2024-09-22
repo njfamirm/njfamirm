@@ -13,11 +13,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 week ago)
+- [Alwatr/weaver](https://github.com/Alwatr/weaver) - Progressive Multi Page (Web) Application. (6 days ago)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (2 weeks ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 month ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 - [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 months ago)
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure (3 months ago)
 
 ### Latest projects
 
@@ -29,10 +29,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.0.1](https://github.com/Alwatr/flux/releases/tag/v3.0.1), 4 days ago) - Flux - Elegant State Management and Event System
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@1.2.6](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%401.2.6), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.0.2](https://github.com/Alwatr/flux/releases/tag/v3.0.2), 1 day ago) - Flux - Elegant State Management and Event System
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nano-build@1.3.10](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nano-build%401.3.10), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.1.0](https://github.com/Alwatr/nanotron/releases/tag/v4.1.0), 1 week ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/store](https://github.com/Alwatr/store) ([v7.1.0](https://github.com/Alwatr/store/releases/tag/v7.1.0), 1 week ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v7.1.0](https://github.com/Alwatr/store/releases/tag/v7.1.0), 2 weeks ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.1), 2 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 
 ### Recent Pull Requests
@@ -48,8 +48,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more (4 days ago)
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 week ago)
+- [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more (5 days ago)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (2 weeks ago)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 month ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 month ago)
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 month ago)
