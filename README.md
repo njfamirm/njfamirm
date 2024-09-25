@@ -13,11 +13,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 day ago)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (2 days ago)
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (3 days ago)
 - [Alwatr/weaver](https://github.com/Alwatr/weaver) - Progressive Multi Page (Web) Application. (1 week ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 months ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 months ago)
-- [njfamirm/mind-swap](https://github.com/njfamirm/mind-swap) - An AI chatbot designed to save notes, tasks, and ideas from your mind to your account. (3 months ago)
 
 ### Latest projects
 
@@ -29,16 +29,16 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.2.0](https://github.com/Alwatr/nanotron/releases/tag/v4.2.0), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.0.2](https://github.com/Alwatr/flux/releases/tag/v3.0.2), 3 days ago) - Flux - Elegant State Management and Event System
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nano-build@1.3.10](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nano-build%401.3.10), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/store](https://github.com/Alwatr/store) ([v7.1.0](https://github.com/Alwatr/store/releases/tag/v7.1.0), 2 weeks ago) - Alwatr Store: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.0.3](https://github.com/Alwatr/flux/releases/tag/v3.0.3), 1 day ago) - Flux - Elegant State Management and Event System
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.2.1](https://github.com/Alwatr/nanotron/releases/tag/v4.2.1), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.2.0](https://github.com/Alwatr/nitrobase/releases/tag/v7.2.0), 1 day ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nano-build@1.3.10](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nano-build%401.3.10), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.1), 2 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 
 ### Recent Pull Requests
 
-- [fix: export crypto from nanotron](https://github.com/Alwatr/nanotron/pull/23) on [Alwatr/nanotron](https://github.com/Alwatr/nanotron) (1 day ago)
-- [fix(nginx): update store prefix to latest version](https://github.com/Alwatr/store/pull/297) on [Alwatr/store](https://github.com/Alwatr/store) (2 days ago)
+- [fix: export crypto from nanotron](https://github.com/Alwatr/nanotron/pull/23) on [Alwatr/nanotron](https://github.com/Alwatr/nanotron) (2 days ago)
+- [fix(nginx): update store prefix to latest version](https://github.com/Alwatr/nitrobase/pull/297) on [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) (3 days ago)
 
 ### Recent Gists
 
