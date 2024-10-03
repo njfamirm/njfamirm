@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (4 days ago)
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (5 days ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 week ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 week ago)
 - [Alwatr/weaver](https://github.com/Alwatr/weaver) - Progressive Multi Page (Web) Application. (2 weeks ago)
@@ -29,17 +29,16 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nanolib@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nanolib%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.1.1](https://github.com/Alwatr/flux/releases/tag/v3.1.1), 3 days ago) - Flux - Elegant State Management and Event System
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.2.1](https://github.com/Alwatr/nitrobase/releases/tag/v7.2.1), 3 days ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.2.2](https://github.com/Alwatr/nanotron/releases/tag/v4.2.2), 3 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.2](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.2), 4 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nanolib@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nanolib%401.0.0), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.1.1](https://github.com/Alwatr/flux/releases/tag/v3.1.1), 4 days ago) - Flux - Elegant State Management and Event System
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.2.1](https://github.com/Alwatr/nitrobase/releases/tag/v7.2.1), 4 days ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.2.2](https://github.com/Alwatr/nanotron/releases/tag/v4.2.2), 4 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.2](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.2), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 
 ### Recent Pull Requests
 
-- [fix(nitrobase): export helper](https://github.com/Alwatr/nitrobase/pull/302) on [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) (4 days ago)
+- [fix(nitrobase): export helper](https://github.com/Alwatr/nitrobase/pull/302) on [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) (5 days ago)
 - [feat(node-fs/write-file): support buffer as content](https://github.com/Alwatr/nanolib/pull/127) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (1 week ago)
-- [fix: export crypto from nanotron](https://github.com/Alwatr/nanotron/pull/23) on [Alwatr/nanotron](https://github.com/Alwatr/nanotron) (1 week ago)
 
 ### Recent Gists
 
@@ -51,9 +50,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data (1 day ago)
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (3 days ago)
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (6 days ago)
+- [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data (2 days ago)
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (4 days ago)
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (1 week ago)
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You (1 week ago)
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more (2 weeks ago)
 
