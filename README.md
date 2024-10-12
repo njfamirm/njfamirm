@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (1 week ago)
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (2 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (2 weeks ago)
 - [Alwatr/weaver-kit](https://github.com/Alwatr/weaver-kit) - A Proposed Model for Building All Websites and Web Applications (3 weeks ago)
@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/type-helper@2.0.1](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/type-helper%402.0.1), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.3](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.3), 3 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.1.1](https://github.com/Alwatr/flux/releases/tag/v3.1.1), 1 week ago) - Flux - Elegant State Management and Event System
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.2.1](https://github.com/Alwatr/nitrobase/releases/tag/v7.2.1), 1 week ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.2.2](https://github.com/Alwatr/nanotron/releases/tag/v4.2.2), 1 week ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.3.0](https://github.com/Alwatr/nanotron/releases/tag/v4.3.0), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.2.0](https://github.com/Alwatr/flux/releases/tag/v3.2.0), 1 day ago) - Flux - Elegant State Management and Event System
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.3.0](https://github.com/Alwatr/nitrobase/releases/tag/v7.3.0), 1 day ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/platform-info@1.2.5](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/platform-info%401.2.5), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.9.3](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.9.3), 4 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 
 ### Recent Pull Requests
 
