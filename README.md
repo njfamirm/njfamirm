@@ -13,9 +13,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 day ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (2 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 weeks ago)
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (3 weeks ago)
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) - A Proposed Model for Building All Websites and Web Applications (1 month ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 months ago)
 
@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 1 day ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.2](https://github.com/Alwatr/alwatr/releases/tag/v2.0.2), 1 day ago) - The Alwatr Library (legacy repo)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/resolve-url@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/resolve-url%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.0](https://github.com/Alwatr/nanotron/releases/tag/v4.4.0), 2 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.2.0](https://github.com/Alwatr/flux/releases/tag/v3.2.0), 5 days ago) - Flux - Elegant State Management and Event System
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.3](https://github.com/Alwatr/alwatr/releases/tag/v2.0.3), 1 day ago) - The Alwatr Library (legacy repo)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.1](https://github.com/Alwatr/nanotron/releases/tag/v4.4.1), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 2 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/resolve-url@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/resolve-url%401.0.0), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.2.0](https://github.com/Alwatr/flux/releases/tag/v3.2.0), 6 days ago) - Flux - Elegant State Management and Event System
 
 ### Recent Pull Requests
 
@@ -48,10 +48,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (3 days ago)
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (4 days ago)
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data (2 weeks ago)
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (2 weeks ago)
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (2 weeks ago)
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (3 weeks ago)
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You (3 weeks ago)
 
 ### Socials
