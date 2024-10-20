@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (3 days ago)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (4 days ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (3 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 weeks ago)
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) - A Proposed Model for Building All Websites and Web Applications (1 month ago)
@@ -29,10 +29,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.3](https://github.com/Alwatr/alwatr/releases/tag/v2.0.3), 3 days ago) - The Alwatr Library (legacy repo)
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.1](https://github.com/Alwatr/nanotron/releases/tag/v4.4.1), 3 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 4 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/resolve-url@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/resolve-url%401.0.0), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.3](https://github.com/Alwatr/alwatr/releases/tag/v2.0.3), 4 days ago) - The Alwatr Library (legacy repo)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.1](https://github.com/Alwatr/nanotron/releases/tag/v4.4.1), 4 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/resolve-url@1.0.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/resolve-url%401.0.0), 5 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 - [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.2.0](https://github.com/Alwatr/flux/releases/tag/v3.2.0), 1 week ago) - Flux - Elegant State Management and Event System
 
 ### Recent Pull Requests
@@ -48,11 +48,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript (2 days ago)
-- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (6 days ago)
+- [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support (1 day ago)
+- [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs (1 day ago)
+- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript (3 days ago)
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (1 week ago)
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data (2 weeks ago)
-- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (2 weeks ago)
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (3 weeks ago)
 
 ### Socials
 
