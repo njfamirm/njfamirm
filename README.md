@@ -17,7 +17,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (3 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 weeks ago)
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) - A Proposed Model for Building All Websites and Web Applications (1 month ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 months ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 months ago)
 
 ### Latest projects
 
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/notifier-nanoservice](https://github.com/Alwatr/notifier-nanoservice) ([v1.0.0](https://github.com/Alwatr/notifier-nanoservice/releases/tag/v1.0.0), 1 day ago) - Alwatr Notifier Microservice
+- [Alwatr/notifier-nanoservice](https://github.com/Alwatr/notifier-nanoservice) ([v1.0.0](https://github.com/Alwatr/notifier-nanoservice/releases/tag/v1.0.0), 2 days ago) - Alwatr Notifier Microservice
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.3](https://github.com/Alwatr/alwatr/releases/tag/v2.0.3), 1 week ago) - The Alwatr Library (legacy repo)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.1](https://github.com/Alwatr/nanotron/releases/tag/v4.4.1), 1 week ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 1 week ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
@@ -37,7 +37,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Pull Requests
 
-- [docs(logger/readme): correct debug key](https://github.com/Alwatr/nanolib/pull/158) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (3 days ago)
+- [docs(logger/readme): correct debug key](https://github.com/Alwatr/nanolib/pull/158) on [Alwatr/nanolib](https://github.com/Alwatr/nanolib) (4 days ago)
 
 ### Recent Gists
 
@@ -49,11 +49,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [graphql/graphql-http](https://github.com/graphql/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (1 day ago)
-- [sindresorhus/debounce](https://github.com/sindresorhus/debounce) - Delay function calls until a set time elapses after the last invocation (1 day ago)
-- [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support (4 days ago)
-- [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs (4 days ago)
-- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript (6 days ago)
+- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 day ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (1 day ago)
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (1 day ago)
+- [graphql/graphql-http](https://github.com/graphql/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (2 days ago)
+- [sindresorhus/debounce](https://github.com/sindresorhus/debounce) - Delay function calls until a set time elapses after the last invocation (2 days ago)
 
 ### Socials
 
