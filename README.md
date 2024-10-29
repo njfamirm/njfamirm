@@ -29,14 +29,15 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/platform-info@1.2.7](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/platform-info%401.2.7), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/notifier-nanoservice](https://github.com/Alwatr/notifier-nanoservice) ([v1.0.0](https://github.com/Alwatr/notifier-nanoservice/releases/tag/v1.0.0), 6 days ago) - Alwatr Notifier Microservice
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.0.3](https://github.com/Alwatr/alwatr/releases/tag/v2.0.3), 1 week ago) - The Alwatr Library (legacy repo)
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.4.1](https://github.com/Alwatr/nanotron/releases/tag/v4.4.1), 1 week ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.0](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.0), 1 week ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nanolib@1.5.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nanolib%401.5.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/notifier](https://github.com/Alwatr/notifier) ([v2.0.2](https://github.com/Alwatr/notifier/releases/tag/v2.0.2), 1 day ago) - A tiny and easy-to-use package for sending notifications to Alwatr Notifier service.
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.1.1](https://github.com/Alwatr/alwatr/releases/tag/v2.1.1), 1 day ago) - The Alwatr Library (legacy repo)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.5.1](https://github.com/Alwatr/nanotron/releases/tag/v4.5.1), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v3.2.1](https://github.com/Alwatr/flux/releases/tag/v3.2.1), 1 day ago) - Flux - Elegant State Management and Event System
 
 ### Recent Pull Requests
 
+- [refactor(notifier-api): pre handlers](https://github.com/Alwatr/notifier/pull/254) on [Alwatr/notifier](https://github.com/Alwatr/notifier) (1 day ago)
 
 ### Recent Gists
 
@@ -48,11 +49,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 day ago)
-- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (5 days ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (5 days ago)
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (5 days ago)
-- [graphql/graphql-http](https://github.com/graphql/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (6 days ago)
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (2 days ago)
+- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (6 days ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (6 days ago)
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) - Alwatr Accelerated NGINX (6 days ago)
+- [graphql/graphql-http](https://github.com/graphql/graphql-http) - Simple, pluggable, zero-dependency, GraphQL over HTTP spec compliant server, client and audit suite. (1 week ago)
 
 ### Socials
 
