@@ -29,15 +29,15 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 3 days ago) - Alwatr Accelerated NGINX
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nanolib@1.5.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nanolib%401.5.0), 4 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/notifier](https://github.com/Alwatr/notifier) ([v2.0.2](https://github.com/Alwatr/notifier/releases/tag/v2.0.2), 4 days ago) - A tiny and easy-to-use package for sending notifications to Alwatr Notifier service.
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.1.1](https://github.com/Alwatr/alwatr/releases/tag/v2.1.1), 4 days ago) - The Alwatr Library (legacy repo)
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.5.1](https://github.com/Alwatr/nanotron/releases/tag/v4.5.1), 4 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 4 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/nanolib@1.5.0](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/nanolib%401.5.0), 5 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/notifier](https://github.com/Alwatr/notifier) ([v2.0.2](https://github.com/Alwatr/notifier/releases/tag/v2.0.2), 5 days ago) - A tiny and easy-to-use package for sending notifications to Alwatr Notifier service.
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.1.1](https://github.com/Alwatr/alwatr/releases/tag/v2.1.1), 5 days ago) - The Alwatr Library (legacy repo)
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.5.1](https://github.com/Alwatr/nanotron/releases/tag/v4.5.1), 5 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 
 ### Recent Pull Requests
 
-- [refactor(notifier-api): pre handlers](https://github.com/Alwatr/notifier/pull/254) on [Alwatr/notifier](https://github.com/Alwatr/notifier) (4 days ago)
+- [cohre: update from alwatr](https://github.com/njfamirm/1bash/pull/3) on [njfamirm/1bash](https://github.com/njfamirm/1bash) (1 day ago)
 
 ### Recent Gists
 
@@ -49,9 +49,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (1 day ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 day ago)
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (5 days ago)
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (2 days ago)
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (6 days ago)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 week ago)
 - [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (1 week ago)
 
