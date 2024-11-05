@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 days ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (2 weeks ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (1 month ago)
@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.1](https://github.com/njfamirm/blog/releases/tag/v1.8.1), 2 days ago) - My personal website.
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 2 days ago) - A Proposed Model for Building All Websites and Web Applications
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.2.0](https://github.com/Alwatr/alwatr/releases/tag/v2.2.0), 2 days ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.5.2](https://github.com/Alwatr/nanotron/releases/tag/v4.5.2), 2 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.3.1](https://github.com/Alwatr/nitrobase/releases/tag/v7.3.1), 2 days ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v2.3.0](https://github.com/Alwatr/alwatr/releases/tag/v2.3.0), 1 day ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.1.0](https://github.com/Alwatr/nanolib/releases/tag/v5.1.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.1](https://github.com/njfamirm/blog/releases/tag/v1.8.1), 3 days ago) - My personal website.
+- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 3 days ago) - A Proposed Model for Building All Websites and Web Applications
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.5.2](https://github.com/Alwatr/nanotron/releases/tag/v4.5.2), 3 days ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 
 ### Recent Pull Requests
 
@@ -48,8 +48,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (4 days ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 days ago)
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (5 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (5 days ago)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 week ago)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 week ago)
 - [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (1 week ago)
