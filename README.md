@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (2 weeks ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (3 weeks ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (1 month ago)
@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.0](https://github.com/Alwatr/nanolib/releases/tag/v5.2.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
-- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.1.1](https://github.com/Alwatr/alwatr/releases/tag/v3.1.1), 1 day ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
-- [Alwatr/flux](https://github.com/Alwatr/flux) ([v4.0.2](https://github.com/Alwatr/flux/releases/tag/v4.0.2), 1 day ago) - Flux - Elegant State Management and Event System
-- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.1](https://github.com/njfamirm/blog/releases/tag/v1.8.1), 5 days ago) - My personal website.
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 5 days ago) - A Proposed Model for Building All Websites and Web Applications
+- [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.4.0](https://github.com/Alwatr/alwatr/releases/tag/v3.4.0), 1 day ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.7.0](https://github.com/Alwatr/nanotron/releases/tag/v4.7.0), 1 day ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.1](https://github.com/Alwatr/nanolib/releases/tag/v5.2.1), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/flux](https://github.com/Alwatr/flux) ([v4.0.2](https://github.com/Alwatr/flux/releases/tag/v4.0.2), 2 days ago) - Flux - Elegant State Management and Event System
+- [njfamirm/blog](https://github.com/njfamirm/blog) ([v1.8.1](https://github.com/njfamirm/blog/releases/tag/v1.8.1), 6 days ago) - My personal website.
 
 ### Recent Pull Requests
 
