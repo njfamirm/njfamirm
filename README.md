@@ -14,7 +14,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 ### Current Projects
 
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (3 weeks ago)
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (4 weeks ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 month ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (1 month ago)
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) - A Proposed Model for Building All Websites and Web Applications (2 months ago)
@@ -29,8 +29,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 5 days ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 5 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 6 days ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 6 days ago) - Alwatr Accelerated NGINX
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.7.0](https://github.com/Alwatr/alwatr/releases/tag/v3.7.0), 1 week ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.8.0](https://github.com/Alwatr/nanotron/releases/tag/v4.8.0), 1 week ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.1](https://github.com/Alwatr/nanolib/releases/tag/v5.2.1), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
@@ -50,7 +50,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 weeks ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (2 weeks ago)
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (2 weeks ago)
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (3 weeks ago)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (3 weeks ago)
 - [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (3 weeks ago)
 
