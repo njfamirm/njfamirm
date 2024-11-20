@@ -51,8 +51,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 weeks ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (2 weeks ago)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (3 weeks ago)
-- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (3 weeks ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (3 weeks ago)
+- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (4 weeks ago)
+- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (4 weeks ago)
 
 ### Socials
 
