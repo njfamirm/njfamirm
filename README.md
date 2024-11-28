@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (5 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 month ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (2 months ago)
@@ -33,7 +33,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 2 weeks ago) - Alwatr Accelerated NGINX
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.7.0](https://github.com/Alwatr/alwatr/releases/tag/v3.7.0), 2 weeks ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.8.0](https://github.com/Alwatr/nanotron/releases/tag/v4.8.0), 2 weeks ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.1](https://github.com/Alwatr/nanolib/releases/tag/v5.2.1), 2 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.1](https://github.com/Alwatr/nanolib/releases/tag/v5.2.1), 3 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 
 ### Recent Pull Requests
 
@@ -48,11 +48,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (3 weeks ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (3 weeks ago)
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. (1 day ago)
+- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛 (1 day ago)
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (4 weeks ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 weeks ago)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 month ago)
-- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (1 month ago)
-- [Alwatr/icon](https://github.com/Alwatr/icon) - Alwatr Icon Collections (1 month ago)
 
 ### Socials
 
