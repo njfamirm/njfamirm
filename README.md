@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (6 days ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 month ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (2 months ago)
@@ -29,11 +29,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 1 day ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 2 weeks ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 2 weeks ago) - Alwatr Accelerated NGINX
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.7.0](https://github.com/Alwatr/alwatr/releases/tag/v3.7.0), 2 weeks ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
-- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.8.0](https://github.com/Alwatr/nanotron/releases/tag/v4.8.0), 2 weeks ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([v5.2.1](https://github.com/Alwatr/nanolib/releases/tag/v5.2.1), 3 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/nanotron](https://github.com/Alwatr/nanotron) ([v4.8.0](https://github.com/Alwatr/nanotron/releases/tag/v4.8.0), 3 weeks ago) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework
 
 ### Recent Pull Requests
 
@@ -48,11 +48,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. (1 day ago)
-- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛 (1 day ago)
+- [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages. (1 day ago)
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. (2 days ago)
+- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛 (2 days ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (4 weeks ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 weeks ago)
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 month ago)
 
 ### Socials
 
