@@ -13,11 +13,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
+- [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 day ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 week ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 - [Alwatr/nanotron](https://github.com/Alwatr/nanotron) - Nanotron: Your Lightweight, High-Performance Micro/Nano Service Framework (1 month ago)
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server. (2 months ago)
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) - A Proposed Model for Building All Websites and Web Applications (2 months ago)
 
 ### Latest projects
 
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 4 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 5 days ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 3 weeks ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 3 weeks ago) - Alwatr Accelerated NGINX
 - [Alwatr/alwatr](https://github.com/Alwatr/alwatr) ([v3.7.0](https://github.com/Alwatr/alwatr/releases/tag/v3.7.0), 3 weeks ago) - Alwatr is a comprehensive ecosystem designed to streamline your development process. It includes a variety of tools and libraries to help you build robust applications efficiently.
@@ -48,11 +48,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [catdad-experiments/libheif-js](https://github.com/catdad-experiments/libheif-js) - 🤳 libheif as an npm module (1 day ago)
-- [catdad-experiments/heic-convert](https://github.com/catdad-experiments/heic-convert) - 🤳 convert heic/heif images to jpeg and png (2 days ago)
-- [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages. (4 days ago)
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. (5 days ago)
-- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛 (5 days ago)
+- [catdad-experiments/libheif-js](https://github.com/catdad-experiments/libheif-js) - 🤳 libheif as an npm module (2 days ago)
+- [catdad-experiments/heic-convert](https://github.com/catdad-experiments/heic-convert) - 🤳 convert heic/heif images to jpeg and png (3 days ago)
+- [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages. (5 days ago)
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. (6 days ago)
+- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛 (6 days ago)
 
 ### Socials
 
