@@ -13,10 +13,10 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 days ago)
-- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (4 days ago)
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (1 day ago)
+- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (5 days ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (1 week ago)
-- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (2 weeks ago)
+- [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (3 weeks ago)
 - [Alwatr/nanolib](https://github.com/Alwatr/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies. (1 month ago)
 
 ### Latest projects
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/alpine@1.0.0-alpha.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/alpine%401.0.0-alpha.0), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/alpine@1.0.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/alpine%401.0.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 2 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 1 month ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 1 month ago) - Alwatr Accelerated NGINX
@@ -37,11 +37,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Pull Requests
 
-- [feat: add speech-brain-asr-whisper-large-v2-commonvoice-fa](https://github.com/njfamirm/persian-asr-benchmark/pull/2) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (4 days ago)
-- [feat: add nvidia nemo model](https://github.com/njfamirm/persian-asr-benchmark/pull/1) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (4 days ago)
-- [fix(element): handle type issue](https://github.com/the-nexim/nanolib/pull/13) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (5 days ago)
-- [refactor(element): review and enhance](https://github.com/the-nexim/nanolib/pull/11) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (5 days ago)
-- [Feat/tsconfig](https://github.com/the-nexim/nanolib/pull/9) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (1 week ago)
+- [fix(alpine): use generator in the store class](https://github.com/the-nexim/nanolib/pull/15) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (1 day ago)
+- [feat: add speech-brain-asr-whisper-large-v2-commonvoice-fa](https://github.com/njfamirm/persian-asr-benchmark/pull/2) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (5 days ago)
+- [feat: add nvidia nemo model](https://github.com/njfamirm/persian-asr-benchmark/pull/1) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (5 days ago)
+- [fix(element): handle type issue](https://github.com/the-nexim/nanolib/pull/13) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (6 days ago)
+- [refactor(element): review and enhance](https://github.com/the-nexim/nanolib/pull/11) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (6 days ago)
 
 ### Recent Gists
 
@@ -53,11 +53,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (1 day ago)
-- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (4 days ago)
-- [jonatasgrosman/huggingsound](https://github.com/jonatasgrosman/huggingsound) - HuggingSound: A toolkit for speech-related tasks based on Hugging Face&#39;s tools (4 days ago)
-- [arashagp/dns-update](https://github.com/arashagp/dns-update) -  (4 days ago)
-- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (5 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (2 days ago)
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (5 days ago)
+- [jonatasgrosman/huggingsound](https://github.com/jonatasgrosman/huggingsound) - HuggingSound: A toolkit for speech-related tasks based on Hugging Face&#39;s tools (5 days ago)
+- [arashagp/dns-update](https://github.com/arashagp/dns-update) -  (5 days ago)
+- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (6 days ago)
 
 ### Socials
 
