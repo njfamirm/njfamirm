@@ -13,9 +13,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (3 days ago)
-- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (4 days ago)
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (5 days ago)
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (4 days ago)
+- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (5 days ago)
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (6 days ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 weeks ago)
 - [njfamirm/blog](https://github.com/njfamirm/blog) - My personal website. (1 month ago)
 
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/service-worker@1.0.0-alpha.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/service-worker%401.0.0-alpha.0), 5 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/service-worker@1.0.0-alpha.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/service-worker%401.0.0-alpha.0), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 3 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 1 month ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 1 month ago) - Alwatr Accelerated NGINX
@@ -37,8 +37,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Pull Requests
 
-- [feat(wav2vec2-xls-r-300m): add initial implementation with model load…](https://github.com/njfamirm/persian-asr-benchmark/pull/6) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (4 days ago)
-- [refactor: remove normalizer](https://github.com/njfamirm/persian-asr-benchmark/pull/5) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (4 days ago)
+- [feat(wav2vec2-xls-r-300m): add initial implementation with model load…](https://github.com/njfamirm/persian-asr-benchmark/pull/6) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (5 days ago)
+- [refactor: remove normalizer](https://github.com/njfamirm/persian-asr-benchmark/pull/5) on [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) (5 days ago)
 
 ### Recent Gists
 
@@ -50,11 +50,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding  (2 days ago)
-- [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3 (2 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (2 days ago)
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments (2 days ago)
-- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (4 days ago)
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding  (3 days ago)
+- [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3 (3 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (3 days ago)
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments (3 days ago)
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (5 days ago)
 
 ### Socials
 
