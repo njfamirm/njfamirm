@@ -13,9 +13,9 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [the-nexim/application-toolkit](https://github.com/the-nexim/application-toolkit) -  (1 day ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (1 day ago)
-- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (6 days ago)
+- [the-nexim/web-application-toolkit](https://github.com/the-nexim/web-application-toolkit) -  (2 days ago)
+- [njfamirm/persian-asr-benchmark](https://github.com/njfamirm/persian-asr-benchmark) - WIP (1 week ago)
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (1 week ago)
 - [njfamirm/asr-research](https://github.com/njfamirm/asr-research) -  (2 weeks ago)
 
@@ -29,7 +29,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/service-worker@1.0.0-alpha.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/service-worker%401.0.0-alpha.0), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/alpine@1.1.0](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/alpine%401.1.0), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) ([v3.10.1](https://github.com/lerna-lite/lerna-lite/releases/tag/v3.10.1), 3 weeks ago) - Subset of Lerna in a smaller &amp; more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [Alwatr/nitrobase](https://github.com/Alwatr/nitrobase) ([v7.5.3](https://github.com/Alwatr/nitrobase/releases/tag/v7.5.3), 1 month ago) - Nitrobase is a blazingly fast, lightweight database built on JSON. It stores data entirely in memory for lightning-quick access, while also providing a JSON file backup for persistence. You can easily serve your data over the web using our high-performance accelerated Nginx server.
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 1 month ago) - Alwatr Accelerated NGINX
@@ -37,7 +37,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Pull Requests
 
-- [refactor(eslint)!: migrate to eslint v9](https://github.com/the-nexim/nanolib/pull/22) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (1 day ago)
+- [refactor(eslint)!: migrate to eslint v9](https://github.com/the-nexim/nanolib/pull/22) on [the-nexim/nanolib](https://github.com/the-nexim/nanolib) (2 days ago)
 
 ### Recent Gists
 
@@ -49,11 +49,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS. (1 day ago)
-- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics &amp; embodied AI learning. (1 day ago)
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices. (1 day ago)
-- [marvinhagemeister/errorstacks](https://github.com/marvinhagemeister/errorstacks) - Tiny library to parse error stack traces (1 day ago)
-- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding  (4 days ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
+- [Picovoice/speech-to-text-benchmark](https://github.com/Picovoice/speech-to-text-benchmark) - speech to text benchmark framework (1 day ago)
+- [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS. (2 days ago)
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics &amp; embodied AI learning. (2 days ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices. (2 days ago)
 
 ### Socials
 
