@@ -4,11 +4,11 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Brain vs. Human Mind: A Guide to How LLMs Really Work](https://www.njfamirm.ir/en/blog/ai-vs-human-brain/)
 - [From Curiosity to Craftsmanship: My Journey Through Anthropic&#39;s Project Vend](https://www.njfamirm.ir/en/blog/learn-from-anthropic-project-vend/)
 - [Mastering Eleventy Folder Structures: From Default Setups to Real-World Best Practices](https://www.njfamirm.ir/en/blog/eleventy-folder-structure-guide/)
 - [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
-- [Split a large Pull Request into multiple smaller ones using separating Commits in Git](https://www.njfamirm.ir/en/blog/git-separate/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Current Projects

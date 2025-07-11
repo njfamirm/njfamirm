@@ -4,16 +4,16 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Blog posts
 
+- [AI Brain vs. Human Mind: A Guide to How LLMs Really Work](https://www.njfamirm.ir/en/blog/ai-vs-human-brain/)
 - [From Curiosity to Craftsmanship: My Journey Through Anthropic&#39;s Project Vend](https://www.njfamirm.ir/en/blog/learn-from-anthropic-project-vend/)
 - [Mastering Eleventy Folder Structures: From Default Setups to Real-World Best Practices](https://www.njfamirm.ir/en/blog/eleventy-folder-structure-guide/)
 - [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
-- [Split a large Pull Request into multiple smaller ones using separating Commits in Git](https://www.njfamirm.ir/en/blog/git-separate/)
 
 
 ### Current Projects
 
-- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
+- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (2 days ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 months ago)
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (4 months ago)
 - [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) - List of packages within the Nexim ecosystem designed for Nexim applications. (6 months ago)
