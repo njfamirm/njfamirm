@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (2 days ago)
+- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 months ago)
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (4 months ago)
 - [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) - List of packages within the Nexim ecosystem designed for Nexim applications. (6 months ago)
@@ -23,8 +23,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.0](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.0), 1 day ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/financial-calculate@1.0.3](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/financial-calculate%401.0.3), 3 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.0.0](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.0.0), 3 months ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
 - [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) ([@nexim/web-app-toolkit@1.1.5](https://github.com/the-nexim/web-app-toolkit/releases/tag/%40nexim/web-app-toolkit%401.1.5), 6 months ago) - List of packages within the Nexim ecosystem designed for Nexim applications.
 
 ### Recent Pull Requests
@@ -35,7 +35,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality. (1 day ago)
+- [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality. (2 days ago)
 
 ### Socials
 
