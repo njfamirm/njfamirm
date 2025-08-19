@@ -23,7 +23,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.0](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.0), 3 weeks ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.0](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.0), 4 weeks ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/financial-calculate@1.0.3](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/financial-calculate%401.0.3), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) ([@nexim/web-app-toolkit@1.1.5](https://github.com/the-nexim/web-app-toolkit/releases/tag/%40nexim/web-app-toolkit%401.1.5), 7 months ago) - List of packages within the Nexim ecosystem designed for Nexim applications.
 
