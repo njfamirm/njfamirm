@@ -16,16 +16,16 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (4 months ago)
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (6 months ago)
-- [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) - List of packages within the Nexim ecosystem designed for Nexim applications. (7 months ago)
+- [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) - List of packages within the Nexim ecosystem designed for Nexim applications. (8 months ago)
 
 ### Latest projects
 
 
 ### Latest releases I've contributed to
 
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.1](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.1), 6 days ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/task-scheduler@1.0.5](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/task-scheduler%401.0.5), 6 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
-- [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) ([@nexim/web-app-toolkit@1.1.5](https://github.com/the-nexim/web-app-toolkit/releases/tag/%40nexim/web-app-toolkit%401.1.5), 7 months ago) - List of packages within the Nexim ecosystem designed for Nexim applications.
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.1](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.1), 1 week ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/task-scheduler@1.0.5](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/task-scheduler%401.0.5), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/web-app-toolkit](https://github.com/the-nexim/web-app-toolkit) ([@nexim/web-app-toolkit@1.1.5](https://github.com/the-nexim/web-app-toolkit/releases/tag/%40nexim/web-app-toolkit%401.1.5), 8 months ago) - List of packages within the Nexim ecosystem designed for Nexim applications.
 
 ### Recent Pull Requests
 
