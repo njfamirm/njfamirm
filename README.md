@@ -30,7 +30,6 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Pull Requests
 
-- [Revert &#34;deps(deps): bump actions/setup-node from 4 to 5 in the github-actions group&#34;](https://github.com/the-nexim/actions/pull/7) on [the-nexim/actions](https://github.com/the-nexim/actions) (2 weeks ago)
 
 ### Recent Gists
 
