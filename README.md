@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
+- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (2 days ago)
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (1 week ago)
 - [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (1 month ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (5 months ago)
