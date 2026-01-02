@@ -17,7 +17,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (2 months ago)
 - [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (3 months ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (8 months ago)
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (9 months ago)
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (10 months ago)
 
 ### Latest projects
 
