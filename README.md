@@ -24,13 +24,12 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
+- [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 1 day ago) - 
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/tailwind-material-colors@1.0.7](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/tailwind-material-colors%401.0.7), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.2](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.2), 2 months ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
-- [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.1](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.1), 4 months ago) - 
 
 ### Recent Pull Requests
 
-- [Revert &#34;deps(deps): bump actions/setup-node from 4 to 5 in the github-actions group&#34;](https://github.com/the-nexim/actions/pull/7) on [the-nexim/actions](https://github.com/the-nexim/actions) (5 months ago)
 
 ### Recent Gists
 
