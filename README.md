@@ -24,7 +24,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 3 days ago) - 
+- [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 4 days ago) - 
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/tailwind-material-colors@1.0.7](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/tailwind-material-colors%401.0.7), 1 week ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.2](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.2), 2 months ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
 
@@ -36,7 +36,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Recent Stars
 
-- [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality. (6 months ago)
+- [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality. (7 months ago)
 
 ### Socials
 
