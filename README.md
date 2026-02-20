@@ -26,7 +26,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 1 week ago) - 
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/tailwind-material-colors@1.0.7](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/tailwind-material-colors%401.0.7), 2 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
-- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.2](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.2), 2 months ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
+- [the-nexim/design-system](https://github.com/the-nexim/design-system) ([@nexim/snackbar@2.1.2](https://github.com/the-nexim/design-system/releases/tag/%40nexim/snackbar%402.1.2), 3 months ago) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3.
 
 ### Recent Pull Requests
 
