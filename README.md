@@ -16,7 +16,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (4 months ago)
 - [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (5 months ago)
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (9 months ago)
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (10 months ago)
 - [the-nexim/design-system](https://github.com/the-nexim/design-system) - List of components and utilities for building web applications with Nexim&#39;s design system powered by Material Design 3. (11 months ago)
 
 ### Latest projects
