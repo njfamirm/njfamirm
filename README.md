@@ -13,8 +13,8 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (1 day ago)
-- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (2 days ago)
+- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 days ago)
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (5 months ago)
 - [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (6 months ago)
 
@@ -23,7 +23,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/financial-calculate@1.0.8](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/financial-calculate%401.0.8), 1 day ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/financial-calculate@1.0.8](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/financial-calculate%401.0.8), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 3 weeks ago) - 
 
 ### Recent Pull Requests
