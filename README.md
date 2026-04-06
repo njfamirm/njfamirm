@@ -14,16 +14,16 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 ### Current Projects
 
 - [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 weeks ago)
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (3 weeks ago)
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (6 months ago)
-- [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (6 months ago)
+- [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (7 months ago)
 
 ### Latest projects
 
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/sanitizer@1.1.5](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/sanitizer%401.1.5), 2 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/sanitizer@1.1.5](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/sanitizer%401.1.5), 3 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 1 month ago) - 
 
 ### Recent Pull Requests
