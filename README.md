@@ -24,7 +24,6 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/upload-kit](https://github.com/the-nexim/upload-kit) ([v2.0.0](https://github.com/the-nexim/upload-kit/releases/tag/v2.0.0), 4 days ago) - Nexim media system
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/sanitizer@1.1.5](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/sanitizer%401.1.5), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 2 months ago) - 
 
