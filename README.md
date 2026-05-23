@@ -13,7 +13,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Current Projects
 
-- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
+- [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (2 days ago)
 - [the-nexim/nanolib](https://github.com/the-nexim/nanolib) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule. (2 months ago)
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) -  (7 months ago)
 - [the-nexim/actions](https://github.com/the-nexim/actions) - List of reusable github actions for @the-nexim (8 months ago)
@@ -23,7 +23,7 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 
 ### Latest releases I've contributed to
 
-- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/localizer@1.1.7](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/localizer%401.1.7), 4 weeks ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
+- [the-nexim/nanolib](https://github.com/the-nexim/nanolib) ([@nexim/localizer@1.1.7](https://github.com/the-nexim/nanolib/releases/tag/%40nexim/localizer%401.1.7), 1 month ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule.
 - [the-nexim/internal-toolkit](https://github.com/the-nexim/internal-toolkit) ([@nexim/api-connect@1.0.2](https://github.com/the-nexim/internal-toolkit/releases/tag/%40nexim/api-connect%401.0.2), 3 months ago) - 
 
 ### Recent Pull Requests
