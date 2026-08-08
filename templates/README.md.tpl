@@ -1,6 +1,6 @@
 # Hi, I'm Amir Mohammad
 
-Mid-level Full-stack developer. See my linkedin account for more info.
+Full-stack developer. See my linkedin account for more info.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -10,36 +10,6 @@ Mid-level Full-stack developer. See my linkedin account for more info.
 - [Lorem-ipsum.ir launched!](https://www.njfamirm.ir/en/blog/lorem-ipsum-ir-launched/)
 - [Creating a Searchable Reading List with Strapi CMS Custom API](https://www.njfamirm.ir/en/blog/strapi-custom-api/)
 <!-- BLOG-POST-LIST:END -->
-
-### Current Projects
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-### Latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-### Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-### Recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-### Recent Gists
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-### Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
 
 ### Socials
 
